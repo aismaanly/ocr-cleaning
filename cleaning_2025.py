@@ -53,7 +53,6 @@ def save_ayat(results, buffer, pasal, ayat, chunk_index):
         "page_content": text
     })
 
-
 # =========================================================
 # PARSER
 # =========================================================
@@ -109,7 +108,7 @@ def parse_document(text: str) -> list[dict]:
         line = re.sub(r"^\((S|H)?(\d+)\)", r"(\2)", line)
         line = re.sub(r"^\(H\)", "(4)", line)
 
-        # PASAL (ANGKA ARAB SAJA)
+        # PASAL (ANGKA ROMAWI SAJA)
         pasal_match = re.match(r"^Pasal\s+(\d+)\s*$", line, re.I)
         if pasal_match:
             if buffer and current_ayat is not None:

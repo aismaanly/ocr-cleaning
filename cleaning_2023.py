@@ -43,6 +43,7 @@ def roman_to_int(roman: str) -> int:
 
 def save_ayat(results, buffer, bab, pasal, ayat, chunk_index, kategori):
     text = " ".join(buffer).strip()
+    
     if not text:
         return
 
@@ -128,7 +129,7 @@ def parse_document(text: str) -> list[dict]:
             sudah_disimpan = False
             continue
 
-        # PASAL 1: DEFINISI
+        # KHUSUS PASAL 1 DEFINISI
         if current_pasal == 1 and re.match(
             r"Dalam\s+Peraturan\s+Rektor\s+ini\s+yang\s+dimaksud\s+dengan\s*:",
             line,
@@ -156,7 +157,7 @@ def parse_document(text: str) -> list[dict]:
             num = int(ayat_match.group(1))
             content = ayat_match.group(2).strip()
 
-            # FIX OCR LONCAT
+            # JIKA PENOMORAN AYAT OCR LONCAT
             if current_ayat is None and num > 1:
                 num = 1
 
