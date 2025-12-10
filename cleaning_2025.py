@@ -29,7 +29,6 @@ def remove_pembukaan(text: str) -> str:
             return "\n".join(lines[i:])
     return text
 
-
 # =========================================================
 # UTIL
 # =========================================================
@@ -109,7 +108,6 @@ def parse_document(text: str) -> list[dict]:
         # NORMALISASI OCR PENOMORAN AYAT
         line = re.sub(r"^\((S|H)?(\d+)\)", r"(\2)", line)
         line = re.sub(r"^\(H\)", "(4)", line)
-        line = re.sub(r"^KM\)", "(4)", line)
 
         # PASAL (ANGKA ARAB SAJA)
         pasal_match = re.match(r"^Pasal\s+(\d+)\s*$", line, re.I)

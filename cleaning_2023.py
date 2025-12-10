@@ -21,7 +21,7 @@ def clean_text(text: str) -> str:
     text = re.sub(r"^\(\s*[lI]\s*\)", "(1)", text, flags=re.MULTILINE)
     return text.strip()
 
-# REMOVE PEMBUKA (LANGSUNG BACA BAB)
+# REMOVE PEMBUKA (DOKUMEN AWAL → LANGSUNG BAB)
 def remove_pembukaan(text: str) -> str:
     lines = text.split("\n")
     for i, line in enumerate(lines):
@@ -85,18 +85,15 @@ def parse_document(text: str) -> list[dict]:
         if not line:
             continue
 
-        # STOPPER
+        # STOPPER FOOTER
         if re.match(r"^Ditetapkan\s+di", line, re.I):
-            if buffer and current_ayat is not None and not sudah_disimpan:
-                save_ayat(
-                    results,
-                    buffer,
-                    current_bab,
-                    current_pasal,
-                    current_ayat,
-                    chunk_index,
-                    kategori,
-                )
+            is_footer = True
+            if buffer:
+                if not re.search(r"[.;:]$", buffer[-1].strip()):
+                    is_footer = False
+
+            if is_footer and buffer and current_ayat is not None and not sudah_disimpan:
+                save_ayat(results, buffer, current_bab, current_pasal, current_ayat, chunk_index, kategori)
                 sudah_disimpan = True
             break
 
