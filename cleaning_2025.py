@@ -70,29 +70,63 @@ def parse_document(text):
         if not line:
             continue
 
-        # ===================== STOPPER KHUSUS PENUTUP =====================
+        # ===================== STOPPER 1: DITETAPKAN =====================
         if re.match(r"^Ditetapkan\s+di", line, re.I):
+            is_real_footer = True
+            if buffer:
+                last_text = buffer[-1].strip()
+                if not re.search(r"[\.;]$", last_text):
+                    is_real_footer = False 
+            
+            if is_real_footer:
+                if buffer and current_ayat is not None:
+                    save_ayat(results, buffer, current_pasal, current_ayat, chunk_index, "")
+                buffer = []
+                current_ayat = None
+                break 
+
+        # ===================== STOPPER 2: PASAL ROMAWI (Pasal II) =====================
+        # Jika ketemu Pasal dengan angka Romawi (I, II, V, X...), ANGGAP DOKUMEN SELESAI.
+        if re.match(r"^Pasal\s+[IVX]+\s*$", line, re.I):
+            # Simpan dulu ayat terakhir yang sedang aktif (Ayat 8)
             if buffer and current_ayat is not None:
                 save_ayat(results, buffer, current_pasal, current_ayat, chunk_index, "")
+            
+            # Matikan proses (Break loop), jangan simpan Pasal II ke bawah.
+            buffer = []
+            current_ayat = None
             break
 
-        # NORMALISASI OCR AYAT
+        # ===================== STOPPER 3: TRANSISI REVISI =====================
+        if re.match(r"^\d+\.\s+Ketentuan", line, re.I):
+            if buffer and current_ayat is not None:
+                save_ayat(results, buffer, current_pasal, current_ayat, chunk_index, "")
+            buffer = []
+            current_ayat = None 
+            current_pasal = None
+            continue
+
+        # ===================== NORMALISASI OCR AYAT =====================
         line = re.sub(r"^\(S(\d+)\)", r"(\1)", line)
         line = re.sub(r"^KM\)", "(4)", line)
+        line = re.sub(r"^\(H\)", "(4)", line)
 
-        # DETEKSI PASAL
+        # ===================== DETEKSI PASAL (Angka Arab Saja) =====================
+        # Kita kembalikan ke \d+ saja agar Pasal Romawi tidak masuk sini
         pasal_match = re.match(r"^Pasal\s+(\d+)\s*$", line, re.I)
+        
         if pasal_match:
             if buffer and current_ayat is not None:
                 save_ayat(results, buffer, current_pasal, current_ayat, chunk_index, "")
                 buffer = []
                 chunk_index += 1
+            
             current_pasal = int(pasal_match.group(1))
             current_ayat = None
             buffer = []
             continue
 
-        # DETEKSI AYAT
+        # DETEKSI AYAT PERTAMA
         ayat_match = re.match(REGEX_AYAT, line)
         if ayat_match and current_ayat is None:
             current_ayat = int(ayat_match.group(1))
@@ -107,14 +141,24 @@ def parse_document(text):
                 content_text = ayat_match.group(2).strip()
                 
                 is_real_new_ayat = True
+                
+                # Cek 1: Huruf kecil
                 if content_text and content_text[0].islower():
                     is_real_new_ayat = False
+                
+                # Cek 2: Kata hubung
                 if buffer:
                     last_line_clean = buffer[-1].strip().lower()
                     if last_line_clean.endswith("ayat") or last_line_clean.endswith("huruf") or last_line_clean.endswith("angka"):
                         is_real_new_ayat = False
+                
+                # Cek 3: Mundur
                 if potential_num <= current_ayat:
                     is_real_new_ayat = False
+
+                # Cek 4: Gap
+                if potential_num > current_ayat + 1:
+                    continue 
 
                 if is_real_new_ayat:
                     save_ayat(results, buffer, current_pasal, current_ayat, chunk_index, "")
