@@ -8,8 +8,8 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 POPPLER_PATH = r"C:\poppler\Library\bin"
 
 
-INPUT_PDF_PATH = "data_pdf/Peraturan_Akademik_2025.pdf"
-OUTPUT_OCR_TXT = "output_ocr/Peraturan_Akademik_2025.txt"
+INPUT_FILE = "data_pdf/Peraturan_Akademik_2025.pdf"
+OUTPUT_FILE = "output_ocr/Peraturan_Akademik_2025.txt"
 
 # =============================
 # PROSES OCR
@@ -18,14 +18,14 @@ OUTPUT_OCR_TXT = "output_ocr/Peraturan_Akademik_2025.txt"
 print("📄 Mulai konversi PDF ke gambar ...")
 
 pages = convert_from_path(
-    INPUT_PDF_PATH,
+    INPUT_FILE,
     dpi=300,
     poppler_path=POPPLER_PATH
 )
 
 print(f"✅ Total halaman terdeteksi: {len(pages)}\n")
 
-with open(OUTPUT_OCR_TXT, "w", encoding="utf-8") as f:
+with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
 
     for i, page in enumerate(pages, start=1):
         print(f"🔎 OCR halaman {i} ...")
@@ -41,4 +41,4 @@ with open(OUTPUT_OCR_TXT, "w", encoding="utf-8") as f:
         except Exception as e:
             print(f"❌ Gagal OCR halaman {i}: {e}")
 
-print("\n✅ OCR selesai. Hasil disimpan di:", OUTPUT_OCR_TXT)
+print("\n✅ OCR selesai. Hasil disimpan di:", OUTPUT_FILE)
