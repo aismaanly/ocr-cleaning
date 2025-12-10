@@ -1,0 +1,5 @@
+docling
+pytesseract
+pdfplumber
+pillow
+pdf2image
