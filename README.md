@@ -1,12 +1,12 @@
-# 📘 Pipeline Cleaning & Parsing Peraturan Akademik (2023 & 2025)
+# 📘 Pipeline Cleaning & Parsing Peraturan Akademik
 
-Dokumen ini menjelaskan alur kerja, tujuan, struktur folder, serta catatan penting dalam proses **OCR → Cleaning → Normalisasi → Parsing → JSON Chunking** untuk dokumen *Peraturan Akademik Universitas*.
+Repository ini menjelaskan alur kerja, tujuan, struktur folder, serta catatan penting dalam proses **OCR → Cleaning → Normalisasi → Parsing → JSON Chunking** untuk dokumen *Peraturan Akademik Universitas*.
 
 ---
 
-## 🚀 Tujuan Proyek
+## 🚀 Tujuan
 
-Proyek ini bertujuan untuk:
+Repository ini bertujuan untuk:
 
 * Membersihkan teks hasil OCR agar konsisten dengan format hukum resmi.
 * Memperbaiki struktur **bab**, **pasal**, **ayat**, dan **cabang huruf**.
