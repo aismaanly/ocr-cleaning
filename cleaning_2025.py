@@ -15,10 +15,10 @@ STATUS = "revisi"
 # CLEANING DASAR
 # =========================================================
 def clean_text(text: str) -> str:
-    text = re.sub(r"[^\S\r\n]+", " ", text)                                 # spasi ganda
-    text = text.replace("—", "-")                                           # em-dash
-    text = re.sub(r"\n{3,}", "\n\n", text)                                  # enter beruntun ekstrem
-    text = re.sub(r"^\(\s*[lI]\s*\)","(1)", text, flags=re.MULTILINE)       # OCR error (l) / (I) → (1) hanya di awal baris
+    text = re.sub(r"[^\S\r\n]+", " ", text)
+    text = text.replace("—", "-")
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    text = re.sub(r"^\(\s*[lI]\s*\)","(1)", text, flags=re.MULTILINE)
     return text.strip()
 
 # REMOVE PEMBUKA (DOKUMEN REVISI → LANGSUNG PASAL)
@@ -88,14 +88,14 @@ def parse_document(text: str) -> list[dict]:
                 sudah_disimpan = True
                 break
 
-        # STOPPER 2: PASAL ROMAWI (KETENTUAN AKHIR)
+        # STOPPER 2: PASAL ROMAWI
         if re.match(r"^Pasal\s+[IVX]+\s*$", line, re.I) and current_pasal is not None:
             if buffer and current_ayat is not None:
                 save_ayat(results, buffer, current_pasal, current_ayat, chunk_index)
             sudah_disimpan = True
             break
 
-        # STOPPER 3: TRANSISI REVISI
+        # STOPPER 3: REVISI TRANSISI
         if re.match(r"^\d+\.\s+Ketentuan", line, re.I):
             if buffer and current_ayat is not None:
                 save_ayat(results, buffer, current_pasal, current_ayat, chunk_index)
@@ -104,11 +104,11 @@ def parse_document(text: str) -> list[dict]:
             current_pasal = None
             continue
 
-        # NORMALISASI OCR PENOMORAN AYAT
+        # NORMALISASI OCR
         line = re.sub(r"^\((S|H)?(\d+)\)", r"(\2)", line)
         line = re.sub(r"^\(H\)", "(4)", line)
 
-        # PASAL (ANGKA ROMAWI SAJA)
+        # PASAL BARU
         pasal_match = re.match(r"^Pasal\s+(\d+)\s*$", line, re.I)
         if pasal_match:
             if buffer and current_ayat is not None:
@@ -120,10 +120,13 @@ def parse_document(text: str) -> list[dict]:
             current_ayat = None
             continue
 
-        # AYAT PERTAMA
+        # AYAT PERTAMA DALAM PASAL BARU
         ayat_match = re.match(REGEX_AYAT, line)
         if ayat_match and current_ayat is None:
             current_ayat = int(ayat_match.group(1))
+
+            chunk_index += 1
+
             buffer.append(ayat_match.group(2).strip())
             continue
 
@@ -137,19 +140,15 @@ def parse_document(text: str) -> list[dict]:
 
                 is_new_ayat = True
 
-                # Heuristik 1: huruf kecil
                 if content and content[0].islower():
                     is_new_ayat = False
 
-                # Heuristik 2: konteks hukum
                 if buffer and buffer[-1].lower().endswith(("ayat", "huruf", "angka")):
                     is_new_ayat = False
 
-                # Heuristik 3: nomor mundur / sama
                 if potential_num <= current_ayat:
                     is_new_ayat = False
 
-                # Heuristik 4: toleransi lompat max +2
                 if potential_num > current_ayat + 2:
                     continue 
 

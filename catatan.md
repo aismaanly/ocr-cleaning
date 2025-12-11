@@ -12,7 +12,7 @@
 - pasal 60 total ada 9 ayat
 
 
-## Notes total ayat pada tiap pasal
+### Notes total ayat setiap pasal pada pertor 2023
 - Pasal 1: 68 Ayat 
 - Pasal 2: 3 Ayat 
 - Pasal 3: 6 Ayat 
@@ -74,3 +74,18 @@
 - Pasal 59: 3 Ayat 
 - Pasal 60: 9 Ayat 
 - Pasal 61: 2 Ayat
+
+### Notes total ayat setiap pasal pada pertor 2025
+Pasal 3: 6 Ayat 
+Pasal 4: 5 Ayat 
+Pasal 9: 2 Ayat 
+Pasal 12: 5 Ayat 
+Pasal 17: 4 Ayat 
+Pasal 21: 6 Ayat 
+Pasal 28: 16 Ayat 
+Pasal 30: 15 Ayat 
+Pasal 33: 8 Ayat 
+Pasal 47: 10 Ayat 
+Pasal 48: 6 Ayat 
+Pasal 52: 10 Ayat 
+Pasal 53: 8 Ayat

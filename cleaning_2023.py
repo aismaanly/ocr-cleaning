@@ -82,9 +82,6 @@ def parse_document(text: str) -> list[dict]:
 
     collecting_kategori = False
 
-    # ----------------------------------------------
-    # NEW: MODE SUB-POIN (f → 1, 2, 3, 4 tidak boleh bikin ayat)
-    # ----------------------------------------------
     inside_subpoin = False
 
     for raw_line in lines:
@@ -194,7 +191,7 @@ def parse_document(text: str) -> list[dict]:
                 buffer = [isi]
                 continue
 
-        # AYAT (FORMAT (1))
+        # AYAT DENGAN FORMAT (1)
         ayat_match = re.match(REGEX_AYAT, line)
         if ayat_match:
             num = int(ayat_match.group(1))
@@ -232,23 +229,15 @@ def parse_document(text: str) -> list[dict]:
         if huruf_match:
             buffer.append(line)
 
-            # ----------------------------------------------
-            # KPASAL 34)
-            # ----------------------------------------------
             inside_subpoin = True
             continue
 
-        # ============================================
-        # FIX UTAMA PASAL 34: SUBPOIN 1, 2, 3, 4
-        # ============================================
+        # KHUSUS PASAL SUBPOIN 1, 2, 3, 4 Jika sedang dalam subpoin → JANGAN bikin ayat baru
         ayat_dot_match = re.match(REGEX_AYAT_DOT, line)
         if ayat_dot_match:
             num = int(ayat_dot_match.group(1))
             content = ayat_dot_match.group(2).strip()
 
-            # ------------------------------------------
-            # Jika sedang dalam subpoin → JANGAN bikin ayat baru
-            # ------------------------------------------
             if inside_subpoin:
                 buffer.append(line)
                 continue
