@@ -2,8 +2,6 @@
 
 Dokumen ini menjelaskan alur kerja, tujuan, struktur folder, serta catatan penting dalam proses **OCR → Cleaning → Normalisasi → Parsing → JSON Chunking** untuk dokumen *Peraturan Akademik Universitas*.
 
-Tujuannya adalah menyediakan referensi teknis yang jelas dan rapi untuk pengembangan serta debugging ke depannya.
-
 ---
 
 ## 🚀 Tujuan Proyek
@@ -54,15 +52,33 @@ Setiap ayat diubah menjadi objek JSON seperti:
 {
   "metadata": {
     "sumber": "Peraturan_Akademik_2023",
-    "bab": 12,
-    "pasal": 34,
+    "bab": 1,
+    "pasal": 1,
     "ayat": 1,
     "status": "berlaku",
-    "chunk_index": 256
+    "chunk_index": 1
   },
   "page_content": "isi ayat"
 }
 ```
+
+---
+
+## 📌 Permasalahan Cleaning Pasal pada Pertor 2023
+
+Berikut daftar isu spesifik yang ditemukan pada masing-masing pasal dalam dokumen 2023:
+
+* **Pasal 1** → Sebelum ayat pertama terdapat kalimat; terdapat ayat koma ("ayat 37,39").
+* **Pasal 2** → Penomoran ayat tidak menggunakan format *(1)*.
+* **Pasal 12** → Ayat 3 salah terbaca sebagai ayat 2, membuat parser menganggap sebagai ayat baru.
+* **Pasal 17** → Ayat bercabang dua kali.
+* **Pasal 28** → Terdapat tabel nilai yang mengganggu struktur ayat.
+* **Pasal 34** → Secara formal hanya terdiri dari **1 ayat tanpa penomoran**.
+* **Pasal 44** → Memuat tabel nilai serta typo huruf "8".
+* **Pasal 47** → Ayat 3 salah terbaca sebagai ayat 2.
+* **Pasal 50** → Cabang huruf tidak terbaca jelas oleh OCR.
+* **Pasal 59** → Terdapat cabang huruf.
+* **Pasal 60** → Ayat 4 salah terbaca sebagai ayat 3.
 
 ---
 
