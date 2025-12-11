@@ -182,4 +182,4 @@ parsed = parse_document(cleaned)
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     json.dump(parsed, f, indent=2, ensure_ascii=False)
 
-print("✅ Cleaning selesai. Output tersimpan di: ", OUTPUT_FILE)
+print("✅ Cleaning selesai! Output tersimpan di: ", OUTPUT_FILE)

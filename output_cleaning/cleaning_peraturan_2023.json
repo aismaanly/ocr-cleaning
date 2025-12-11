@@ -465,7 +465,20 @@
       "chunk_index": 36,
       "kategori": "ketentuan umum"
     },
-    "page_content": "Indeks Prestasi Kumulatif yang selanjutnya disingkat IPK adalah ukuran kemampuan mahasiswa sampai pada periode waktu tertentu yang diperoleh mahasiswa, 37, Kartu Hasil Studi yang selanjutnya disingkat KHS adalah kartu yang memuat nilai-nilai mata kuliah, indeks prestasi pada semester berjalan dan perolehan seluruh SKS yang telah dikumpulkan serta IPK,"
+    "page_content": "Indeks Prestasi Kumulatif yang selanjutnya disingkat IPK adalah ukuran kemampuan mahasiswa sampai pada periode waktu tertentu yang diperoleh mahasiswa,"
+  },
+  {
+    "metadata": {
+      "sumber": "Peraturan_Akademik_2023",
+      "bab": 1,
+      "pasal": 1,
+      "ayat": 37,
+      "tahun_terbit": 2023,
+      "status": "berlaku",
+      "chunk_index": 37,
+      "kategori": "ketentuan umum"
+    },
+    "page_content": "Kartu Hasil Studi yang selanjutnya disingkat KHS adalah kartu yang memuat nilai-nilai mata kuliah, indeks prestasi pada semester berjalan dan perolehan seluruh SKS yang telah dikumpulkan serta IPK,"
   },
   {
     "metadata": {
@@ -475,10 +488,23 @@
       "ayat": 38,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 37,
+      "chunk_index": 38,
       "kategori": "ketentuan umum"
     },
-    "page_content": "Kuliah Kerja Nyata yang selanjutnya disingkat KKN adalah kegiatan akademik pada program pendidikan sarjana yang bersifat kurikuler dan interdisipliner dengan tujuan untuk mengidentifikasi dan membantu memecahkan permasalahan masyarakat dengan mengutamakan pemberdayaan masyarakat, 39, Tugas akhir adalah suatu bentuk karya ilmiah berupa skripsi maupun bentuk lain sesuai dengan ketentuan yang berlaku, yang menjadi salah satu syarat kelulusan seorang mahasiswa yang ditetapkan berdasarkan kurikulum program studi,"
+    "page_content": "Kuliah Kerja Nyata yang selanjutnya disingkat KKN adalah kegiatan akademik pada program pendidikan sarjana yang bersifat kurikuler dan interdisipliner dengan tujuan untuk mengidentifikasi dan membantu memecahkan permasalahan masyarakat dengan mengutamakan pemberdayaan masyarakat,"
+  },
+  {
+    "metadata": {
+      "sumber": "Peraturan_Akademik_2023",
+      "bab": 1,
+      "pasal": 1,
+      "ayat": 39,
+      "tahun_terbit": 2023,
+      "status": "berlaku",
+      "chunk_index": 39,
+      "kategori": "ketentuan umum"
+    },
+    "page_content": "Tugas akhir adalah suatu bentuk karya ilmiah berupa skripsi maupun bentuk lain sesuai dengan ketentuan yang berlaku, yang menjadi salah satu syarat kelulusan seorang mahasiswa yang ditetapkan berdasarkan kurikulum program studi,"
   },
   {
     "metadata": {
@@ -488,7 +514,7 @@
       "ayat": 40,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 38,
+      "chunk_index": 40,
       "kategori": "ketentuan umum"
     },
     "page_content": "Prototype adalah sebagai tahapan untuk mentransformasi dari sebuah ide menjadi bentuk yang lebih berwujud."
@@ -501,7 +527,7 @@
       "ayat": 41,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 39,
+      "chunk_index": 41,
       "kategori": "ketentuan umum"
     },
     "page_content": "Yudisium adalah penetapan kelulusan seorang mahasiswa yang telah memenuhi persyaratan kurikulum program studi di tingkat fakultas,"
@@ -514,7 +540,7 @@
       "ayat": 42,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 40,
+      "chunk_index": 42,
       "kategori": "ketentuan umum"
     },
     "page_content": "Upacara wisuda adalah bentuk upacara akademik yang diselenggarakan dalam forum rapat senat terbuka universitas guna melantik lulusan,"
@@ -527,7 +553,7 @@
       "ayat": 43,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 41,
+      "chunk_index": 43,
       "kategori": "ketentuan umum"
     },
     "page_content": "Ijazah adalah dokumen pengakuan prestasi belajar dan/atau penyelesaian suatu jenjang pendidikan tinggi setelah lulus ujian yang diselenggarakan oleh perguruan tinggi,"
@@ -540,7 +566,7 @@
       "ayat": 44,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 42,
+      "chunk_index": 44,
       "kategori": "ketentuan umum"
     },
     "page_content": "Sertifikat kompetensi adalah dokumen pengakuan kompetensi atas prestasi lulusan yang sesuai dengan keahlian dalam cabang ilmunya dan/atau memiliki prestasi di luar program studinya:"
@@ -553,7 +579,7 @@
       "ayat": 45,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 43,
+      "chunk_index": 45,
       "kategori": "ketentuan umum"
     },
     "page_content": "Surat Keterangan Pendamping Ijazah yang selanjutnya disingkat SKPI adalah dokumen yang memuat informasi tentang pencapaian akademik atau kualifikasi dari lulusan pendidikan tinggi bergelar,"
@@ -566,7 +592,7 @@
       "ayat": 46,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 44,
+      "chunk_index": 46,
       "kategori": "ketentuan umum"
     },
     "page_content": "Surat keterangan pengganti ijazah, sertifikat kompetensi, dan sertifikat profesi adalah dokumen pernyataan yang dihargai sama dengan ijazah, sertifikat kompetensi, dan sertifikat profesi."
@@ -579,7 +605,7 @@
       "ayat": 47,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 45,
+      "chunk_index": 47,
       "kategori": "ketentuan umum"
     },
     "page_content": "Aktif adalah mahasiswa melakukan registrasi administratif dan registrasi akademik serta aktif melakukan kegiatan perkuliahan,"
@@ -592,10 +618,23 @@
       "ayat": 48,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 46,
+      "chunk_index": 48,
       "kategori": "ketentuan umum"
     },
-    "page_content": "Tidak aktif adalah mahasiswa tidak melakukan registrasi administratif dan/ atau registrasi akademik, 49, Cuti akademik adalah tidak melakukan kegiatan akademik selama 1 (satu) atau selama-lamanya 2 (dua) semester yang tidak berturut-turut dengan persetujuan Dekan karena keinginan mahasiswa,"
+    "page_content": "Tidak aktif adalah mahasiswa tidak melakukan registrasi administratif dan/ atau registrasi akademik,"
+  },
+  {
+    "metadata": {
+      "sumber": "Peraturan_Akademik_2023",
+      "bab": 1,
+      "pasal": 1,
+      "ayat": 49,
+      "tahun_terbit": 2023,
+      "status": "berlaku",
+      "chunk_index": 49,
+      "kategori": "ketentuan umum"
+    },
+    "page_content": "Cuti akademik adalah tidak melakukan kegiatan akademik selama 1 (satu) atau selama-lamanya 2 (dua) semester yang tidak berturut-turut dengan persetujuan Dekan karena keinginan mahasiswa,"
   },
   {
     "metadata": {
@@ -605,7 +644,7 @@
       "ayat": 50,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 47,
+      "chunk_index": 50,
       "kategori": "ketentuan umum"
     },
     "page_content": "Mendapatkan sanksi adalah akibat dari pelanggaran akademik sehingga mahasiswa tidak diizinkan mengikuti kegiatan akademik selama satu atau beberapa semester berdasarkan rekomendasi dari tim penyelesaian pelanggaran akademik dan ditetapkan dengan Keputusan Rektor UPN “Veteran\" Jawa Timur,"
@@ -618,7 +657,7 @@
       "ayat": 51,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 48,
+      "chunk_index": 51,
       "kategori": "ketentuan umum"
     },
     "page_content": "Pindah studi (transfer) adalah perubahan status mahasiswa dari satu program studi ke program studi lain dalam UPN “Veteran” Jawa Timur, atau keluar dari UPN “Veteran” Jawa Timur maupun pindahan dari PTN dari dalam maupun luar negeri ke UPN “Veteran” Jawa Timur,"
@@ -631,7 +670,7 @@
       "ayat": 52,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 49,
+      "chunk_index": 52,
       "kategori": "ketentuan umum"
     },
     "page_content": "Undur diri, adalah hak setiap mahasiswa untuk melepaskan statusnya sebagai mahasiswa UPN “Veteran” Jawa Timur yang ditetapkan dengan Keputusan Rektor UPN “Veteran” Jawa Timur setelah yang bersangkutan mengajukan permohonan secara tertulis kepada Dekan,"
@@ -644,7 +683,7 @@
       "ayat": 53,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 50,
+      "chunk_index": 53,
       "kategori": "ketentuan umum"
     },
     "page_content": "Putus studi/ Drop Out (DO) adalah suatu kondisi seorang peserta didik dimana yang bersangkutan tidak mampu memenuhi persyaratan minimal untuk melanjutkan studi, baik karena alasan akademik dan/atau non-akademik,:"
@@ -657,7 +696,7 @@
       "ayat": 54,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 51,
+      "chunk_index": 54,
       "kategori": "ketentuan umum"
     },
     "page_content": "Meninggal dunia adalah tidak melanjutkan studi karena meninggal dunia, berdasarkan surat keterangan/ pemberitahuan dari Dekan,"
@@ -670,7 +709,7 @@
       "ayat": 55,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 52,
+      "chunk_index": 55,
       "kategori": "ketentuan umum"
     },
     "page_content": "Lulus adalah telah memenuhi semua persyaratan akademik dan administratif untuk ditetapkan sebagai sarjana,"
@@ -683,7 +722,7 @@
       "ayat": 56,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 53,
+      "chunk_index": 56,
       "kategori": "ketentuan umum"
     },
     "page_content": "Penyontekan dan/ atau perbuatan curang: adalah perbuatan dengan sengaja atau tidak, menggunakan atau mencoba menggunakan bahan-bahan informasi atau alat bantu studi lainnya tanpa izin dari dosen yang bersangkutan dalam"
@@ -696,7 +735,7 @@
       "ayat": 57,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 54,
+      "chunk_index": 57,
       "kategori": "ketentuan umum"
     },
     "page_content": "Perbantuan atau percobaan perbantuan pelanggaran akademik ringan adalah perbuatan dengan sengaja atau tidak, membantu atau mencoba membantu menyediakan sarana atau prasarana yang dapat menyebabkan terjadinya pelanggaran akademik ringan."
@@ -709,7 +748,7 @@
       "ayat": 58,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 55,
+      "chunk_index": 58,
       "kategori": "ketentuan umum"
     },
     "page_content": "Penyertaan dalam pelanggaran akademik ringan adalah perbuatan dengan sengaja atau tidak, bekerja sama atau ikut serta melakukan atau menyuruh melakukan perbuatan-perbuatan yang menyebabkan terjadinya pelanggaran akademik ringan."
@@ -722,7 +761,7 @@
       "ayat": 59,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 56,
+      "chunk_index": 59,
       "kategori": "ketentuan umum"
     },
     "page_content": "Perjokian adalah perbuatan dengan sengaja atau tidak, menggantikan kedudukan atau melakukan tugas atau kegiatan untuk kepentingan orang lain, atas permintaan orang lain atau kehendak sendiri, dalam kegiatan akademik,"
@@ -735,7 +774,7 @@
       "ayat": 60,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 57,
+      "chunk_index": 60,
       "kategori": "ketentuan umum"
     },
     "page_content": "Perbantuan atau percobaan perbantuan pelanggaran akademik sedang adalah perbuatan dengan sengaja atau tidak, membantu atau mencoba membantu menyediakan sarana atau prasarana yang dapat menyebabkan terjadinya pelanggaran akademik sedang:"
@@ -748,7 +787,7 @@
       "ayat": 61,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 58,
+      "chunk_index": 61,
       "kategori": "ketentuan umum"
     },
     "page_content": "Penyertaan dalam pelanggaran akademik sedang adalah perbuatan dengan sengaja atau tidak, bekerjasama atau ikut serta melakukan atau menyuruh melakukan perbuatan- perbuatan yang menyebabkan terjadinya pelanggaran akademik sedang."
@@ -761,7 +800,7 @@
       "ayat": 62,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 59,
+      "chunk_index": 62,
       "kategori": "ketentuan umum"
     },
     "page_content": "Plagiat adalah perbuatan secara sengaja atau tidak sengaja dalam memperoleh atau mencoba memperoleh kredit atau nilai untuk suatu karya ilmiah, dengan mengutip sebagian atau seluruh karya dan/atau karya ilmiah pihak lain yang diakui sebagai karya ilmiahnya, tanpa menyatakan sumber secara tepat dan memadai,"
@@ -774,7 +813,7 @@
       "ayat": 63,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 60,
+      "chunk_index": 63,
       "kategori": "ketentuan umum"
     },
     "page_content": "Pemalsuan adalah perbuatan secara sengaja atau tidak sengaja, tanpa izin yang berwenang mengganti atau mengubah/ memalsukan simbol (cap), kop surat dan/ atau instrumen pada surat menyurat dalam administrasi akademik, nama, tanda tangan, nilai atau transkrip akademik, ijazah, kartu tanda mahasiswa, tugas-tugas, laporan praktikum, keterangan, atau laporan dalam lingkup kegiatan akademik,"
@@ -787,7 +826,7 @@
       "ayat": 64,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 61,
+      "chunk_index": 64,
       "kategori": "ketentuan umum"
     },
     "page_content": "Gratifikasi dan penyuapan adalah perbuatan secara sengaja atau tidak sengaja, mempengaruhi atau mencoba mempengaruhi orang lain dengan cara membujuk, memberi hadiah atau janji dengan maksud untuk menggerakkan agar dosen atau tenaga kependidikan melakukan atau tidak melakukan sesuatu dalam jabatannya, yang bertentangan dengan kewajibannya,"
@@ -800,7 +839,7 @@
       "ayat": 65,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 62,
+      "chunk_index": 65,
       "kategori": "ketentuan umum"
     },
     "page_content": "Penghinaan adalah perbuatan secara sengaja atau tidak sengaja menyampaikan perkataan, tulisan atau dalam bentuk apapun yang pada pokoknya merendahkan martabat kedudukan sesama mahasiswa, dosen, staf administrasi maupun pejabat di lingkungan UPN “Veteran” Jawa Timur,"
@@ -813,7 +852,7 @@
       "ayat": 66,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 63,
+      "chunk_index": 66,
       "kategori": "ketentuan umum"
     },
     "page_content": "Pelanggaran administrasi dan tata tertib berat adalah perbuatan secara sengaja atau tidak sengaja, baik sendiri maupun kerjasama melakukan perbuatan yang bertentangan dengan ketentuan tata tertib dan administrasi yang dikeluarkan Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi Republik Indonesia,"
@@ -826,7 +865,7 @@
       "ayat": 67,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 64,
+      "chunk_index": 67,
       "kategori": "ketentuan umum"
     },
     "page_content": "Perbantuan atau percobaan perbantuan pelanggaran akademik berat adalah perbuatan secara sengaja atau tidak sengaja, membantu atau mencoba membantu menyediakan sarana atau prasarana yang dapat menyebabkan terjadinya pelanggaran akademik berat,"
@@ -839,7 +878,7 @@
       "ayat": 68,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 65,
+      "chunk_index": 68,
       "kategori": "ketentuan umum"
     },
     "page_content": "Penyertaan dalam pelanggaran akademik berat adalah perbuatan secara sengaja atau tidak sengaja, bekerjasama atau ikut serta melakukan atau menyuruh melakukan perbuatan-perbuatan - yang menyebabkan terjadinya pelanggaran akademik berat."
@@ -852,10 +891,36 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 66,
+      "chunk_index": 69,
       "kategori": "tujuan pendidikan program sarjana dan sarjana terapan"
     },
-    "page_content": "1. Program sarjana dan sarjana terapan bertujuan menyiapkan mahasiswa menjadi intelektual, dan ilmuwan yang beretika, berbudaya, berkarakter bela negara, kompeten, berdaya saing global, dan mampu memasuki dan/atau menciptakan lapangan kerja serta mampu mengembangkan diri menjadi profesional, 2. Program sarjana dan sarjana terapan diarahkan untuk menghasilkan lulusan dengan kompetensi utama sesuai dengan profil program studi masing-masing yang disetujui oleh senat fakultas, 3. Program sarjana dan sarjana terapan diarahkan untuk menghasilkan lulusan dengan kompetensi sesuai dengan jenjang 6 (enam) dalam KKNI."
+    "page_content": "Program sarjana dan sarjana terapan bertujuan menyiapkan mahasiswa menjadi intelektual, dan ilmuwan yang beretika, berbudaya, berkarakter bela negara, kompeten, berdaya saing global, dan mampu memasuki dan/atau menciptakan lapangan kerja serta mampu mengembangkan diri menjadi profesional,"
+  },
+  {
+    "metadata": {
+      "sumber": "Peraturan_Akademik_2023",
+      "bab": 2,
+      "pasal": 2,
+      "ayat": 2,
+      "tahun_terbit": 2023,
+      "status": "berlaku",
+      "chunk_index": 70,
+      "kategori": "tujuan pendidikan program sarjana dan sarjana terapan"
+    },
+    "page_content": "Program sarjana dan sarjana terapan diarahkan untuk menghasilkan lulusan dengan kompetensi utama sesuai dengan profil program studi masing-masing yang disetujui oleh senat fakultas,"
+  },
+  {
+    "metadata": {
+      "sumber": "Peraturan_Akademik_2023",
+      "bab": 2,
+      "pasal": 2,
+      "ayat": 3,
+      "tahun_terbit": 2023,
+      "status": "berlaku",
+      "chunk_index": 71,
+      "kategori": "tujuan pendidikan program sarjana dan sarjana terapan"
+    },
+    "page_content": "Program sarjana dan sarjana terapan diarahkan untuk menghasilkan lulusan dengan kompetensi sesuai dengan jenjang 6 (enam) dalam KKNI."
   },
   {
     "metadata": {
@@ -865,7 +930,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 67,
+      "chunk_index": 72,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Program sarjana dan sarjana terapan diselenggarakan oleh fakultas dalam bentuk program studi yang penyelenggaraannya harus: a. mempunyai izin penyelenggaraan atau memiliki akreditasi yang masih berlaku, b. memenuhi baku mutu menurut sistem penjaminan mutu akademik, c. mempunyai paling sedikit 5 (lima) dosen tetap dengan kualifikasi sesuai dengan peraturan yang berlaku."
@@ -878,7 +943,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 68,
+      "chunk_index": 73,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Program studi baru harus terakreditasi sesuai dengan ketentuan yang berlaku,"
@@ -891,7 +956,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 69,
+      "chunk_index": 74,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Akreditasi program studi yang dimaksud pada ayat (2) adalah: a. Terakreditasi BAN-PT dengan status A, B, atau C, b. Terakreditasi BAN-PT dengan status Unggul, Baik Sekali, Baik, c. Terakreditasi BAN-PT dengan status terakreditasi sementara, terakreditasi dan unggul, d. Terakreditasi Internasional oleh lembaga akreditasi internasional yang diakui Kemendikbudristek."
@@ -904,7 +969,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 70,
+      "chunk_index": 75,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Program sarjana dan sarjana terapan dapat diselenggarakan dalam bentuk kelas reguler, kelas internasional, kelas kerjasama, dan PSDKU,"
@@ -917,7 +982,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 71,
+      "chunk_index": 76,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Program sarjana dan sarjana terapan kelas internasional hanya dapat diselenggarakan pada program studi yang menyelenggarakan program sarjana kelas reguler terakreditasi/ unggul/ terakreditasi internasional,"
@@ -930,7 +995,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 72,
+      "chunk_index": 77,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Pembukaan, penutupan, penggabungan, dan penggantian nama program Studi mengikuti ketentuan yang berlaku. Bagian Kedua Kelas Reguler"
@@ -943,7 +1008,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 73,
+      "chunk_index": 78,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Kelas reguler adalah program pendidikan yang diutamakan untuk mendidik lulusan baru (fresh graduate) Sekolah Menengah Atas (SMA) atau yang sederajat,"
@@ -956,7 +1021,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 74,
+      "chunk_index": 79,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Kelas reguler harus menggunakan kurikulum dan menghasilkan lulusan dengan kompetensi utama yang sama,"
@@ -969,7 +1034,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 75,
+      "chunk_index": 80,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Bahasa pengantar utama pada kelas reguler adalah Bahasa Indonesia,"
@@ -982,7 +1047,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 76,
+      "chunk_index": 81,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Program studi wajib menyelenggarakan minimal 1 kelas mata kuliah pada setiap semester dengan pengantar bahasa inggris, untuk meningkatkan kemampuan berbahasa asing sebagai kompetensi pendukung. Bagian Ketiga Kelas Kerjasama"
@@ -995,7 +1060,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 77,
+      "chunk_index": 82,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Kelas kerjasama merupakan program pendidikan yang diselenggarakan atas dasar Memorandum of Understanding (MoU) atau perjanjian kerjasama antara UPN “Veteran” Jawa Timur dengan instansi atau perusahaan lain guna memenuhi kebutuhan Sumber Daya Manusia (SDM) sesuai dengan spesifikasi instansi terkait,"
@@ -1008,7 +1073,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 78,
+      "chunk_index": 83,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Kurikulum kelas kerjasama didesain khusus/ spesifik sesuai kebutuhan tanpa meninggalkan ketentuan-ketentuan yang dipersyaratkan oleh Pemerintah/ Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi. Bagian Keempat Kelas Internasional"
@@ -1021,7 +1086,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 79,
+      "chunk_index": 84,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Kelas internasional adalah program pendidikan yang diselenggarakan dengan menggunakan Bahasa Inggris sebagai bahasa pengantar,"
@@ -1034,7 +1099,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 80,
+      "chunk_index": 85,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Kelas internasional dapat diselenggarakan sepenuhnya oleh universitas dan/atau bekerjasama dengan universitas mitra di luar negeri yang memiliki reputasi internasional minimal setara dengan UPN “Veteran” Jawa Timur dan terakreditasi di negaranya,"
@@ -1047,7 +1112,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 81,
+      "chunk_index": 86,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Kelas internasional yang diselenggarakan sepenuhnya oleh UPN “Veteran” Jawa Timur, memberikan gelar tunggal dari universitas,"
@@ -1060,7 +1125,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 82,
+      "chunk_index": 87,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Kelas internasional yang diselenggarakan berdasarkan kerjasama dengan universitas mitra di luar negeri dapat memberikan gelar ganda dari UPN “Veteran” Jawa Timur dan dari universitas mitra di Juar negeri,"
@@ -1073,7 +1138,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 83,
+      "chunk_index": 88,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Kelas internasional, baik yang memberikan gelar tunggal maupun gelar ganda, harus menggunakan kurikulum paling sedikit 50 (lima puluh) persen yang sama dengan kelas reguler dan menghasilkan lulusan dengan capaian pembelajaran yang sama,"
@@ -1086,7 +1151,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 84,
+      "chunk_index": 89,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Jumlah peserta kelas internasional tidak boleh lebih besar dari jumlah peserta program sarjana kelas reguler. Bagian Kelima Kelas Program Studi di Luar Kampus Utama (PSDKU)"
@@ -1099,7 +1164,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 85,
+      "chunk_index": 90,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Pembukaan kelas PSDKU merupakan penambahan jumlah program studi dalam bidang /disiplin ilmu dan teknologi yang sama dengan program studi yang telah ada di kampus utama UPN “Veteran” Jawa Timur,"
@@ -1112,7 +1177,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 86,
+      "chunk_index": 91,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Program studi yang akan membuka kelas PSDKU telah menyelenggarakan program studi yang sama di Kampus Utama UPN “Veteran” Jawa Timur dengan peringkat terakreditasi/ unggul/ terakreditasi internasional,"
@@ -1125,7 +1190,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 87,
+      "chunk_index": 92,
       "kategori": "penyelenggaraan program sarjana dan sarjana terapan"
     },
     "page_content": "Pembukaan, perubahan, penutupan kelas PSDKU dilakukan sesuai ketentuan perundangan yang berlaku."
@@ -1138,7 +1203,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 88,
+      "chunk_index": 93,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Penerimaan calon mahasiswa baru program sarjana dan sarjana terapan dilakukan melalui jalur seleksi yang dilakukan di tingkat nasional (SNBP & SNBT) dan jalur mandiri UPN “Veteran” Jawa Timur,"
@@ -1151,7 +1216,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 89,
+      "chunk_index": 94,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Jalur Mandiri UPN “Veteran” Jawa Timur sebagaimana yang dimaksud pada ayat (1) dilakukan melalui 3 (tiga) pola yaitu: Pola Reguler, Pola Prestasi, dan Pola Kemitraan & Kerjasama,"
@@ -1164,7 +1229,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 90,
+      "chunk_index": 95,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Sistem seleksi tersebut pada ayat (1) dapat berbentuk ujian tulis berbasis kertas / Paper Based Test (PBT) atau ujian tulis berbasis computer (UTBK)/ Computer Based Test (CBT) atau cara seleksi lain yang ditetapkan oleh universitas,"
@@ -1177,7 +1242,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 91,
+      "chunk_index": 96,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Seleksi mahasiswa baru dilakukan sesuai dengan jadwal yang ditetapkan secara nasional dan/atau oleh universitas:"
@@ -1190,7 +1255,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 92,
+      "chunk_index": 97,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Tata cara penerimaan mahasiswa Program Sarjana dan Sarjana Terapan diatur dalam Peraturan Rektor tersendiri. Bagian Kedua Persyaratan Pendaftaran"
@@ -1203,7 +1268,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 93,
+      "chunk_index": 98,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Calon mahasiswa program sarjana yang akan mendaftar untuk mengikuti proses seleksi harus memenuhi persyaratan sebagai berikut: a. Warga Negara Indonesia (WNI) atau Warga Negara Asing (WNA) yang memperoleh izin belajar dari Kementerian Pendidikan dan Kebudayaan dan menguasai bahasa pengantar yang digunakan di dalam kelas, b.Lulus SMA atau sederajat, atau program paket C yang dibuktikan dengan ijazah yang diakui oleh UPN “Veteran” Jawa Timur, c. Lulusan SMA pada To sampai T-2 atau usia ijazahnya tidak lebih dari 3 (tiga) tahun. d. Sehat jasmani dan rohani e. Memenuhi syarat khusus yang ditentukan oleh prodi yang memberikan syarat khusus."
@@ -1216,7 +1281,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 94,
+      "chunk_index": 99,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Syarat bagi calon mahasiswa kelas kerjasama ditetapkan berdasarkan Memorandum of Understanding (MoU) dan Perjanjian Kerja Sama (PKS). Bagian Ketiga Daya Tampung"
@@ -1229,7 +1294,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 95,
+      "chunk_index": 100,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Daya tampung pada setiap program studi ditetapkan dalam Keputusan Rektor UPN “Veteran” Jawa Timur dengan memperhatikan kemampuan sarana, prasarana, dan sumber daya manusia yang dimiliki,"
@@ -1242,7 +1307,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 96,
+      "chunk_index": 101,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Jumlah mahasiswa yang diterima pada setiap program studi mengikuti ketentuan yang diatur dalam Keputusan Rektor UPN “Veteran” Jawa Timur tentang daya tampung:"
@@ -1255,7 +1320,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 97,
+      "chunk_index": 102,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Penggunaan sarana dan prasarana serta sumber daya yang ada di Fakultas diatur dengan mempertimbangkan pemanfaatan bersama, baik untuk pemanfaatan oleh internal fakultas maupun oleh universitas secara keseluruhan. Bagian Keempat Lolos Seleksi"
@@ -1268,7 +1333,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 98,
+      "chunk_index": 103,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Calon mahasiswa dinyatakan lolos seleksi apabila memenuhi ketentuan yang dipersyaratkan, baik dalam seleksi nasional dan/atau seleksi mandiri,"
@@ -1281,7 +1346,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 99,
+      "chunk_index": 104,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Calon mahasiswa yang dinyatakan lulus seleksi harus melakukan registrasi administratif dan registrasi akademik sesuai dengan jadwal yang telah ditetapkan oleh universitas,"
@@ -1294,7 +1359,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 100,
+      "chunk_index": 105,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Calon mahasiswa yang tidak melakukan registrasi administratif sesuai dengan jadwal yang ditetapkan dianggap mengundurkan diri:"
@@ -1307,7 +1372,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 101,
+      "chunk_index": 106,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Peserta yang sudah dinyatakan lulus seleksi tidak dapat menunda kuliah,"
@@ -1320,7 +1385,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 102,
+      "chunk_index": 107,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Seorang calon mahasiswa mempunyai status resmi sebagai mahasiswa UPN “Veteran” Jawa Timur adalah setelah dilantik pada upacara Penerimaan Mahasiswa Baru (PMB) dalam sidang Senat Terbuka,"
@@ -1333,7 +1398,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 103,
+      "chunk_index": 108,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Tata cara penerimaan program sarjana dan sarjana terapan diatur dalam Keputusan Rektor tentang Pedoman Penerimaan Mahasiswa Baru UPN “Veteran” Jawa Timur, dan biaya pendidikan diatur dalam Keputusan Rektor UPN “Veteran” Jawa Timur. Bagian Kelima Status Ganda"
@@ -1346,7 +1411,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 104,
+      "chunk_index": 109,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Mahasiswa tidak diperkenankan terdaftar pada 2 (dua) program studi atau lebih pada Perguruan Tinggi Negeri (PTN), kecuali yang bersangkutan mengikutiprogram - yang diselenggarakan oleh Pemerintah Indonesia melalui Kementerian Pendidikan dan Kebudayaan,"
@@ -1359,23 +1424,10 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 105,
+      "chunk_index": 110,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
-    "page_content": "Apabila seorang mahasiswa diketahui terdaftar pada lebih dari satu program studi sebagaimana dimaksud pada ayat"
-  },
-  {
-    "metadata": {
-      "sumber": "Peraturan_Akademik_2023",
-      "bab": 4,
-      "pasal": 12,
-      "ayat": 1,
-      "tahun_terbit": 2023,
-      "status": "berlaku",
-      "chunk_index": 106,
-      "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
-    },
-    "page_content": "di atas, Wakil Rektor Bidang Akademik (WR I) akan mengirimkan surat teguran kepada yang bersangkutan untuk segera menentukan program studi pilihannya dengan tembusan kepada Dekan,"
+    "page_content": "Apabila seorang mahasiswa diketahui terdaftar pada lebih dari satu program studi sebagaimana dimaksud pada ayat (1) di atas, Wakil Rektor Bidang Akademik (WR I) akan mengirimkan surat teguran kepada yang bersangkutan untuk segera menentukan program studi pilihannya dengan tembusan kepada Dekan,"
   },
   {
     "metadata": {
@@ -1385,7 +1437,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 107,
+      "chunk_index": 111,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Pemberitahuan tertulis tentang pilihan mahasiswa sebagaimana dimaksud pada ayat (2) di atas disampaikan oleh mahasiswa kepada Wakil Rektor Bidang Akademik (WR I) dengan tembusan kepada Dekan selambat- lambatnya 20 (dua puluh) hari kerja terhitung sejak surat teguran tertulis diterbitkan,"
@@ -1398,7 +1450,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 108,
+      "chunk_index": 112,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Universitas akan menerbitkan Keputusan Rektor UPN “Veteran” Jawa Timur tentang pengunduran diri mahasiswa dari salah satu program studi,"
@@ -1411,7 +1463,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 109,
+      "chunk_index": 113,
       "kategori": "penerimaan mahasiswa program sarjana dan sarjana terapan"
     },
     "page_content": "Apabila pilihan program studi tidak disampaikan dalam batas waktu yang ditentukan, pihak universitas akan menerbitkan Keputusan Rektor UPN “Veteran” Jawa Timur tentang pemutusan hubungan studi."
@@ -1424,7 +1476,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 110,
+      "chunk_index": 114,
       "kategori": "kurikulum"
     },
     "page_content": "Kurikulum program sarjana dan sarjana terapan dirancang untuk mencetak lulusan dengan kompetensi yang sesuai dengan rumusan capaian pembelajaran minimal, yaitu setara dengan jenjang 6 (enam) kualifikasi pada KKNI,"
@@ -1437,7 +1489,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 111,
+      "chunk_index": 115,
       "kategori": "kurikulum"
     },
     "page_content": "Kurikulum program sarjana dan sarjana terapan dilaksanakan berbasis capaian pembelajaran lulusan yang memuat kompetensi utama, minimal : a) Menguasai konsep teoretis bidang pengetahuan dan keterampilan tertentu secara umum dan khusus untuk menyelesaikan masalah secara prosedural sesuai dengan lingkup pekerjaaannya: dan b) Mampu beradaptasi terhadap situasi perubahan yang dihadapi."
@@ -1450,7 +1502,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 112,
+      "chunk_index": 116,
       "kategori": "kurikulum"
     },
     "page_content": "Kurikulum program sarjana dan sarjana terapan dilaksanakan berbasis capaian pembelajaran lulusan yang memuat kompetensi utama minimal: a) Mampu menerapkan konsep teoretis bidang pengetahuan dan keterampilan tertentu secara umum dan khusus untuk menyelesaikan masalah secara prosedural sesuai dengan lingkup pekerjaannya, dan b) Mampu beradaptasi terhadap situasi perubahan yang dihadapi."
@@ -1463,7 +1515,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 113,
+      "chunk_index": 117,
       "kategori": "kurikulum"
     },
     "page_content": "Peninjauan kurikulum dapat dilakukan sesuai dengan perkembangan ilmu pengetahuan, teknologi, humaniora, dan seni atau dievaluasi secara teratur dalam kurun waktu tiga hingga lima tahun oleh program studi dan disetujui oleh senat fakultas,"
@@ -1476,7 +1528,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 114,
+      "chunk_index": 118,
       "kategori": "kurikulum"
     },
     "page_content": "Kurikulum ditetapkan dalam Keputusan Dekan UPN “Veteran” Jawa Timur setelah memperoleh pertimbangan dari Senat Fakultas,"
@@ -1489,7 +1541,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 115,
+      "chunk_index": 119,
       "kategori": "kurikulum"
     },
     "page_content": "Mekanisme penyusunan dan peninjauan kurikulum diatur dalam pedoman yang ditetapkan dalam Surat Keputusan Rektor."
@@ -1502,7 +1554,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 116,
+      "chunk_index": 120,
       "kategori": "kurikulum"
     },
     "page_content": "Struktur kurikulum program studi terdiri atas: a. mata kuliah wajib adalah mata kuliah yang harus dicakup dalam suatu program studi yang dirumuskan untuk mencapai kompetensi utama, b. mata kuliah pilihan adalah mata kuliah yang dipilih mahasiswa dari mata kuliah di dalam dan/atau luar program studinya untuk memperluas wawasan dan sekaligus memenuhi persyaratan beban minimal suatu jenjang pendidikan."
@@ -1515,7 +1567,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 117,
+      "chunk_index": 121,
       "kategori": "kurikulum"
     },
     "page_content": "Mata kuliah wajib nasional terdiri atas: a. Agama, b. Pancasila, c. Bahasa Indonesia, d. Kewarganegaraan."
@@ -1528,7 +1580,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 118,
+      "chunk_index": 122,
       "kategori": "kurikulum"
     },
     "page_content": "Mata kuliah wajib universitas terdiri atas: a. Bahasa Inggris, b. Bela Negara, c. Kewirausahaan, d. Kepemimpinan."
@@ -1541,7 +1593,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 119,
+      "chunk_index": 123,
       "kategori": "kurikulum"
     },
     "page_content": "Jumlah SKS untuk Mata Kuliah Wajib Nasional dan Mata Kuliah Wajib Universitas adalah: a. Agama 2 SKS b. Pancasila 2 SKS c. Bahasa Indonesia 2 SKS d. Kewarganegaraan 2 SKS e. Bahasa Inggris 3 SKS f. Bela Negara 3 SKS g. Kewirausahaan 3 SKS h. Kepempimpinan 2 SKS"
@@ -1554,7 +1606,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 120,
+      "chunk_index": 124,
       "kategori": "kurikulum"
     },
     "page_content": "Mata kuliah pilihan sebagaimana dimaksud ayat (1) butir b, dapat berupa: a. sekumpulan mata kuliah yang terdapat dalam kelompok mata kuliah peminatan lain, b.sekumpulan mata kuliah yang dipilih dari berbagai program studi/fakultas lain."
@@ -1567,7 +1619,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 121,
+      "chunk_index": 125,
       "kategori": "kurikulum"
     },
     "page_content": "Mata kuliah wajib pada suatu program studi harus sama, baik kelas reguler, kelas internasional, maupun kelas kerjasama,"
@@ -1580,7 +1632,7 @@
       "ayat": 7,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 122,
+      "chunk_index": 126,
       "kategori": "kurikulum"
     },
     "page_content": "Setiap mahasiswa wajib lulus semua mata kuliah baik mata kuliah wajib maupun mata kuliah pilihan yang tercakup dalam struktur kurikulum program studi,"
@@ -1593,7 +1645,7 @@
       "ayat": 8,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 123,
+      "chunk_index": 127,
       "kategori": "kurikulum"
     },
     "page_content": "Setiap mahasiswa dapat memilih perpaduan antara: a. mata kuliah wajib dan mata kuliah pilihan pada program studi tersebut, atau b.mata kuliah wajib dan mata kuliah yang dipilih dari berbagai program studi/fakultas lain baik di dalam maupun di luar UPN “Veteran” Jawa Timur."
@@ -1606,7 +1658,7 @@
       "ayat": 9,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 124,
+      "chunk_index": 128,
       "kategori": "kurikulum"
     },
     "page_content": "Perpaduan apapun yang dipilih oleh mahasiswa, jumlah SKS yang boleh diambil harus dalam batas beban studi untuk program sarjana dan sarjana terapan,"
@@ -1619,7 +1671,7 @@
       "ayat": 10,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 125,
+      "chunk_index": 129,
       "kategori": "kurikulum"
     },
     "page_content": "Beban ekuivalen dalam bentuk SKS untuk mata kuliah wajib program studi tidak termasuk tugas akhir/ skripsi,"
@@ -1632,7 +1684,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 126,
+      "chunk_index": 130,
       "kategori": "kemampuan berbahasa inggris"
     },
     "page_content": "Mahasiswa program sarjana dan sarjana terapan dipersyaratkan memiliki kemampuan bahasa Inggris yang baik dan benar sesuai standar minimal international atau institusional, sebagai berikut: International Certificate JETSET Level 4 - Pearson-LCCI - UK (yang setara dengan IBT-TOEFL 57-86) atau Institusional Certificate English Proficiency Test/ EPT 450 - LC-UPN “Veteran” Jawa Timur (yang setara dengan ITP-TOEFL 450),"
@@ -1645,7 +1697,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 127,
+      "chunk_index": 131,
       "kategori": "kemampuan berbahasa inggris"
     },
     "page_content": "Mahasiswa baru wajib melakukan tes kemampuan awal berbahasa Inggris di Laboratorium Bahasa Unit Pendukung Akademik-Bahasa UPN “Veteran” Jawa Timur,"
@@ -1658,7 +1710,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 128,
+      "chunk_index": 132,
       "kategori": "kemampuan berbahasa inggris"
     },
     "page_content": "Kemampuan berbahasa Inggris sebagaimana tersebut pada ayat satu (1) digunakan sebagai syarat untuk tugas akhir (skripsi):"
@@ -1671,7 +1723,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 129,
+      "chunk_index": 133,
       "kategori": "kemampuan berbahasa inggris"
     },
     "page_content": "Kemampuan berbahasa Inggris digunakan sebagai syarat untuk mengikuti seleksi program akademik dan non- akademik di tingkat nasional/internasional sesuai dengan persyaratan yang ditetapkan oleh penyelenggara program."
@@ -1684,7 +1736,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 130,
+      "chunk_index": 134,
       "kategori": "masa dan beban belajar"
     },
     "page_content": "Program pendidikan sarjana dan sarjana terapan dari SMA atau sederajat dirancang dengan masa tempuh kurikulum 8 (delapan) semester dengan masa studi maksimal 14 (empat belas) semester,"
@@ -1697,7 +1749,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 131,
+      "chunk_index": 135,
       "kategori": "masa dan beban belajar"
     },
     "page_content": "Mahasiswa program sarjana dan sarjana terapan wajib mengambil : a) Semester 1 (satu) dan semester 2 (dua) paling banyak 20 (dua puluh) SKS atau paket, dan b) Semester 3 (tiga) dan seterusnya paling banyak 24 (dua puluh empat ) SKS. c) Bagi mahasiswa yang mempunyai prestasi luar biasa dapat menempuh beban belajar 144 SKS termasuk tugas akhir atau skripsi kurang dari 4 tahun, d) Mahasiswa yang telah mencapai batas studi 7 tahun (14 Semester) dan belum menyelesaikan studinya akan diputus studinya dan dinyatakan drop out (DO): e) Program studi melalui Gugus Penjaminan Mutu Program Studi melakukan evaluasi dan analisis setiap semester terhadap masa studi dan beban studi mahasiswa sebagai bagian dari implementasi penjaminan mutu,"
@@ -1710,7 +1762,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 132,
+      "chunk_index": 136,
       "kategori": "masa dan beban belajar"
     },
     "page_content": "Pemenuhan masa dan beban belajar sebagaimana yang dimaksud pada pasal 16 ayat (1) dapat dilaksanakan dengan cara: a. mengikuti seluruh proses pembelajaran dalam Program Studi pada Perguruan Tinggi sesuai masa dan beban belajar, atau b. mengikuti proses pembelajaran di dalam Program Studi untuk memenuhi sebagian masa dan beban belajar dan sisanya mengikuti proses pembelajaran di luar Program Studi."
@@ -1723,7 +1775,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 133,
+      "chunk_index": 137,
       "kategori": "masa dan beban belajar"
     },
     "page_content": "Prodi dan Fakultas wajib memfasilitasi pelaksanaan pemenuhan masa dan beban belajar dalam proses pembelajaran sebagaimana dimaksud pada ayat (1)."
@@ -1736,7 +1788,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 134,
+      "chunk_index": 138,
       "kategori": "masa dan beban belajar"
     },
     "page_content": "Fasilitasi oleh Prodi dan Fakultas untuk pemenuhan masa dan beban belajar dalam proses sebagaimana dimaksud pada ayat (1) huruf b dengan cara sebagai berikut: a. paling sedikit 4 (empat) semester dan paling lama 11 (sebelas) semester merupakan pembelajaran di dalam Program Studi, b. 1 (satu) semester atau setara dengan 20 (dua puluh) sks merupakan pembelajaran di luar Program Studi pada Perguruan Tinggi yang sama, dan c. paling lama 2 (dua) semester atau setara dengan 40 (empat puluh) SKS merupakan: 1. Pembelajaran pada Program Studi yang sama di Perguruan Tinggi yang berbeda, 2. Pembelajaran pada Program Studi yang berbeda di Perguruan Tinggi yang berbeda, dan/atau 3. Pembelajaran di luar Perguruan Tinggi."
@@ -1749,7 +1801,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 135,
+      "chunk_index": 139,
       "kategori": "masa dan beban belajar"
     },
     "page_content": "Program Studi Sarjana Terapan wajib melaksanakan kegiatan magang di dunia usaha, dunia industri, atau dunia kerja yang relevan selama 1 (satu) semester atau setara dengan 20 (dua puluh) SKS."
@@ -1762,7 +1814,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 136,
+      "chunk_index": 140,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Proses pembelajaran terdiri dari: perencanaan, pelaksanaan dan evaluasi hasil pembelajaran,"
@@ -1775,7 +1827,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 137,
+      "chunk_index": 141,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Proses pembelajaran sebagaimana yang dimaksud dalam ayat (1) diselenggarakan dalam 2 (dua) semester per tahun akademik, yaitu Semester Gasal dan Semester Genap,"
@@ -1788,7 +1840,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 138,
+      "chunk_index": 142,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Dalam satu semester proses pembelajaran dilaksanakan efektif selama paling sedikit 16 (enam belas) minggu, termasuk evaluasi tengah semester dan evaluasi akhir semester,"
@@ -1801,7 +1853,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 139,
+      "chunk_index": 143,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Proses pembelajaran sebagaimana dimaksud dalam ayat (1) dilakukan dengan mengikuti kalender akademik yang ditetapkan oleh universitas,"
@@ -1814,7 +1866,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 140,
+      "chunk_index": 144,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Mahasiswa wajib melakukan registrasi administrasi dan akademik untuk mengikuti proses pembelajaran sebagaimana yang dimaksud dalam ayat (1):"
@@ -1827,7 +1879,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 141,
+      "chunk_index": 145,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Proses pembelajaran sebagaimana yang dimaksud dalam ayat (1) dapat dilakukan di dalam Program Studi dan di luar Program Studi,"
@@ -1840,7 +1892,7 @@
       "ayat": 7,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 142,
+      "chunk_index": 146,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Program studi melalui Gugus Penjaminan Mutu Program Studi melakukan evaluasi dan analisis terhadap proses pembelajaran sebagai upaya perbaikan berkelanjutan dalam implementasi penjaminan mutu. Bagian Kesatu Kalender Akademik"
@@ -1853,7 +1905,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 143,
+      "chunk_index": 147,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Kalender akademik sebagaimana yang dimaksud dalam pasal 18 ayat (4) merupakan pedoman yang wajib ditaati oleh fakultas/program studi dan sivitas akademika di lingkungan Universitas dalam melaksanakan Tri Dharma Perguruan Tinggi,"
@@ -1866,23 +1918,10 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 144,
+      "chunk_index": 148,
       "kategori": "proses pembelajaran"
     },
-    "page_content": "Kalender akademik sebagaimana dimaksud pada ayat"
-  },
-  {
-    "metadata": {
-      "sumber": "Peraturan_Akademik_2023",
-      "bab": 8,
-      "pasal": 19,
-      "ayat": 1,
-      "tahun_terbit": 2023,
-      "status": "berlaku",
-      "chunk_index": 145,
-      "kategori": "proses pembelajaran"
-    },
-    "page_content": "di atas diterbitkan 1 (satu) kali dalam setahun dalam bentuk Keputusan Rektor UPN “Veteran” Jawa Timur, dan sekurang-kurangnya memuat: a.masa pendaftaran, ujian seleksi, pengumuman hasil seleksi penerimaan mahasiswa baru b.jadwal registrasi (administratif dan akademik) mahasiswa baru, c. jadwal kegiatan awal mahasiswa baru (Rapat Terbuka Senat Penerimaan Mahasiswa Baru, dan Pengenalan Kehidupan Kampus Mahasiswa Baru/PKKMB), d. jadwal registrasi administrasi dan akademik mahasiswa lama, e. periode perkuliahan, f jadwal Evaluasi Tengah Semester (ETS) dan Evaluasi Akhir Semester (EAS): g. jadwal KKN: h. periode ujian tugas akhir/skripsi: i. jadwal yudisium dan wisuda. Bagian Kedua Perencanaan Pembelajaran"
+    "page_content": "Kalender akademik sebagaimana dimaksud pada ayat (1) di atas diterbitkan 1 (satu) kali dalam setahun dalam bentuk Keputusan Rektor UPN “Veteran” Jawa Timur, dan sekurang-kurangnya memuat: a.masa pendaftaran, ujian seleksi, pengumuman hasil seleksi penerimaan mahasiswa baru b.jadwal registrasi (administratif dan akademik) mahasiswa baru, c. jadwal kegiatan awal mahasiswa baru (Rapat Terbuka Senat Penerimaan Mahasiswa Baru, dan Pengenalan Kehidupan Kampus Mahasiswa Baru/PKKMB), d. jadwal registrasi administrasi dan akademik mahasiswa lama, e. periode perkuliahan, f jadwal Evaluasi Tengah Semester (ETS) dan Evaluasi Akhir Semester (EAS): g. jadwal KKN: h. periode ujian tugas akhir/skripsi: i. jadwal yudisium dan wisuda. Bagian Kedua Perencanaan Pembelajaran"
   },
   {
     "metadata": {
@@ -1892,7 +1931,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 146,
+      "chunk_index": 149,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Perencanaan pembelajaran sebagaimana yang dimaksud pada pasal 18 ayat (l) disusun untuk setiap mata kuliah dan disajikan dalam Rencana Pembelajaran Semester (RPS):"
@@ -1905,7 +1944,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 147,
+      "chunk_index": 150,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Rencana Pembelajaran Semester (RPS) ditetapkan dan dikembangkan oleh Dosen secara mandiri atau bersama dalam kelompok keahlian suatu bidang ilmu pengetahuan dan/atau teknologi dalam Program Studi."
@@ -1918,7 +1957,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 148,
+      "chunk_index": 151,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Rencana Pembelajaran Semester paling sedikit memuat: a. nama Program Studi, nama dan kode mata kuliah, semester, sks, nama dosen pengampu, b. capaian pembelajaran lulusan yang dibebankan pada mata kuliah, Cc. kemampuan akhir yang direncanakan pada tiap tahap pembelajaran untuk memenuhi capaian pembelajaran, d. bahan kajian yang terkait dengan kemampuan yang akan dicapai: e. metode pembelajaran, £ waktu yang disediakan untuk mencapai kemampuan pada tiap tahap pembelajaran, g. pengalaman belajar mahasiswa yang diwujudkan dalam deskripsi tugas yang harus dikerjakan oleh mahasiswa selama satu semester, h. kriteria, indikator, dan bobot penilaian, dan i. /(daftar referensi yang digunakan."
@@ -1931,7 +1970,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 149,
+      "chunk_index": 152,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Pemantauan dan evaluasi pelaksanaan RPS dilakukan oleh Gugus Penjaminan Mutu Program Studi dibawah tanggung Koordinator Program Studi sebagai bagian dari proses penjaminan mutu,"
@@ -1944,7 +1983,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 150,
+      "chunk_index": 153,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Rencana Pembelajaran Semester wajib ditinjau dan disesuaikan secara berkala dengan perkembangan ilmu pengetahuan, teknologi, humaniora dan seni. Bagian Ketiga Sistem Perkuliahan"
@@ -1957,7 +1996,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 151,
+      "chunk_index": 154,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Setiap menjelang akhir semester, fakultas/ program studi menetapkan jadwal kuliah untuk menjalankan suatu kurikulum,"
@@ -1970,7 +2009,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 152,
+      "chunk_index": 155,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Jadwal kuliah sebagaimana dimaksud pada ayat (1) di atas setidaknya mencakup: a. nama mata kuliah dan kelas, b. koordinator mata kuliah, c. hari dan jam kuliah, d, tempat/ ruang kuliah, e. dosen pengampu,"
@@ -1983,7 +2022,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 153,
+      "chunk_index": 156,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Jadwal Mata Kuliah Umum ditetapkan lebih dahulu oleh Universitas setelah itu Mata Kuliah yang ada di Prodi yang ditetapkan oleh Fakultas,"
@@ -1996,7 +2035,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 154,
+      "chunk_index": 157,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Suatu mata kuliah dapat diselenggarakan dalam beberapa kelas,"
@@ -2009,7 +2048,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 155,
+      "chunk_index": 158,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Perkuliahan dilakukan secara tatap muka langsung (offline) dan dapat dilakukan melalui dalam jaringan/daring (online) pada kondisi khusus,"
@@ -2022,7 +2061,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 156,
+      "chunk_index": 159,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Dosen mengawali pembelajaran dikelas dengan memberikan pesan tentang adab, moral, etika dan bela negara kepada mahasiswa selama kurang lebih 5-10 menit. Bagian Keempat Satuan Kredit Semester (SKS)"
@@ -2035,7 +2074,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 157,
+      "chunk_index": 160,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Beban belajar 1 (satu) SKS setara dengan 45 (empat puluh lima) jam per semester, dalam bentuk pembelajaran sesuai dengan kebutuhan untuk memenuhi capaian pembelajaran tiap-tiap prodi,"
@@ -2048,7 +2087,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 158,
+      "chunk_index": 161,
       "kategori": "proses pembelajaran"
     },
     "page_content": "1 (satu) sks pada proses pembelajaran berupa kuliah, atau tutorial, terdiri atas: a. kegiatan tatap muka 50 (lima puluh) menit per minggu per semester, b. kegiatan penugasan terstruktur 60 (enam puluh) menit per minggu per semester, dan c. kegiatan mandiri 60 (enam puluh) menit per minggu per semester."
@@ -2061,7 +2100,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 159,
+      "chunk_index": 162,
       "kategori": "proses pembelajaran"
     },
     "page_content": "1 (satu) sks pada proses pembelajaran berupa seminar atau bentuk lain yang sejenis, terdiri atas: a. kegiatan tatap muka 100 (seratus) menit per minggu per semester, dan b. kegiatan mandiri 70 (tujuh puluh) menit per minggu per semester."
@@ -2074,7 +2113,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 160,
+      "chunk_index": 163,
       "kategori": "proses pembelajaran"
     },
     "page_content": "1 (satu) sks pada proses pembelajaran berupa praktikum, praktik studio, praktik bengkel, praktik lapangan, penelitian, pengabdian kepada masyarakat, magang dan/ atau bentuk pembelajaran lain yang sejenis, 170 (seratus tujuh puluh) menit per minggu per semester,"
@@ -2087,7 +2126,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 161,
+      "chunk_index": 164,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Perhitungan beban belajar dalam sistem blok, modul, atau bentuk lain ditetapkan sesuai dengan kebutuhan dalam memenuhi capaian pembelajaran. Bagian Kelima Registrasi Administratif"
@@ -2100,7 +2139,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 162,
+      "chunk_index": 165,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Mahasiswa memiliki status aktif apabila telah melakukan registrasi administratif dan registrasi akademik."
@@ -2113,7 +2152,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 163,
+      "chunk_index": 166,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Registrasi administratif dilaksanakan pada awal semester, dengan cara melakukan pembayaran biaya pendidikan secara online melalui bank yang bekerjasama dengan UPN “Veteran” Jawa Timur dan melakukan her-registrasi secara online di SIAMIK,"
@@ -2126,7 +2165,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 164,
+      "chunk_index": 167,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Registrasi administratif mahasiswa bisa dibatalkan jika ternyata mahasiswa tidak mampu memenuhi persyaratan tahapan evaluasi pembelajaran. Bagian Keenam Registrasi Akademik"
@@ -2139,7 +2178,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 165,
+      "chunk_index": 168,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Registrasi akademik dilaksanakan dengan melakukan pengisian Kartu Rencana Studi (KRS) melalui SIAMIK secara online sesuai dengan kurikulum yang berlaku untuk mahasiswa tersebut:"
@@ -2152,7 +2191,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 166,
+      "chunk_index": 169,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Jumlah sks yang dapat diambil disesuaikan dengan IPS (Indeks Prestasi Semester) pada semester terakhir mahasiswa tersebut aktif:"
@@ -2165,7 +2204,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 167,
+      "chunk_index": 170,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Bagi mahasiswa baru, pada semester 1 dan 2 jumlah SKS yang dapat diambil maksimal 20 SKS,"
@@ -2178,7 +2217,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 168,
+      "chunk_index": 171,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Jumlah SKS maksimum yang dapat diambil oleh mahasiswa Semester III ke atas pada setiap semester adalah sebagai berikut: Ega | 200-249 - | 16 | | 250-299 | 290 --- | Lo 2300 - | 29 |"
@@ -2191,7 +2230,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 169,
+      "chunk_index": 172,
       "kategori": "proses pembelajaran"
     },
     "page_content": "KRS tidak akan disetujui oleh pembimbing akademik apabila mahasiswa: a. mengambil mata kuliah yang jadwal kuliahnya berbenturan dengan mata kuliah lain: b. mengambil mata kuliah yang prasyaratnya belum terpenuhi, c. mengambil SKS melebihi jumlah SKS yang diperbolehkan,"
@@ -2204,7 +2243,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 170,
+      "chunk_index": 173,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Apabila KRS ditolak, mahasiswa wajib memperbaiki KRS dan diajukan kembali untuk memperoleh persetujuan,"
@@ -2217,7 +2256,7 @@
       "ayat": 7,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 171,
+      "chunk_index": 174,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Nama mahasiswa tidak akan tercatat dalam daftar peserta mata kuliah apabila KRS belum disetujui,"
@@ -2230,7 +2269,7 @@
       "ayat": 8,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 172,
+      "chunk_index": 175,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Mahasiswa yang namanya tidak tercantum dalam daftar peserta mata kuliah tidak diizinkan mengikuti kuliah, ujian dan kegiatan lain dalam mata kuliah tersebut,"
@@ -2243,7 +2282,7 @@
       "ayat": 9,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 173,
+      "chunk_index": 176,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Penggantian mata kuliah dapat dilakukan oleh mahasiswa selambat-lambatnya 1 (satu) minggu setelah kegiatan perkuliahan dimulai,"
@@ -2256,7 +2295,7 @@
       "ayat": 10,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 174,
+      "chunk_index": 177,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Pembatalan mata kuliah dapat dilakukan oleh mahasiswa selambat- lambatnya pada akhir minggu ke-4 (empat) setelah kegiatan perkuliahan dimulai,"
@@ -2269,7 +2308,7 @@
       "ayat": 11,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 175,
+      "chunk_index": 178,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Penggantian maupun pembatalan mata kuliah harus mendapatkan persetujuan PA (Pembimbing Akademik):"
@@ -2282,7 +2321,7 @@
       "ayat": 12,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 176,
+      "chunk_index": 179,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Mahasiswa yang tidak melakukan registrasi akademik sampai dengan 1 (satu minggu) setelah kegiatan perkuliahaan berjalan dinyatakan statusnya sebagai mahasiswa tidak aktif. Bagian Ketujuh Metode dan Bentuk Pembelajaran"
@@ -2295,7 +2334,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 177,
+      "chunk_index": 180,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Metode pembelajaran bersifat interaktif, holistik, integratif, saintifik, kontekstual, tematik, efektif, kolaboratif, dan berpusat pada mahasiswa, yaitu: a. Interaktif, mengutamakan proses interaksi dua arah antara mahasiswa dan Dosen. b. Holistik adalah terbentuknya pola pikir yang komprehensif dan luas dengan menginternalisasi keunggulan dan kearifan lokal maupun nasional. c. Integratif adalah dilakukan pendekatan antardisiplin dan multidisiplin. d.Saintifik adalah mengutamakan pendekatan ilmiah sehingga tercipta lingkungan akademik yang berdasarkan sistem nilai, norma, dan kaidah ilmu pengetahuan serta menjunjung tinggi nilai-nilai agama dan kebangsaan. e. Kontekstual adalah kemampuan menyelesaikan masalah dalam ranah keahliannya, f. Tematik adalah pembelajaran yang disesuaikan dengan karakteristik keilmuan Program Studi dan dikaitkan dengan permasalahan nyata melalui pendekatan transdisiplin. g. Efektif adalah pembelajaran yang berhasil guna dengan mementingkan internalisasi materi secara baik dan benar dalam kurun waktu yang optimum. h.Kolaboratif adalah pembelajaran bersama yang melibatkan interaksi antar individu pembelajar untuk menghasilkan kapitalisasi sikap, pengetahuan, dan keterampilan. ii Berpusat pada mahasiswa adalah pembelajaran yang mengutamakan pengembangan kreativitas, kapasitas, kepribadian, dan kebutuhan mahasiswa, serta mengembangkan kemandirian dalam mencari dan menemukan pengetahuan."
@@ -2308,7 +2347,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 178,
+      "chunk_index": 181,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Penyelenggaraan proses pembelajaran diutamakan dengan metode Student Centered Learning (SCL), diantaranya adalah pembelajaran berbasis masalah/studi kasus (problem-based learning/cased-based learning), berbasis proyek (project-based learning): interactive skill (diskusi kelompok, bermain peran dan simulasi): pembelajaran kolaboratif, pembelajaran kooperatif atau metode pembelajaran lainnya yang efektif membantu pemenuhan capaian pembelajaran lulusan."
@@ -2321,7 +2360,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 179,
+      "chunk_index": 182,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Bentuk pembelajaran yang dilakukan dapat berupa kuliah, responsi,tutorial, seminar, praktikum, praktik studio, praktik bengkel, praktik lapangan, praktik kerja, penelitian, perancangan, dan pengabdian masyarakat. Bagian Kedelapan Pembelajaran di Luar Program Studi"
@@ -2334,7 +2373,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 180,
+      "chunk_index": 183,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Pembelajaran di luar Program Studi sebagaimana dimaksud pada pasal 18 ayat (6) merupakan proses pembelajaran yang terdiri atas: a. Pembelajaran dalam Program Studi lain pada Perguruan Tinggi yang sama, b. Pembelajaran dalam Program Studi yang sama pada Perguruan Tinggi yang berbeda, c. Pembelajaran dalam Program Studi lain pada Perguruan Tinggi yang berbeda, dan d. Pembelajaran pada lembaga non-Perguruan Tinggi."
@@ -2347,7 +2386,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 181,
+      "chunk_index": 184,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Proses Pembelajaran di luar Program Studi sebagaimana dimaksud pada ayat (1) huruf b, huruf c, dan huruf d dilaksanakan berdasarkan perjanjian kerja sama/MoU antara Perguruan Tinggi dengan Perguruan Tinggi atau lembaga lain yang terkait,"
@@ -2360,7 +2399,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 182,
+      "chunk_index": 185,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Proses Pembelajaran di luar Program Studi sebagaimana dimaksud pada ayat (1) merupakan kegiatan dalam program yang dapat ditentukan oleh Kementerian dan/atau pemimpin Perguruan Tinggi,"
@@ -2373,7 +2412,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 183,
+      "chunk_index": 186,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Bentuk kegiatan pembelajaran di luar Program Studi sebagaimana dimaksud pada ayat (1) huruf b, huruf c, dan huruf d adalah: a. Kegiatan pertukaran mahasiswa dalam mengambil mata kuliah, b. Magang/Praktik Kerja, c. Proyek di Desa/ KKN-Tematik d. Penelitian/Riset e. Kegiatan Wirausaha f. Studi Proyek Independen g. Proyek Kemanusiaan h. Mengajar di Sekolah/Satuan Pendidikan i. Komponen Cadangan"
@@ -2386,7 +2425,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 184,
+      "chunk_index": 187,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Hasil kegiatan pembelajaran di luar Program Studi sebagaimana dimaksud pada ayat (4) diakui melalui mekanisme transfer sks (Credit Transfer) atau perolehan sks (Earming Credit):"
@@ -2399,7 +2438,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 185,
+      "chunk_index": 188,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Kegiatan Pembelajaran di luar Program Studi sebagaimana dimaksud pada ayat (4) dilaksanakan di bawah bimbingan Dosen,"
@@ -2412,7 +2451,7 @@
       "ayat": 7,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 186,
+      "chunk_index": 189,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Proses pembelajaran di luar Program Studi sebagaimana dimaksud pada ayat (1) dilakukan minimal setelah mahasiswa menempuh 3 Semester, kecuali bagi Program- Program Merdeka Belajar-Kampus Merdeka (MBKM) yang ditentukan oleh Kementerian persyaratannya."
@@ -2425,7 +2464,7 @@
       "ayat": 8,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 187,
+      "chunk_index": 190,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Implementasi pembelajaran di luar Program Studi selanjutnya diatur dalam Keputusan Rektor. Bagian Kesembilan Kewajiban Mahasiswa dalam Proses Pembelajaran"
@@ -2438,7 +2477,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 188,
+      "chunk_index": 191,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Mahasiswa wajib berpenampilan rapi dan berperilaku sopan selama berada di lingkungan kampus,"
@@ -2451,7 +2490,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 189,
+      "chunk_index": 192,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Mahasiswa wajib mentaati peraturan yang berlaku:"
@@ -2464,7 +2503,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 190,
+      "chunk_index": 193,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Mahasiswa wajib mengikuti pembelajaran secara aktif paling sedikit 90 (sembilan puluh) persen dari aktivitas akademik terjadwal,"
@@ -2477,7 +2516,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 191,
+      "chunk_index": 194,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Dalam hal mahasiswa tidak hadir dalam perkuliahan karena mengikuti kegiatan yang ditugaskan dan/ atau disetujui oleh Rektor atau Pimpinan Fakultas, maka ketidakhadirannya tidak dihitung sebagai alpha,"
@@ -2490,7 +2529,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 192,
+      "chunk_index": 195,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Mahasiswa yang tidak hadir dalam perkuliahaan karena alasan sakit, maka harus menunjukkan surat dokter dan ketidakhadirannya tidak dihitung sebagai alpha :"
@@ -2503,7 +2542,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 193,
+      "chunk_index": 196,
       "kategori": "proses pembelajaran"
     },
     "page_content": "Mahasiswa yang tidak hadir selain ayat 4 dan 5, maka harus ada surat keterangan resmi."
@@ -2516,7 +2555,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 194,
+      "chunk_index": 197,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Penilaian hasil belajar mahasiswa bertujuan untuk mengukur pencapaian kompetensi pembelajaran yang ditetapkan oleh program studi,"
@@ -2529,7 +2568,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 195,
+      "chunk_index": 198,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Penilaian hasil belajar mahasiswa harus mencakup aspek hardskill dan softskill yang dapat dilakukan dalam bentuk: a. ujian tertulis, ujian lisan dan/ atau ujian praktikum/ keterampilan, serta portofolio, b. tugas akhir bisa dalam bentuk skripsi, atau bentuk lain yang setara, c. berdasarkan alasan tertentu yang dapat dipertanggungjawabkan penilaian hasil belajar dapat dilakukan dengan bentuk-bentuk lain,"
@@ -2542,7 +2581,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 196,
+      "chunk_index": 199,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Nilai akhir hasil belajar berbasis pada evaluasi aktifitas partisipatif dan hasil proyek/studi kasus dengan bobot evaluasi lebih dari 2 500 dan didasarkan pada beberapa komponen penilaian lainnya seperti: Evaluasi Tengah Semester (ETS), Evaluasi Akhir Semester (EAS), tugas, guis, praktikum dan ketrampilan berperilaku. Formulasi nilai akhir hasil belajar dituangkan dalam rumus yang ditetapkan oleh masing-masing Program Studi,"
@@ -2555,10 +2594,10 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 197,
+      "chunk_index": 200,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
-    "page_content": "Sistem penilaian : a. penilaian hasil belajar dinyatakan dengan huruf, yaitu menggunakan huruf A, B, C, D, dan E, b. nilai lulus minimal tugas akhir/ skripsi/prototype adalah B, c. untuk melakukan konversi nilai angka ke dalam nilai huruf dan bobot nilai huruf digunakan pedoman sebagai berikut: --awoKa Jonas | 0507 | |..66-79 | B | 300 | |o/.56-6s | c | 200 | | 43-55 | D | 100 | | 00-42 | E | 000 | d. mahasiswa dinyatakan lulus mata kuliah, apabila mendapat nilai minimal C, e. mahasiswa yang mendapat nilai D dan E wajib mengulang program pembelajaran dan ujian pada semester reguler, f. nilai yang diakui pada mata kuliah yang diambil ulang adalah nilai yang terbaik, 8. jika karena suatu hal nilai belum dapat ditentukan, maka kepadanya diberikan nilai K yang berarti “Kurang/Tidak Lengkap” dengan nilai bobot nol (0). Apabila sampai dengan pengisian KRS semester berikutnya nilai masih berstatus K, mahasiswa tersebut dianggap tidak lulus (E),"
+    "page_content": "Sistem penilaian : a. penilaian hasil belajar dinyatakan dengan huruf, yaitu menggunakan huruf A, B, C, D, dan E, b. nilai lulus minimal tugas akhir/ skripsi/prototype adalah B, c. untuk melakukan konversi nilai angka ke dalam nilai huruf dan bobot nilai huruf digunakan pedoman sebagai berikut: --awoKa Jonas | 0507 | |..66-79 | B | 300 | |o/.56-6s | c | 200 | | 43-55 | D | 100 | | 00-42 | E | 000 | d. mahasiswa dinyatakan lulus mata kuliah, apabila mendapat nilai minimal C, e. mahasiswa yang mendapat nilai D dan E wajib mengulang program pembelajaran dan ujian pada semester reguler, f. nilai yang diakui pada mata kuliah yang diambil ulang adalah nilai yang terbaik, g. jika karena suatu hal nilai belum dapat ditentukan, maka kepadanya diberikan nilai K yang berarti “Kurang/Tidak Lengkap” dengan nilai bobot nol (0). Apabila sampai dengan pengisian KRS semester berikutnya nilai masih berstatus K, mahasiswa tersebut dianggap tidak lulus (E),"
   },
   {
     "metadata": {
@@ -2568,7 +2607,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 198,
+      "chunk_index": 201,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "tingkat keberhasilan: a. tingkat keberhasilan mahasiswa dalam satu semester dinyatakan dengan IPS, b. dalam perhitungan IPS, bobot sks setiap mata kuliah hanya dipergunakan satu kali sebagai pembagi dan nilai yang dipergunakan adalah nilai keberhasilan yang tertinggi, c. perhitungan IPS menggunakan rumus sebagai berikut: £ KN IPS - TK dengan K adalah besarnya sks masing-masing mata kuliah, dan N adalah nilai masing-masing mata kuliah: d. perhitungan IPK (Indeks Prestasi Kumulatif) menggunakan rumus seperti tersebut di atas dengan K adalah jumlah seluruh sks mata kuliah yang telah ditempuh dengan nilai tertinggi dan N adalah nilai seluruh mata kuliah yang diperoleh,"
@@ -2581,7 +2620,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 199,
+      "chunk_index": 202,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Penilaian hasil belajar mahasiswa dilakukan secara berkala sesuai dengan kurikulum,"
@@ -2594,7 +2633,7 @@
       "ayat": 7,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 200,
+      "chunk_index": 203,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Penilaian hasil belajar pada setiap mata kuliah dilakukan pada setiap semester,"
@@ -2607,7 +2646,7 @@
       "ayat": 8,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 201,
+      "chunk_index": 204,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Penilaian dilaksanakan berdasarkan prinsip kesesuaian, akuntabilitas, transparansi, kejujuran, dan keadilan,"
@@ -2620,7 +2659,7 @@
       "ayat": 9,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 202,
+      "chunk_index": 205,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Aspek yang diukur dalam evaluasi hasil belajar adalah: a. kemampuan akademik yang mencakup aspek kognitif, afektif, dan psikomotorik, yang disesuaikan dengan jenis dan tujuan belajar pada setiap mata kuliah, dan b. keterampilan berperilaku, termasuk kejujuran akademik, kedisiplinan, kesantunan, kemampuan berinteraksi, dan bekerja sama."
@@ -2633,7 +2672,7 @@
       "ayat": 10,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 203,
+      "chunk_index": 206,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Syarat Evaluasi Semester : a. terdaftar sebagai peserta kuliah/ kegiatan pembelajaran yaitu tercantum dalam Daftar Peserta Mata Kuliah (DPMK) di sistem SIAMIK, b. telah mengikuti kuliah/ kegiatan pembelajaran sekurang- kurangnya 90 (sembilan puluh) persen."
@@ -2646,7 +2685,7 @@
       "ayat": 11,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 204,
+      "chunk_index": 207,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Ketentuan pelaksanaan, persyaratan, penjadwalan, dan tata tertib ujian diatur lebih lanjut oleh Fakultas,"
@@ -2659,7 +2698,7 @@
       "ayat": 12,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 205,
+      "chunk_index": 208,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Nilai hasil ujian diumumkan sesuai dengan ketentuan yang berlaku,"
@@ -2672,7 +2711,7 @@
       "ayat": 13,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 206,
+      "chunk_index": 209,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Dalam hal dosen atau tim dosen tidak segera memberikan nilai hasil ujian semester sampai batas waktu yang ditentukan, atau selambat-lambatnya 3 (tiga) hari dari batas waktu yang ditentukan, maka Dekan dapat memberikan nilai B kepada semua mahasiswa yang memenuhi syarat sebagai peserta ujian."
@@ -2685,7 +2724,7 @@
       "ayat": 14,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 207,
+      "chunk_index": 210,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Setiap mahasiswa wajib melaporkan hasil pembelajarannya (KHS) ke Pangkalan Data Pendidikan Tinggi (PD-DIKTI) di sistem SIAMIK pada setiap akhir semester."
@@ -2698,7 +2737,7 @@
       "ayat": 15,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 208,
+      "chunk_index": 211,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Mahasiswa yang tidak melaporkan hasil pembelajarannya sebagaimana yang dimaksud pada ayat (14) tidak bisa melakukan perencanaan studinya (KRS) pada semester berikutnya."
@@ -2711,7 +2750,7 @@
       "ayat": 16,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 209,
+      "chunk_index": 212,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Dosen Pembimbing Akademik wajib memantau pelaporan hasil pembelajaran tersebut pada ayat (14) pada setiap mahasiswa yang menjadi bimbingan akademiknya (PA-nya). Bagian Kedua Evaluasi Hasil Belajar"
@@ -2724,7 +2763,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 210,
+      "chunk_index": 213,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Evaluasi Hasil Belajar adalah kriteria penilaian yang dilakukan secara bertahap terhadap pencapaian IPK untuk menentukan kemampuan mahasiswa dalam melanjutkan studi,"
@@ -2737,7 +2776,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 211,
+      "chunk_index": 214,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Evaluasi hasil belajar mahasiswa untuk suatu mata kuliah dilakukan oleh seorang dosen atau tim dosen untuk memantau proses dan perkembangan hasil belajar mahasiswa,"
@@ -2750,7 +2789,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 212,
+      "chunk_index": 215,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Evaluasi dapat dilakukan dengan cara observasi, pemberian tugas, ujian tertulis dan/ atau ujian lisan,"
@@ -2763,7 +2802,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 213,
+      "chunk_index": 216,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Ujian dapat diselenggarakan melalui kuis, ujian tengah semester, ujian akhir semester, ujian praktek, dan ujian tugas akhir/skripsi,"
@@ -2776,7 +2815,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 214,
+      "chunk_index": 217,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Evaluasi hasil belajar mahasiswa program sarjana dari SMA atau sederajat: a. Tahap I dilakukan pada akhir semester 4 (empat) dengan ketentuan: l.mampu mengumpulkan paling sedikit 35 (tiga puluh lima) SKS dengan IPK 2 2,50 (dua koma lima nol), 2. apabila mampu mengumpulkan » 35 (tiga puluh lima) SKS, tetapi IPK « 2,50 (dua koma lima nol) maka diambil nilai tertinggi sampai sejumlah 35 (tiga puluh lima) SKS dengan IPK 2 2,50 (dua koma lima nol). b. Tahap II dilakukan pada akhir semester 7 (tujuh) dengan ketentuan: l.mampu mengumpulkan paling sedikit 85 (delapan puluh lima) SKS dengan IPK 2 2,75 (dua koma tujuh lima), 2.apabila mampu mengumpulkan » 85 (delapan puluh lima) SKS, tetapi IPK « 2,75 (dua koma tujuh lima) maka diambil nilai tertinggi sampai sejumlah 85 (delapan puluh lima) SKS dengan IPK 2 2,75 (dua koma tujuh lima). c. Tahap INI dilakukan pada akhir program. Selambat- lambatnya pada akhir semester 14 (empat belas), mahasiswa harus sudah mengumpulkan dan lulus semua beban sks yang ditetapkan untuk program sarjana dan IPK 2 2,00 (dua koma nol nol)."
@@ -2789,7 +2828,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 215,
+      "chunk_index": 218,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Mahasiswa yang tidak dapat memenuhi ketentuan evaluasi dianggap tidak mampu mengikuti kegiatan akademik:"
@@ -2802,7 +2841,7 @@
       "ayat": 7,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 216,
+      "chunk_index": 219,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Mahasiswa sebagaimana dimaksud pada ayat (6) di atas, disarankan untuk mengajukan surat permohonan undur diri kepada Rektor melalui Dekan,"
@@ -2815,7 +2854,7 @@
       "ayat": 8,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 217,
+      "chunk_index": 220,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Universitas akan menerbitkan Keputusan Rektor UPN “Veteran” Jawa Timur tentang pengunduran diri mahasiswa dari salah satu program studi,"
@@ -2828,7 +2867,7 @@
       "ayat": 9,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 218,
+      "chunk_index": 221,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Apabila mahasiswa tidak mengajukan permohonan undur diri, pihak universitas akan menerbitkan Keputusan Rektor UPN “Veteran” Jawa Timur tentang pemutusan hubungan studi:"
@@ -2841,7 +2880,7 @@
       "ayat": 10,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 219,
+      "chunk_index": 222,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Fakultas melakukan evaluasi dan analisis terhadap hasil belajar mahasiswa setiap semester sebagai bagian dari proses penjaminan mutu. Bagian Ketiga Tugas Akhir/ Skripsi/ prototype"
@@ -2854,7 +2893,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 220,
+      "chunk_index": 223,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Tugas akhir/skripsi wajib disusun dan dilaksanakan oleh setiap mahasiswa program sarjana,"
@@ -2867,7 +2906,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 221,
+      "chunk_index": 224,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Tugas akhir/ skripsi/prototype dapat diambil setelah mahasiswa: a. menyelesaikan mata kuliah dengan jumlah sks sesuai yang dipersyaratkan Prodi pada kurikulum masing- masing dan menyelesaikan mata kuliah prasyarat untuk hal tersebut, b: mempunyai IPK minimal 2,00 (dua koma nol nol): Cc. lulus Mata Kuliah Metode Penelitian, d. lulus KKN dan PKL/KKP/Magang, e. mempunyai kemampuan Bahasa Inggris setara dengan TOEFL 450 atau International Certificate JETSET Level 4- Pearson-LCCI-UK (setara dengan IBT-TOEFL 57-86) atau Institusional Certificate English Proficiency Test/EPT 450- LC-UPNVJT (setara dengan ITP-TOEFL 450), f. terdaftar sebagai mahasiswa aktif pada semester yang bersangkutan, g. mengisi KRS Skripsi, h. mengikuti library class dan memiliki sertifikat sebagai peserta library class."
@@ -2880,7 +2919,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 222,
+      "chunk_index": 225,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Tugas akhir/Skripsi/prototype wajib disusun berdasarkan kaidah dan etika keilmuan, bebas dari unsur plagiarisme dan ditulis berdasarkan Pedoman Penulisan Skripsi yang ditetapkan oleh Fakultas,"
@@ -2893,7 +2932,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 223,
+      "chunk_index": 226,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Topik tugas akhir/skripsi merupakan bagian dari peta jalan penelitian atau pengabdian masyarakat yang ditetapkan di Fakultas atau Program Studi,"
@@ -2906,7 +2945,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 224,
+      "chunk_index": 227,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Laporan tugas akhir/skripsi/ prototype wajib melampirkan cek plagiasi yang dikeluarkan secara resmi oleh Perpustakaan UPN “Veteran” Jawa Timur dan persyaratan plagiasi kurang dari 20”4,"
@@ -2919,7 +2958,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 225,
+      "chunk_index": 228,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Beban studi tugas akhir atau skripsi adalah 6 (enam) sampai dengan 10 (sepuluh) SKS,"
@@ -2932,7 +2971,7 @@
       "ayat": 7,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 226,
+      "chunk_index": 229,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Ujian tugas akhir/skripsi / prototype dilaksanakan setelah mahasiswa telah menyelesaikan semua mata kuliah wajib dan pilihan sesuai kurikulum yang berlaku, dan mahasiswa telah menyajikan bagian dari tugas akhir/skripsi dalam forum ilmiah nasional/internasional yang dibuktikan dengan sertifikat pemakalah,"
@@ -2945,7 +2984,7 @@
       "ayat": 8,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 227,
+      "chunk_index": 230,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Ujian tugas akhir/ skripsi / prototype dilaksanakan secara tertutup sesuai dengan peraturan yang berlaku di program studi dan terdiri atas 2 (dua) tahap, yaitu presentasi oleh mahasiswa dan tanya jawab dengan waktu paling sedikit 60 menit:"
@@ -2958,7 +2997,7 @@
       "ayat": 9,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 228,
+      "chunk_index": 231,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Jumlah dosen penguji tugas akhir/ skripsi / prototype di luar dosen pembimbing minimal 2 (dua) orang,"
@@ -2971,7 +3010,7 @@
       "ayat": 10,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 229,
+      "chunk_index": 232,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Dalam keadaan khusus dapat diundang penguji yang bukan dari kalangan akademik namun memiliki keahlian dalam bidang terkait,"
@@ -2984,7 +3023,7 @@
       "ayat": 11,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 230,
+      "chunk_index": 233,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Segala bentuk luaran berupa HKI (Hak Kekayaan Intelektual), artikel jurnal ilmiah, dsb yang terkait dengan materi tugas akhir/skripsi / prototype akan menjadi hak bersama antara mahasiswa, para pembimbing dan universitas,"
@@ -2997,7 +3036,7 @@
       "ayat": 12,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 231,
+      "chunk_index": 234,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Tugas akhir/skripsi/ prototype yang penelitiannya merupakan penelitian kerjasama dengan dana pihak lain, maka hak penggunaan data dan luarannya (HKI, publikasi, buku, atau lainnya) diatur dalam perjanjian kerjasama antara dosen pembimbing dengan, mahasiswa, dan pihak lain yang diketahui Program Studi dan disetujui oleh Fakultas/Dekan,"
@@ -3010,7 +3049,7 @@
       "ayat": 13,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 232,
+      "chunk_index": 235,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Jika luaran Tugas akhir/skripsi / prototype adalah artikel ilmiah dan berhasil dipublikasi (accepted/published) dalam jurnal nasional terakreditasi Sinta (1-3) atau jurnal internasional yang terindex atau jurnal bereputasi terindeks dengan Scimago Journal Rank (SJR) s 0,1 dan/atau Journal Impact Factor (JIF) s 0,05 sebagai penulis pertama, maka mahasiswa tetap menyusun skripsinya sampai selesai namun tanpa ujian"
@@ -3023,7 +3062,7 @@
       "ayat": 14,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 233,
+      "chunk_index": 236,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Jika artikel ilmiah dan berhasil dipublikasi (accepted/published) dalam jurnal nasional terakreditasi Sinta (1-3) atau jurnal internasional bereputasi terindeks dengan Scimago Journal Rank (SJR) s 0,1 dan/atau Journal Impact Factor (JIF) s 0,05 sebagai penulis pertama, maka mahasiswa tetap menyusun skripsinya sampai selesai namun tanpa ujian dan dinyatakan lulus skripsi dengan nilai A: Sinta 4-6 dan Jurnal International tidak bereputasi dengan nilai (A-)"
@@ -3036,7 +3075,7 @@
       "ayat": 15,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 234,
+      "chunk_index": 237,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Luaran Tugas akhir/skripsi/ prototype bisa dibuat dalam bentuk lain seperti cipta karya yang telah diuji keilmiahannya tingkat nasional/internasional,"
@@ -3049,7 +3088,7 @@
       "ayat": 16,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 235,
+      "chunk_index": 238,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
     "page_content": "Ketentuan dan pengaturan tugas akhir/skripsi ditetapkan lebih lanjut oleh Fakultas."
@@ -3062,7 +3101,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 236,
+      "chunk_index": 239,
       "kategori": "perkuliahan mahasiswa transfer kredit"
     },
     "page_content": "Mahasiswa yang mengikuti kuliah sepenuhnya di luar UPN “Veteran” Jawa Timur selama sekurang- kurangnya 1 (satu) semester memperoleh status akademik sebagai mahasiswa transfer kredit,"
@@ -3075,7 +3114,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 237,
+      "chunk_index": 240,
       "kategori": "perkuliahan mahasiswa transfer kredit"
     },
     "page_content": "Mahasiswa UPN “Veteran” Jawa Timur yang mengikuti program Student Exchange, Joint Degree atau Double Degree harus terdaftar sebagai mahasiswa UPN “Veteran” Jawa Timur,"
@@ -3088,7 +3127,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 238,
+      "chunk_index": 241,
       "kategori": "perkuliahan mahasiswa transfer kredit"
     },
     "page_content": "Pada akhir program, mahasiswa yang mengikuti program sebagaimana dimaksud pada ayat (2) di atas wajib menyerahkan laporan hasil studi dengan nilai kelulusan yang diperoleh, untuk diakui sebagai mata kuliah yang telah ditempuh dan lulus,"
@@ -3101,7 +3140,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 239,
+      "chunk_index": 242,
       "kategori": "perkuliahan mahasiswa transfer kredit"
     },
     "page_content": "Mahasiswa yang mengikuti Student Exchange, Joint Degree, atau Double Degree yang gagal (pulang sebelum akhir program), hanya diperhitungkan mata kuliah yang telah lulus dan tidak diakui sebagai mahasiswa transfer kredit:"
@@ -3114,7 +3153,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 240,
+      "chunk_index": 243,
       "kategori": "perkuliahan mahasiswa transfer kredit"
     },
     "page_content": "Pengakuan mata kuliah bagi mahasiswa transfer kredit adalah sebagai berikut: a. bukti telah menyelesaikan program Student Exchange adalah sertifikat yang ditandatangani oleh Rektor dan Dekan, b. bukti telah menyelesaikan program Joint Degree adalah ijazah yang ditandatangani oleh Rektor UPN “Veteran” Jawa Timur bersama dengan Rektor perguruan tinggi mitra kerjasama, c. bukti telah menyelesaikan program Double Degree adalah ijazah yang ditandatangani oleh Dekan dan Rektor serta memperoleh ijazah dari perguruan tinggi mitra kerjasama,"
@@ -3127,7 +3166,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 241,
+      "chunk_index": 244,
       "kategori": "perkuliahan mahasiswa transfer kredit"
     },
     "page_content": "Masa studi mahasiswa transfer kredit diperhitungkan penuh sebagai masa studi mahasiswa aktif. Bagian Kedua Perkuliahan Mahasiswa Transfer Kredit ke dalam UPN “Veteran” Jawa Timur"
@@ -3140,7 +3179,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 242,
+      "chunk_index": 245,
       "kategori": "perkuliahan mahasiswa transfer kredit"
     },
     "page_content": "Mahasiswa dari universitas lain baik dari dalam maupun luar negeri yang mengikuti program Student Exchange, Joint Degree atau Double Degree atau program lain yang sejenis harus terdaftar sebagai mahasiswa transfer kredit UPN “Veteran” Jawa Timur,"
@@ -3153,7 +3192,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 243,
+      "chunk_index": 246,
       "kategori": "perkuliahan mahasiswa transfer kredit"
     },
     "page_content": "Mahasiswa transfer kredit dari universitas lain baik dari dalam maupun luar negeri dapat diwajibkan/ tidak diwajibkan membayar biaya pendidikan sesuai kesepakatan yang tertuang dalam kontrak atau perjanjian kerjasama,"
@@ -3166,7 +3205,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 244,
+      "chunk_index": 247,
       "kategori": "perkuliahan mahasiswa transfer kredit"
     },
     "page_content": "Mahasiswa transfer kredit dari universitas lain baik dari dalam maupun luar negeri dapat mengambil beberapa mata kuliah di berbagai program studi dalam satu semester berjalan secara bersamaan,"
@@ -3179,7 +3218,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 245,
+      "chunk_index": 248,
       "kategori": "perkuliahan mahasiswa transfer kredit"
     },
     "page_content": "Pengakuan mata kuliah bagi mahasiswa transfer kredit sebagai berikut: a. bukti telah menyelesaikan program Student Exchange adalah sertifikat yang ditandatangani oleh Rektor dan Dekan, b. bukti telah menyelesaikan program Joint Degree adalah ijazah yang ditandatangani oleh Rektor UPN “Veteran” Jawa Timur bersama dengan Rektor perguruan tinggi mitra kerjasama, c. bukti telah menyelesaikan program Double Degree adalah ijazah yang ditandatangani oleh Dekan dan Rektor serta memperoleh ijazah dari perguruan tinggi mitra kerjasama"
@@ -3192,7 +3231,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 246,
+      "chunk_index": 249,
       "kategori": "kuliah kerja nyata (kkn)"
     },
     "page_content": "Mahasiswa wajib mengikuti kegiatan KKN,"
@@ -3205,7 +3244,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 247,
+      "chunk_index": 250,
       "kategori": "kuliah kerja nyata (kkn)"
     },
     "page_content": "Syarat peserta KKN adalah mahasiswa yang telah dinyatakan lulus mata kuliah dan mengumpulkan SKS kumulatif paling sedikit 100 (seratus) SKS dengan IPK 2.75 serta mempunyai Surat Keterangan Kompetensi Softskill dan Hardskill yang telah mencapai 100 poin."
@@ -3218,7 +3257,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 248,
+      "chunk_index": 251,
       "kategori": "kuliah kerja nyata (kkn)"
     },
     "page_content": "Mahasiswa dapat mengikuti salah satu kegiatan KKN yang ditawarkan Universitas yang ditetapkan oleh Lembaga Penelitian dan Pengabdian kepada Masyarakat (LPPM):"
@@ -3231,7 +3270,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 249,
+      "chunk_index": 252,
       "kategori": "kuliah kerja nyata (kkn)"
     },
     "page_content": "Penyelenggaraan KKN minimal selama satu bulan dan maksimal 6 bulan yang dikoordinasikan oleh LPPM dan diatur lebih lanjut pada Buku Pedoman Pelaksanaan KKN yang berlaku,"
@@ -3244,7 +3283,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 250,
+      "chunk_index": 253,
       "kategori": "kuliah kerja nyata (kkn)"
     },
     "page_content": "Perhitungan/konversi besarnya sks masing-masing jenis KKN ditetapkan oleh LPPM bersama Prodi,"
@@ -3257,7 +3296,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 251,
+      "chunk_index": 254,
       "kategori": "kuliah kerja nyata (kkn)"
     },
     "page_content": "Jadwal pelaksanaan KKN diatur dalam kalender akademik yang ditetapkan dengan Keputusan Rektor UPN “Veteran” Jawa Timur,"
@@ -3270,7 +3309,7 @@
       "ayat": 7,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 252,
+      "chunk_index": 255,
       "kategori": "kuliah kerja nyata (kkn)"
     },
     "page_content": "Rektor dapat menetapkan kegiatan tertentu yang diakui dan disetarakan dengan KKN, yang dituangkan dalam Keputusan Rektor UPN “Veteran” Jawa Timur:"
@@ -3283,7 +3322,7 @@
       "ayat": 8,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 253,
+      "chunk_index": 256,
       "kategori": "kuliah kerja nyata (kkn)"
     },
     "page_content": "Tata cara dan persyaratan pendaftaran KKN diatur lebih lanjut dalam Buku Pedoman Pelaksanaan KKN."
@@ -3296,10 +3335,23 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 254,
+      "chunk_index": 257,
       "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
     },
-    "page_content": "Tugas dosen dalam bidang pendidikan dan pengajaran meliputi: a. merencanakan pembelajaran, b. melaksanakan perkuliahan, c. melaksanakan penilaian hasil belajar dan memasukkan nilai mata kuliah ke dalam Sistem Informasi Akademik (SIAMIK) sesuai dengan jadwal yang telah ditentukan dalam kalender akademik, d. melaporkan kegiatan perkuliahan di Pangkalan Data Pendidikan Tinggi (PD-DIKTI) setiap akhir semester (publish mata kuliah yang diampu pada semester tersebut) e. menyusun dan mengevaluasi bahan uji agar didapatkan bahan uji yang valid sesuai dengan tujuan capaian pembelajaran, f. melaksanakan fungsi-fungsi manajemen yang meliputi : 1, mengatur alokasi waktu perkuliahan, 2. menegakkan disiplin perkuliahan, 3.menginformasikan - atau memberikan - pembahasan penyelesaian permasalahan pada tes/ujian, dan 4.menginformasikan nilai tes/ujian/ tugas kepada mahasiswa. Bagian Kedua Pembimbing Akademik"
+    "page_content": "Tugas dosen dalam bidang pendidikan dan pengajaran meliputi: a. merencanakan pembelajaran, b. melaksanakan perkuliahan, c. melaksanakan penilaian hasil belajar dan memasukkan nilai mata kuliah ke dalam Sistem Informasi Akademik (SIAMIK) sesuai dengan jadwal yang telah ditentukan dalam kalender akademik, d. melaporkan kegiatan perkuliahan di Pangkalan Data Pendidikan Tinggi (PD-DIKTI) setiap akhir semester (publish mata kuliah yang diampu pada semester tersebut) e. menyusun dan mengevaluasi bahan uji agar didapatkan bahan uji yang valid sesuai dengan tujuan capaian pembelajaran, f. melaksanakan fungsi-fungsi manajemen yang meliputi : 1, mengatur alokasi waktu perkuliahan,"
+  },
+  {
+    "metadata": {
+      "sumber": "Peraturan_Akademik_2023",
+      "bab": 12,
+      "pasal": 34,
+      "ayat": 2,
+      "tahun_terbit": 2023,
+      "status": "berlaku",
+      "chunk_index": 258,
+      "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
+    },
+    "page_content": "menegakkan disiplin perkuliahan, 3.menginformasikan - atau memberikan - pembahasan penyelesaian permasalahan pada tes/ujian, dan 4.menginformasikan nilai tes/ujian/ tugas kepada mahasiswa. Bagian Kedua Pembimbing Akademik"
   },
   {
     "metadata": {
@@ -3309,7 +3361,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 255,
+      "chunk_index": 259,
       "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
     },
     "page_content": "Setiap mahasiswa mempunyai dosen pembimbing akademik yang ditetapkan oleh Fakultas,"
@@ -3322,7 +3374,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 256,
+      "chunk_index": 260,
       "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
     },
     "page_content": "Pembimbing akademik untuk mahasiswa program sarjana adalah dosen tetap yang bergelar minimal magister,"
@@ -3335,7 +3387,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 257,
+      "chunk_index": 261,
       "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
     },
     "page_content": "Pembimbing akademik memiliki tugas: a. mengarahkan mahasiswa menyusun rencana studi dan memberikan pertimbangan memilih mata kuliah yang akan diambil, b. menyetujui KRS (Kartu Rencana Studi) mahasiswa dalam SIDOS (Sistem Informasi Dosen), c. memberikan pertimbangan kepada mahasiswa tentang banyaknya SKS yang dapat diambil, d. mengikuti perkembangan studi mahasiswa yang dibimbing: e. memantau dan memastikan bahwa mahasiswa yang dibimbingnya telah melakukan pelaporan hasil pembelajaran ke PD-DIKTI melalui SIAMIK sebelum menyetujui KRS, f. membantu mencarikan solusi bagi mahasiswa yang dibimbingnya apabila ada permasalahan akademik, g. melaporkan kinerja sebagai pembimbing akademik kepada pimpinan unit minimal 1 kali per semester."
@@ -3348,7 +3400,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 258,
+      "chunk_index": 262,
       "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
     },
     "page_content": "Apabila pembimbing akademik berhalangan melaksanakan tugas, Koordinator Program Studi mengambil alih sementara tugas pembimbing akademik, dan melakukan persetujuan KRS sampai ditetapkan pembimbing akademik yang baru,"
@@ -3361,7 +3413,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 259,
+      "chunk_index": 263,
       "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
     },
     "page_content": "Pelaksanaan tugas pembimbing akademik merupakan salah satu komponen evaluasi kinerja dosen. Bagian Ketiga Pembimbing Tugas Akhir/ Skripsi"
@@ -3374,7 +3426,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 260,
+      "chunk_index": 264,
       "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
     },
     "page_content": "Penyusunan tugas akhir/ skripsi mahasiswa di bawah pantauan dan evaluasi dosen pembimbing tugas akhir,"
@@ -3387,7 +3439,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 261,
+      "chunk_index": 265,
       "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
     },
     "page_content": "Jumlah pembimbing tugas akhir/skripsi untuk 1 (satu) orang mahasiswa paling banyak 2 (dua) orang dosen (pembimbing utama dan pendamping):"
@@ -3400,7 +3452,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 262,
+      "chunk_index": 266,
       "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
     },
     "page_content": "Persyaratan pembimbing utama: a.dosen tetap dengan jabatan fungsional minimal asisten ahli dan bergelar magister: b. mempunyai bidang kepakaran yang relevan dengan tugas akhir, c. minimal 2 (dua) kali pernah sebagai pembimbing kedua."
@@ -3413,7 +3465,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 263,
+      "chunk_index": 267,
       "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
     },
     "page_content": "Persyaratan pembimbing kedua: a. dosen tetap universitas atau dosen tidak tetap, atau pakar dari lembaga lain yang disetarakan dengan pendidikan magister, b. mempunyai bidang kepakaran yang relevan dengan tugas akhir,"
@@ -3426,7 +3478,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 264,
+      "chunk_index": 268,
       "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
     },
     "page_content": "Jurusan atau Koordinator Program Studi mengajukan usulan dosen yang menjadi pembimbing tugas akhir/ skripsi untuk seorang mahasiswa berdasarkan kepakaran dan beban kerja dosen yang bersangkutan kepada Dekan,"
@@ -3439,7 +3491,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 265,
+      "chunk_index": 269,
       "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
     },
     "page_content": "Penugasan dosen pembimbing tugas akhir/ skripsi ditetapkan dengan Keputusan Dekan atas usulan dari Jurusan / Program Studi,"
@@ -3452,7 +3504,7 @@
       "ayat": 7,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 266,
+      "chunk_index": 270,
       "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
     },
     "page_content": "Untuk menjamin mutu bimbingan maka beban kerja dosen dalam membimbing penelitian terstruktur dalam rangka penyusunan tugas akhir paling banyak 8 (delapan) mahasiswa per semester,"
@@ -3465,7 +3517,7 @@
       "ayat": 8,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 267,
+      "chunk_index": 271,
       "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
     },
     "page_content": "Koordinator Program Studi secara berkala membantu proses pembimbingan dan apabila proses pembimbingan tidak berjalan dengan baik dan teratur, maka koordinator program studi dapat mengusulkan penggantian dosen pembimbing skripsi,"
@@ -3478,7 +3530,7 @@
       "ayat": 9,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 268,
+      "chunk_index": 272,
       "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
     },
     "page_content": "Pembimbingan dilakukan di lingkungan kampus secara terstruktur, paling sedikit 6 (enam) kali dalam satu semester, dan wajib direkam dalam buku/kartu bimbingan,"
@@ -3491,7 +3543,7 @@
       "ayat": 10,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 269,
+      "chunk_index": 273,
       "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
     },
     "page_content": "Dalam hal terdapat keberatan atas penunjukan pembimbing tugas akhir/ skripsi maupun proses pembimbingan, maka diselesaikan oleh Ketua Jurusan atau Wakil Dekan 1,"
@@ -3504,7 +3556,7 @@
       "ayat": 11,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 270,
+      "chunk_index": 274,
       "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
     },
     "page_content": "Dosen pembimbing tugas akhir/ skripsi mempunyai tugas: a. Mengarahkan topik-topik penelitian/tugas akhir yang mendukung roadmap penelitian Fakultas, Universitas atau Rencana Induk Riset Nasional (RIRN) atau topik- topik penelitian yang menjadi prioritas pemerintah karena situasi yang terjadi, b. Memberikan persetujuan tentang topik yang diambil oleh mahasiswa bimbingannya sesuai dengan topik yang diarahkan pada ayat (11) butir a, c. Mengarahkan dan memastikan bahwa mahasiswa mampu menyusun penelitian/tugas akhir yang benar dan berkualitas sesuai dengan kaidah ilmiah, d. Mengkoreksi dan memastikan bahwa laporan tugas akhir/skripsi telah disusun dengan baik sesuai dengan kaidah ilmiah dan mengikuti format penulisan ilmiah, e. Memastikan bahwa mahasiswa bimbinganya mampu dan sudah siap diujikan tugas akhir/skripsinya, £ Mengarahkan dan memastikan bimbingannya telah menyusun artikel ilmiah yang siap dipublish minimal di jurnal nasional terakreditasi, g. mengarahkan dan memantau mahasiswa yang dibimbing untuk mengisi tracer study dalam periode minimal 2 tahun setelah lulus, h. melaporkan kinerja sebagai pembimbing akademik kepada pimpinan unit minimal 1 kali per semester"
@@ -3517,7 +3569,7 @@
       "ayat": 12,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 271,
+      "chunk_index": 275,
       "kategori": "dosen, pembimbing akademik, dan pembimbing tugas akhir"
     },
     "page_content": "Dosen pembimbing tugas akhir/ skripsi wajib mengupayakan penyelesaian pembimbingan tugas akhir /skripsi maksimal dalam 1 (satu) semester atau 2 (dua semester) bagi bidang ilmu tertentu."
@@ -3530,7 +3582,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 272,
+      "chunk_index": 276,
       "kategori": "semester antara"
     },
     "page_content": "Satu tahun akademik terdiri atas 2 (dua) semester dan UPN “Veteran” Jawa Timur dapat menyelenggarakan Semester Antara,"
@@ -3543,7 +3595,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 273,
+      "chunk_index": 277,
       "kategori": "semester antara"
     },
     "page_content": "Semester Antara sebagaimana dimaksud pada ayat (1) diselenggarakan: a. selama paling sedikit 8 (delapan) minggu, b. beban belajar mahasiswa paling banyak 9 (sembilan) sks, dan Cc. tatap muka sebanyak 16 (enam belas) kali termasuk evaluasi tengah Semester Antara dan evaluasi akhir Semester Antara."
@@ -3556,7 +3608,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 274,
+      "chunk_index": 278,
       "kategori": "semester antara"
     },
     "page_content": "Pelaksanaan Semester Antara dilakukan sesuai kebutuhan dan diatur oleh Fakultas."
@@ -3569,7 +3621,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 275,
+      "chunk_index": 279,
       "kategori": "status mahasiswa"
     },
     "page_content": "Pada setiap semester, mahasiswa memiliki salah satu status akademik tertentu, yakni: a. Aktif, b. tidak aktif, c. cuti akademik, d. Mendapatkan sanksi, e. pindah studi (transfer), f. undur diri, g. putus studi/ Drop Out (DO), h. meninggal dunia, i. lulus"
@@ -3582,7 +3634,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 276,
+      "chunk_index": 280,
       "kategori": "status mahasiswa"
     },
     "page_content": "Fakultas melakukan evaluasi dan analisis terhadap status mahasiswa pada setiap semester sebagai bagian dari proses penjaminan mutu"
@@ -3595,7 +3647,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 277,
+      "chunk_index": 281,
       "kategori": "cuti akademik"
     },
     "page_content": "Cuti akademik adalah masa tidak mengikuti kegiatan akademik untuk waktu sekurang-kurangnya 1 (satu) semester dan sebanyak-banyaknya 2 (dua) semester, yang tidak berturut-turut,"
@@ -3608,7 +3660,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 278,
+      "chunk_index": 282,
       "kategori": "cuti akademik"
     },
     "page_content": "Cuti akademik hanya dapat diberikan kepada mahasiswa yang telah mengikuti kegiatan akademik sekurang- kurangnya 2 (dua) semester, kecuali untuk cuti akademik karena alasan khusus,"
@@ -3621,7 +3673,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 279,
+      "chunk_index": 283,
       "kategori": "cuti akademik"
     },
     "page_content": "Jadwal pengajuan cuti akademik diatur dalam kalender akademik, kecuali untuk cuti akademik karena alasan khusus,"
@@ -3634,7 +3686,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 280,
+      "chunk_index": 284,
       "kategori": "cuti akademik"
     },
     "page_content": "Cuti akademik karena alasan khusus adalah cuti akademik yang diberikan karena mahasiswa mengalami halangan yang tidak dapat dihindari, antara lain karena melahirkan, melaksanakan tugas negara, tugas universitas atau menjalani pengobatan yang tidak memungkinkan untuk mengikuti kegiatan akademik,"
@@ -3647,7 +3699,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 281,
+      "chunk_index": 285,
       "kategori": "cuti akademik"
     },
     "page_content": "Cuti akademik tidak dihitung sebagai masa studi,"
@@ -3660,7 +3712,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 282,
+      "chunk_index": 286,
       "kategori": "cuti akademik"
     },
     "page_content": "Izin cuti akademik tidak berlaku surut,"
@@ -3673,7 +3725,7 @@
       "ayat": 7,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 283,
+      "chunk_index": 287,
       "kategori": "cuti akademik"
     },
     "page_content": "Mahasiswa yang berstatus cuti akademik tidak diwajibkan membayar biaya pendidikan/ UKT (Uang Kuliah Tunggal),"
@@ -3686,7 +3738,7 @@
       "ayat": 8,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 284,
+      "chunk_index": 288,
       "kategori": "cuti akademik"
     },
     "page_content": "Mahasiswa yang memperoleh izin cuti akademik tidak diperkenankan melakukan kegiatan akademik,"
@@ -3699,7 +3751,7 @@
       "ayat": 9,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 285,
+      "chunk_index": 289,
       "kategori": "cuti akademik"
     },
     "page_content": "Mahasiswa yang sedang menjalani hukuman skorsing tidak dapat mengajukan cuti akademik,"
@@ -3712,7 +3764,7 @@
       "ayat": 10,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 286,
+      "chunk_index": 290,
       "kategori": "cuti akademik"
     },
     "page_content": "Mahasiswa dengan status cuti akademik dilaporkan pada pangkalan data pendidikan tinggi sehingga statusnya tidak aktif/cuti, dan pemberian ijin cuti tetap memperhatikan penjaminan mutu."
@@ -3725,7 +3777,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 287,
+      "chunk_index": 291,
       "kategori": "cuti akademik"
     },
     "page_content": "Permohonan cuti akademik diajukan oleh mahasiswa bersangkutan kepada Rektor c/g Warek I dengan alasan yang dapat diterima secara akademik dan diketahui oleh orang tua, Koordinator Program Studi dan Dekan,"
@@ -3738,7 +3790,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 288,
+      "chunk_index": 292,
       "kategori": "cuti akademik"
     },
     "page_content": "Persetujuan cuti akademik diterbitkan dalam bentuk Surat Ijin Cuti Akademik,"
@@ -3751,7 +3803,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 289,
+      "chunk_index": 293,
       "kategori": "cuti akademik"
     },
     "page_content": "Permohonan cuti akademik sebagaimana ayat satu (1) diajukan sebelum pelaksanaan /jadwal registrasi administratif, dengan mengisi formulir yang tersedia dan a. transkrip akademik, b, bukti pembayaran UKT terakhir, c. fotokopi Kartu Tanda Mahasiswa (KTM), dan d. dokumen pendukung alasan cuti."
@@ -3764,7 +3816,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 290,
+      "chunk_index": 294,
       "kategori": "cuti akademik"
     },
     "page_content": "Cuti akademik tidak bisa diajukan pada saat perkuliahaan sudah berjalan atau pada akhir semester."
@@ -3777,7 +3829,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 291,
+      "chunk_index": 295,
       "kategori": "cuti akademik"
     },
     "page_content": "Berdasarkan surat izin cuti, operator sistem BAKPK wajib memutakhirkan status mahasiswa menjadi cuti sebelum masa registrasi administratif berakhir."
@@ -3790,7 +3842,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 292,
+      "chunk_index": 296,
       "kategori": "tidak aktif"
     },
     "page_content": "Mahasiswa yang tidak melaksanakan registrasi administratif dan/ atau registrasi akademik akan memperoleh status akademik tidak aktif pada semester berjalan dan masa studi diperhitungkan,"
@@ -3803,7 +3855,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 293,
+      "chunk_index": 297,
       "kategori": "tidak aktif"
     },
     "page_content": "Mahasiswa yang berstatus tidak aktif sebagaimana dimaksud pada ayat (1) di atas diwajibkan membayar biaya pendidikan sebesar 100 (seratus) persen selama semester tidak aktif,"
@@ -3816,7 +3868,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 294,
+      "chunk_index": 298,
       "kategori": "tidak aktif"
     },
     "page_content": "Mahasiswa yang berstatus tidak aktif selama 2 (dua) semester berturut-turut atau 4 (empat) semester secara tidak berurutan dinyatakan kehilangan statusnya sebagai mahasiswa,"
@@ -3829,7 +3881,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 295,
+      "chunk_index": 299,
       "kategori": "tidak aktif"
     },
     "page_content": "Rektor dapat mempertimbangkan kembali status mahasiswa pada ayat (3) dengan ketentuan: a. Mahasiswa mengajukan surat permohonan aktif kembali kepada Rektor paling lambat 1 bulan sebelum perkuliahan semester berikutnya dimulai, dan, b. Jika permohonan disetujui oleh Rektor, maka mahasiswa diwajibkan menyelesaikan semua kewajiban administratif, biaya pendidikan, dan wajib mendaftar ulang sesuai ketentuan yang berlaku,"
@@ -3842,7 +3894,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 296,
+      "chunk_index": 300,
       "kategori": "tidak aktif"
     },
     "page_content": "Jjin aktif kembali bagi mahasiswa tersebut pada ayat (4) hanya diberikan sekali selama masa studi di UPN “Veteran” Jawa Timur, dan jangka waktu selama tidak aktif diperhitungkan sebagai masa studi."
@@ -3855,7 +3907,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 297,
+      "chunk_index": 301,
       "kategori": "pindah studi"
     },
     "page_content": "Mahasiswa dapat mengajukan permohonan pindah studi untuk memperoleh transfer kredit atas mata kuliah yang telah diperoleh di program studi lain, baik program studi di lingkungan UPN “Veteran” Jawa Timur maupun perguruan tinggi lain. Bagian Kesatu Pindah Studi di Lingkungan UPN “Veteran” Jawa Timur"
@@ -3868,7 +3920,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 298,
+      "chunk_index": 302,
       "kategori": "pindah studi"
     },
     "page_content": "Mahasiswa dapat melakukan pindah studi di lingkungan UPN “Veteran” Jawa Timur apabila: a.telah mengikuti kegiatan akademik paling sedikit 2 (dua) semester berturut - turut, b. bukan karena melanggar tata tertib kehidupan kampus atau sebab lain yang sejenis, c.tidak buta warna bagi fakultas/ program studi yang mempersyaratkan dan tidak cacat fisik yang dapat mengganggu proses belajar mengajar: G.akreditasi Prodi asal minimal sama dengan akreditasi Prodi yang dituju, e. disetujui oleh fakultas baik fakultas asal maupun fakultas yang dituju, melalui pertimbangan program studi, dengan memperhatikan kemampuan daya tampung dan/atau hasil pengakuan mata kuliah yang telah ditempuh dan/ atau sisa masa studi, f pengajuan permohonan pindah studi diajukan oleh mahasiswa paling lambat 4 (empat) minggu sebelum awal kuliah Semester Gasal/ Genap sesuai dengan kalender akademik."
@@ -3881,7 +3933,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 299,
+      "chunk_index": 303,
       "kategori": "pindah studi"
     },
     "page_content": "Pindah studi hanya diizinkan satu kali:"
@@ -3894,7 +3946,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 300,
+      "chunk_index": 304,
       "kategori": "pindah studi"
     },
     "page_content": "Mata kuliah yang dapat ditransferkreditkan harus memenuhi syarat sebagai berikut: a. memiliki kandungan materi yang setara dengan mata kuliah yang terdapat pada kurikulum program studi yang sudah diikuti, b. apabila mata kuliah yang diambil tidak memenuhi kriteria dalam butir a, namun dianggap mendukung ketercapaian kompetensi, dapat ditransferkreditkan sebagai mata kuliah pilihan:"
@@ -3907,7 +3959,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 301,
+      "chunk_index": 305,
       "kategori": "pindah studi"
     },
     "page_content": "Lama studi yang telah ditempuh tetap diperhitungkan dalam masa studi pada fakultas/ program studi yang dituju,"
@@ -3920,7 +3972,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 302,
+      "chunk_index": 306,
       "kategori": "pindah studi"
     },
     "page_content": "Pindah studi mahasiswa ditetapkan dengan Keputusan Rektor UPN “Veteran” Jawa Timur setelah memperoleh persetujuan dari fakultas dan program studi yang dituju,"
@@ -3933,7 +3985,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 303,
+      "chunk_index": 307,
       "kategori": "pindah studi"
     },
     "page_content": "Tatacara pengajuan permohonan pindah studi di lingkungan UPN “Veteran” Jawa Timur diatur pada buku Pedoman Akademik. Bagian Kedua Pindah Studi dari PTN Lain"
@@ -3946,7 +3998,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 304,
+      "chunk_index": 308,
       "kategori": "pindah studi"
     },
     "page_content": "UPN “Veteran” Jawa Timur menerima mahasiswa pindahan yang berasal dari PTN lain di awal Semester Gasal (tahun ajaran baru),"
@@ -3959,7 +4011,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 305,
+      "chunk_index": 309,
       "kategori": "pindah studi"
     },
     "page_content": "UPN “Veteran” Jawa Timur menerima mahasiswa pindahan yang berasal dari PTN lain apabila: a. status Badan Akreditasi Nasional-Perguruan Tinggi (BAN- PT)/ Lembaga Akreditasi Mandiri-Perguruan Tinggi (LAM- PT) perguruan tingginya sama atau lebih tinggi, (unggul) b.fakultas/ program studi dari PTN asal harus sejenis dan sejalur dengan fakultas/ program studi yang dituju di lingkungan UPN “Veteran” Jawa Timur dan dengan peringkat akreditasi dari Badan Akreditasi Nasional- Perguruan Tinggi (BAN-PT)/ Lembaga Akreditasi Mandiri- Perguruan Tinggi (LAM-PT) yang setingkat atau lebih tinggi, c. tidak dalam status dikeluarkan/ putus studi dari PTN lain, d.tidak pernah melakukan pelanggaran tata tertib kehidupan kampus universitas atau fakultas atau sebab lain yang sejenis, yang dinyatakan dengan surat keterangan dari institusi asal, e.alasan pindah karena mengikuti keluarga (dikuatkan dengan surat keterangan dari pihak yang berwenang), sebagai utusan daerah/PTN (dikuatkan dengan surat usulan dari Pemerintah Daerah atau Rektor yang bersangkutan), atau kondisi force major (bencana alam, kerusuhan, dan lainnya yang sejenis),"
@@ -3972,7 +4024,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 306,
+      "chunk_index": 310,
       "kategori": "pindah studi"
     },
     "page_content": "Lama studi yang diperoleh di PTN asal, paling sedikit 2 (dua) semester dan/atau paling banyak telah menempuh 4 (empat) semester dengan ketentuan sebagai berikut:"
@@ -3985,7 +4037,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 307,
+      "chunk_index": 311,
       "kategori": "pindah studi"
     },
     "page_content": "Lama studi yang telah ditempuh, tetap diperhitungkan dalam masa studi pada fakultas/ program studi UPN “Veteran” Jawa Timur yang dituju,"
@@ -3998,7 +4050,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 308,
+      "chunk_index": 312,
       "kategori": "pindah studi"
     },
     "page_content": "Pengajuan permohonan pindah studi diajukan paling lambat 4 (empat) minggu sebelum awal kuliah Semester Gasal dimulai,"
@@ -4011,7 +4063,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 309,
+      "chunk_index": 313,
       "kategori": "pindah studi"
     },
     "page_content": "Persetujuan pindah studi perlu mempertimbangkan kemampuan daya tampung pada fakultas/ program studi di lingkungan UPN “Veteran” Jawa Timur, konversi mata kuliah, serta sisa masa studi,"
@@ -4024,7 +4076,7 @@
       "ayat": 7,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 310,
+      "chunk_index": 314,
       "kategori": "pindah studi"
     },
     "page_content": "Pindah studi mahasiswa ditetapkan dengan Keputusan Rektor UPN “Veteran” Jawa Timur setelah memperoleh persetujuan dari fakultas/ program studi yang dituju,"
@@ -4037,7 +4089,7 @@
       "ayat": 8,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 311,
+      "chunk_index": 315,
       "kategori": "pindah studi"
     },
     "page_content": "Rektor dapat menetapkan lain di luar ketentuan tersebut di atas dengan pertimbangan khusus, antara lain: a. kasus politik, b. kerusuhan, c. keamanan, d. bencana alam."
@@ -4050,7 +4102,7 @@
       "ayat": 9,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 312,
+      "chunk_index": 316,
       "kategori": "pindah studi"
     },
     "page_content": "Tata cara pengajuan permohanan pindah studi dari PTN lain diatur dalam buku Pedoman Akademik. Bagian Ketiga Pindah Studi dari Perguruan Tinggi Luar Negeri"
@@ -4063,7 +4115,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 313,
+      "chunk_index": 317,
       "kategori": "pindah studi"
     },
     "page_content": "UPN “Veteran” Jawa Timur dapat menerima mahasiswa pindahan yang berasal dari perguruan tinggi luar negeri di setiap awal Semester Gasal,"
@@ -4076,7 +4128,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 314,
+      "chunk_index": 318,
       "kategori": "pindah studi"
     },
     "page_content": "UPN “Veteran” Jawa Timur menerima mahasiswa WNI/ WNA pindahan yang berasal dari perguruan tinggi luar negeri yang diakui oleh Kementerian Pendidikan dan Kebudayaan, dan telah mengikuti pendidikan sekurang- kurangnya 2 (dua) semester, serta memenuhi ketentuan yang berlaku:"
@@ -4089,7 +4141,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 315,
+      "chunk_index": 319,
       "kategori": "pindah studi"
     },
     "page_content": "Pengajuan permohonan pindah studi diajukan paling lambat 4 (empat) minggu sebelum awal kuliah Semester Gasal dimulai:"
@@ -4102,7 +4154,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 316,
+      "chunk_index": 320,
       "kategori": "pindah studi"
     },
     "page_content": "Bagi mahasiswa WNA dari perguruan tinggi luar negeri yang akan pindah studi menjadi mahasiswa di UPN “Veteran” Jawa Timur harus menyerahkan persyaratan sebagai berikut: a. daftar riwayat hidup, b. fotokopi/ salinan ijazah dan transkrip akademik, Cc. surat keterangan jaminan pembiayaan selama mengikuti pendidikan di Indonesia berupa bank account, d.fotokopi paspor yang masih berlaku minimal 1 (satu) tahun, e. surat pernyataan yang bersangkutan tidak akan bekerja selama belajar di Indonesia, f. surat pernyataan yang bersangkutan akan mematuhi peraturan perundangan-undangan yang berlaku di Indonesia, &. pasfoto terbaru, h. surat keterangan kesehatan dari instansi berwenang, dan i. surat izin dari Kementerian Pendidikan dan Kebudayaan."
@@ -4115,7 +4167,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 317,
+      "chunk_index": 321,
       "kategori": "pindah studi"
     },
     "page_content": "Bagi mahasiswa WNI dari perguruan tinggi luar negeri yang akan pindah studi menjadi mahasiswa di UPN “Veteran” Jawa Timur harus menyerahkan persyaratan sebagai berikut: a. daftar riwayat hidup: b. fotokopi/salinan ijazah dan transkrip akademik, c. surat pernyataan yang bersangkutan akan mematuhi segala peraturan perundangan-undangan yang berlaku di Indonesia, d. pasfoto terbaru, e. surat keterangan kesehatan dari instansi berwenang."
@@ -4128,7 +4180,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 318,
+      "chunk_index": 322,
       "kategori": "putus studi"
     },
     "page_content": "Mahasiswa dinyatakan putus studi apabila: a. melebihi batas studi 7 (tujuh) tahun atau tidak dapat memenuhi ketentuan evaluasi hasil belajar sebagaimana tersebut pada pasal 29, b. Tidak aktif selama 2 (dua) semester berturut-turut atau 4 (empat) semester secara tidak berurutan, c.dinyatakan tidak laik lanjut studi atas dasar pertimbangan tes kesehatan (baik kesehatan fisik maupun mental) dari tim dokter yang ditunjuk oleh pimpinan universitas, d. mendapat sanksi atas pelanggaran akademik berat, e. mendapat keputusan pengadilan yang telah mempunyai kekuatan hukum tetap dengan hukuman sekurang-kurangnya 2 (dua) semester."
@@ -4141,7 +4193,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 319,
+      "chunk_index": 323,
       "kategori": "putus studi"
     },
     "page_content": "Mahasiswa yang putus studi sebagaimana diatur ayat (1) huruf a, b dan c maka dapat: a. mengajukan surat permohonan undur diri yang disetujui orang tua, b. diketahui pembimbing akademik/ Koordinator Program Studi ditujukan kepada Dekan, c. Dekan mengajukan surat permohonan kepada Rektor untuk diterbitkan Keputusan Rektor UPN “Veteran” Jawa Timur tentang undur diri, d.Rektor berdasarkan usulan dari Dekan menerbitkan Keputusan Rektor tentang undur diri, e. Bagi mahasiswa yang tidak laik melanjutkan studi, apabila dalam waktu paling lambat 2 (dua) bulan sejak dinyatakan tidak laik lanjut studi mahasiswa yang bersangkutan tidak mengajukan undur diri, maka Rektor menerbitkan Keputusan Rektor UPN “Veteran” Jawa Timur tentang pemutusan hubungan studi, f. Diberikan hak untuk mendapatkan data hasil atau prestasi studi."
@@ -4154,7 +4206,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 320,
+      "chunk_index": 324,
       "kategori": "putus studi"
     },
     "page_content": "Mahasiswa yang putus studi sebagaimana diatur ayat (1) huruf d dan e maka: a,dalam waktu paling lambat 1 (satu) bulan setelah keputusan tim hukum UPN “Veteran” Jawa Timur yang dituangkan dalam Keputusan Rektor UPN “Veteran” Jawa Timur atau keputusan pengadilan, Dekan mengajukan surat permohonan kepada Rektor untuk diterbitkan Keputusan Rektor UPN “Veteran” Jawa Timur tentang putus studi, b. Rektor berdasarkan usulan dari Dekan menerbitkan Keputusan Rektor UPN “Veteran” Jawa Timur tentang pemutusan hubungan studi, c. Tidak diberikan hak untuk mendapatkan data hasil atau prestasi studi."
@@ -4167,7 +4219,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 321,
+      "chunk_index": 325,
       "kategori": "kelulusan"
     },
     "page_content": "Mahasiswa dinyatakan lulus apabila memenuhi persyaratan sebagai berikut: a. telah lulus ujian tugas akhir/ skripsi di depan penguji atau tim penguji, b. telah menyerahkan revisi tugas akhir/ skripsi yang lolos dari deteksi anti plagiarisme dengan aplikasi tertentu dan dibuktikan dengan surat keterangan sirmilarity, c. berstatus sebagai mahasiswa aktif pada semester tersebut dan tidak melampaui masa studi maksimum yang ditetapkan universitas, d. menyelesaikan semua kewajiban administratif termasuk mengembalikan semua koleksi perpustakaan/ laboratorium yang dipinjam, e. telah menyelesaikan semua kewajiban dalam masa studi dan/atau tugas yang dibebankan sesuai dengan kurikulum yang ditetapkan untuk program studi (termasuk tugas akhir yang telah diperbaiki), f. telah mengunggah tugas akhir/skripsi pada repository UPN “Veteran” Jawa Timur, g. mempunyai artikel dari tugas akhir/skripsi yang telah dipublikasi paling rendah di jurnal nasional sebagai penulis pertama dengan status accepted/ published."
@@ -4180,7 +4232,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 322,
+      "chunk_index": 326,
       "kategori": "kelulusan"
     },
     "page_content": "Kelulusan mahasiswa dinyatakan melalui penetapan kelulusan di fakultas,"
@@ -4193,23 +4245,10 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 323,
+      "chunk_index": 327,
       "kategori": "kelulusan"
     },
-    "page_content": "Penetapan kelulusan sebagaimana yang dimaksud pada ayat"
-  },
-  {
-    "metadata": {
-      "sumber": "Peraturan_Akademik_2023",
-      "bab": 19,
-      "pasal": 47,
-      "ayat": 2,
-      "tahun_terbit": 2023,
-      "status": "berlaku",
-      "chunk_index": 324,
-      "kategori": "kelulusan"
-    },
-    "page_content": "tersebut diselenggarakan melalui yudisium di tingkat fakultas,"
+    "page_content": "Penetapan kelulusan sebagaimana yang dimaksud pada ayat (2) tersebut diselenggarakan melalui yudisium di tingkat fakultas,"
   },
   {
     "metadata": {
@@ -4219,7 +4258,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 325,
+      "chunk_index": 328,
       "kategori": "kelulusan"
     },
     "page_content": "Mahasiswa yang tidak menyerahkan revisi dalam waktu 1 (satu) bulan sejak pelaksanaan ujian tugas akhir/ skripsi, wajib mengikuti ujian ulang,"
@@ -4232,7 +4271,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 326,
+      "chunk_index": 329,
       "kategori": "kelulusan"
     },
     "page_content": "Kelulusan setelah menyelesaikan program sarjana dapat diberikan dengan atau tanpa predikat yang terdiri atas: a. Memuaskan, b. Sangat Memuaskan: c. Pujian (Cumlaude)."
@@ -4245,7 +4284,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 327,
+      "chunk_index": 330,
       "kategori": "kelulusan"
     },
     "page_content": "Predikat kelulusan “memuaskan” diberikan apabila memperoleh IPK 2,76 (dua koma tujuh enam) sampai dengan 3,00 (tiga koma nol nol):"
@@ -4258,7 +4297,7 @@
       "ayat": 7,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 328,
+      "chunk_index": 331,
       "kategori": "kelulusan"
     },
     "page_content": "Predikat kelulusan “sangat memuaskan” diberikan apabila memperoleh IPK 3,01 (tiga koma nol satu) sampai dengan 3,50 (tiga koma lima nol):"
@@ -4271,7 +4310,7 @@
       "ayat": 8,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 329,
+      "chunk_index": 332,
       "kategori": "kelulusan"
     },
     "page_content": "Predikat kelulusan “pujian” (cumlaude) diberikan apabila memperoleh IPK 3,51 (tiga koma lima satu) sampai dengan 4,00 (empat koma nol nol), tidak terdapat nilai C pada transkrip,"
@@ -4284,7 +4323,7 @@
       "ayat": 9,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 330,
+      "chunk_index": 333,
       "kategori": "kelulusan"
     },
     "page_content": "Predikat kelulusan “pujian” (cumlaude) ditentukan juga dengan memperhatikan masa studi terjadwal (n semester) ditambah 1 (satu) semester,"
@@ -4297,7 +4336,7 @@
       "ayat": 10,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 331,
+      "chunk_index": 334,
       "kategori": "kelulusan"
     },
     "page_content": "Rektor memberikan penghargaan piagam kepada lulusan dengan predikat “pujian” (cumlaude). Bagian Kesatu Upacara Wisuda"
@@ -4310,7 +4349,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 332,
+      "chunk_index": 335,
       "kategori": "kelulusan"
     },
     "page_content": "UPN “Veteran” Jawa Timur menyelenggarakan upacara wisuda sekurang-kurangnya 3 (tiga) kali periode kelulusan dalam 1 (satu) tahun,"
@@ -4323,7 +4362,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 333,
+      "chunk_index": 336,
       "kategori": "kelulusan"
     },
     "page_content": "Mahasiswa yang telah dinyatakan lulus dari pendidikan sarjana di UPN “Veteran” Jawa Timur wajib mengikuti upacara wisuda pada periode kelulusannya, atau selambat-lambatnya 1 (satu) periode wisuda berikutnya sejak dinyatakan lulus,"
@@ -4336,7 +4375,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 334,
+      "chunk_index": 337,
       "kategori": "kelulusan"
     },
     "page_content": "Mahasiswa yang belum mengikuti wisuda sebagaimana yang dimaksud ayat (2) belum bisa mendapatkan ijazah dan transkrip asli,"
@@ -4349,7 +4388,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 335,
+      "chunk_index": 338,
       "kategori": "kelulusan"
     },
     "page_content": "Mahasiswa yang telah dinyatakan lulus dari program sarjana akan mendapatkan ijazah, transkrip akademik, SKPI dan ucapan selamat dari Rektor,"
@@ -4362,7 +4401,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 336,
+      "chunk_index": 339,
       "kategori": "kelulusan"
     },
     "page_content": "Mahasiswa terbaik ditetapkan berdasarkan IPK tertinggi, masa studi tercepat, dan tepat waktu, poin SKPM terbesar, serta kriteria lain yang ditetapkan oleh Fakultas,"
@@ -4375,7 +4414,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 337,
+      "chunk_index": 340,
       "kategori": "kelulusan"
     },
     "page_content": "Wisudawan berprestasi ditetapkan berdasarkan kriteria prestasi tertinggi secara akumulatif selama menjadi mahasiswa UPN “Veteran” Jawa Timur yang mengacu pada peraturan SKPM, meliputi bidang ilmu pengetahuan, teknologi, hukum, humniora, olahraga, seni budaya di tingkat nasional/internasional. Bagian Kedua Gelar dan Sebutan"
@@ -4388,7 +4427,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 338,
+      "chunk_index": 341,
       "kategori": "kelulusan"
     },
     "page_content": "Gelar sarjana adalah gelar yang diberikan kepada lulusan UPN “Veteran” Jawa Timur yang telah dinyatakan lulus pendidikan akademik program sarjana,"
@@ -4401,7 +4440,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 339,
+      "chunk_index": 342,
       "kategori": "kelulusan"
     },
     "page_content": "Jenis dan sebutan gelar akademik serta singkatannya sesuai dengan peraturan yang berlaku dan diatur dalam Peraturan Rektor UPN “Veteran” Jawa Timur."
@@ -4414,7 +4453,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 340,
+      "chunk_index": 343,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "KHS memuat informasi tentang: a. logo UPN “Veteran” Jawa Timur, b.nama Universitas Universitas Pembangunan Nasional “Veteran” Jawa Timur, Cc, nama lengkap pemilik KHS, d. Nomor Induk Mahasiswa (NIM), e. nama program studi, f. nama fakultas, &. tempat, tanggal, bulan dan tahun penerbitan KHS, h.nama, Nomor Induk Pegawai (NIP) dan tanda tangan Wakil Dekan I (Bidang Akademik): i. stempel fakultas, j- semua nama mata kuliah yang ditempuh, bobot SKS dan nilai, k. IPS, 1. IPK."
@@ -4427,7 +4466,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 341,
+      "chunk_index": 344,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "KHS diterbitkan dalam bentuk cetakan rangkap 4 (empat) yang masing-masing diberikan kepada mahasiswa, pembimbing akademik, orang tua/wali dan arsip administrasi akademik,"
@@ -4440,7 +4479,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 342,
+      "chunk_index": 345,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "KHS yang sah adalah yang telah ditandatangani oleh Wakil Dekan I (Bidang Akademik). Bagian Kedua Riwayat Akademik"
@@ -4453,7 +4492,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 343,
+      "chunk_index": 346,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Riwayat akademik merekam secara kronologis semua kegiatan akademik seorang mahasiswa sejak pertama kali masuk sebagai mahasiswa universitas hingga berhenti, baik karena lulus, putus studi, maupun mengundurkan diri,"
@@ -4466,7 +4505,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 344,
+      "chunk_index": 347,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Status akademik mahasiswa pada tiap semester terekam dalam riwayat akademik di data base yang ada di BAKPK ataupun di Fakultas,"
@@ -4479,7 +4518,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 345,
+      "chunk_index": 348,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Riwayat akademik digunakan sebagai sumber informasi bagi mahasiswa, pembimbing akademik, dan program studi tentang keberhasilan studi mahasiswa,"
@@ -4492,7 +4531,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 346,
+      "chunk_index": 349,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Riwayat akademik dapat diterbitkan untuk keperluan tertentu atas permintaan mahasiswa,"
@@ -4505,7 +4544,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 347,
+      "chunk_index": 350,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Riwayat akademik yang akan digunakan sebagaimana dimaksud pada ayat (4) disahkan oleh Wakil Dekan ! (Bidang Akademik). Bagian Ketiga Ijazah"
@@ -4518,7 +4557,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 348,
+      "chunk_index": 351,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Ijazah diberikan kepada mahasiswa yang telah dinyatakan lulus dari suatu program studi, setelah diputuskan pada pelaksanaan penetapan kelulusan,"
@@ -4531,7 +4570,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 349,
+      "chunk_index": 352,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Ijazah memuat informasi tentang: a. nomor ijazah nasional, b. logo UPN “Veteran” Jawa Timur, c. nama Universitas Universitas Pembangunan Nasional “Veteran” Jawa Timur, d. nomor keputusan dan peringkat akreditasi UPN “Veteran” Jawa Timur dan/atau Program Studi: e. program sarjana, f. nama program studi, g. nama lengkap pemilik ijazah, h. Nomor Induk Mahasiswa (NIM), i. Nomor Induk Kependudukan (NIK) atau Nomor Paspor untuk mahasiswa asing: j- tempat dan tanggal lahir pemilik ijazah, k. gelar akademik/sebutan yang diberikan beserta singkatannya, L tanggal, bulan, dan tahun kelulusan, m. tempat, tanggal, bulan dan tahun penerbitan ijazah, n. nama, Nomor Induk Pegawai (NIP) dan tanda tangan Rektor dan Dekan, Oo. stempel UPN “Veteran” Jawa Timur, p. foto pemilik ijazah berwarna ukuran 3x 4."
@@ -4544,7 +4583,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 350,
+      "chunk_index": 353,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Ijazah ditulis dengan bentuk huruf dan ukuran yang dibakukan oleh UPN “Veteran” Jawa Timur,"
@@ -4557,7 +4596,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 351,
+      "chunk_index": 354,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Tanggal penerbitan ijazah adalah tanggal penetapan Julusan di yudisium,"
@@ -4570,7 +4609,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 352,
+      "chunk_index": 355,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Ijazah ditandatangani oleh Rektor dan Dekan,"
@@ -4583,7 +4622,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 353,
+      "chunk_index": 356,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Ijazah diterbitkan menggunakan Bahasa Indonesia dan dapat diterjemahkan dalam Bahasa Inggris pada lembar yang berbeda, dan ditandatangani oleh Dekan atau pejabat resmi yang ditunjuk dan berwenang untuk menterjemahkan,"
@@ -4596,7 +4635,7 @@
       "ayat": 7,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 354,
+      "chunk_index": 357,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Ijazah diterbitkan satu kali bagi setiap lulusan,"
@@ -4609,7 +4648,7 @@
       "ayat": 8,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 355,
+      "chunk_index": 358,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Apabila ijazah hilang atau rusak, pemilik ijazah dapat meminta surat keterangan pengganti ijazah,"
@@ -4622,7 +4661,7 @@
       "ayat": 9,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 356,
+      "chunk_index": 359,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Prosedur penerbitan ijazah dan surat keterangan pengganti ijazah diatur dalam Keputusan Rektor UPN “Veteran” Jawa Timur,"
@@ -4635,7 +4674,7 @@
       "ayat": 10,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 357,
+      "chunk_index": 360,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Wakil Rektor I (Bidang Akademik) dan / atau Dekan, atas nama Rektor, menandatangani legalisasi fotocopy atau salinan ijazah,"
@@ -4648,7 +4687,7 @@
       "ayat": 11,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 358,
+      "chunk_index": 361,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Ijazah akan diserahkan apabila mahasiswa telah memenuhi semua persyaratan administrasi di tingkat fakultas dan/ atau di tingkat universitas. Bagian Keempat Transkrip Akademik"
@@ -4661,7 +4700,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 359,
+      "chunk_index": 362,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Transkrip akademik diberikan kepada mahasiswa yang telah dinyatakan lulus dari suatu program studi setelah diputuskan dalam penetapan kelulusan di acara yudisium,"
@@ -4674,7 +4713,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 360,
+      "chunk_index": 363,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Transkrip akademik memuat informasi tentang: a. logo UPN “Veteran” Jawa Timur, b. nama Universitas Pembangunan Nasional “Veteran” Jawa Timur, Cc. nomor keputusan akreditasi UPN “Veteran” Jawa Timur dan/atau Program Studi, d. nomor transkrip akademik, e. nomor ijazah nasional, f. program sarjana, g. nama program studi, h. nama lengkap pemilik transkrip akademik, i. tempat dan tanggal lahir pemilik transkrip akademik, j. Nomor Induk Mahasiswa (NIM), k. tanggal, bulan, dan tahun kelulusan, 1. tempat, tanggal, bulan dan tahun penerbitan transkrip akademik, m.nama, Nomor Induk Pegawai (NIP) dan tanda tangan Rektor dan Dekan, n. stempel UPN “Veteran” Jawa Timur, o. daftar semua nama mata kuliah yang ditempuh dan lulus, bobot SKS, dan nilai yang telah diperoleh mulai semester pertama sampai dengan semester akhir, p. IPK dan predikat kelulusan."
@@ -4687,7 +4726,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 361,
+      "chunk_index": 364,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Semua mata kuliah yang ditempuh oleh mahasiswa, termasuk yang mengulang dan yang diperoleh melalui transfer kredit (credit transfer) dan/atau perolehan kredit (credit earning ), dicantumkan dalam transkrip akademik,"
@@ -4700,7 +4739,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 362,
+      "chunk_index": 365,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Transkrip akademik dapat diterbitkan dalam 2 (dua) bahasa, yaitu Bahasa Indonesia dan Bahasa Inggris,"
@@ -4713,7 +4752,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 363,
+      "chunk_index": 366,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Transkrip akademik ditandangani Rektor dan Dekan,"
@@ -4726,7 +4765,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 364,
+      "chunk_index": 367,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Prosedur penerbitan transkrip akademik diatur dalam Keputusan Rektor UPN “Veteran” Jawa Timur,"
@@ -4739,7 +4778,7 @@
       "ayat": 7,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 365,
+      "chunk_index": 368,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Wakil Rektor I (Bidang Akademik) dan / atau Dekan, atas nama Rektor, menandatangani legalisasi fotocopy atau salinan transkrip akademik,"
@@ -4752,7 +4791,7 @@
       "ayat": 8,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 366,
+      "chunk_index": 369,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Transkrip akademik akan diserahkan apabila mahasiswa yang telah memenuhi semua persyaratan administrasi di tingkat fakultas dan/ atau di tingkat universitas. Bagian Kelima Surat Keterangan Pendamping Ijazah (SKPI)"
@@ -4765,7 +4804,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 367,
+      "chunk_index": 370,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "SKPI diberikan kepada mahasiswa yang telah dinyatakan lulus dari suatu program studi, setelah diputuskan dalam penetapan kelulusan,"
@@ -4778,7 +4817,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 368,
+      "chunk_index": 371,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "SKPI memuat informasi tentang: a. logo UPN “Veteran” Jawa Timur, b. nama Universitas Universitas Pembangunan Nasional “Veteran” Jawa Timur, Cc. nomor SKPI, d. nomor ijazah nasional, e. nomor keputusan akreditasi UPN “Veteran” Jawa Timur dan/atau Program Studi f. nama program studi, g. nama lengkap pemilik SKPI, h. tempat dan tanggal lahir pemilik SKPI, i. Nomor Induk Mahasiswa (NIM): j. tanggal, bulan, tahun masuk dan kelulusan, k. nomor seri ijazah, | gelar akademik/ sebutan yang diberikan beserta singkatannya, m. jenis pendidikan akademik, n. program sarjana, Oo. capaian pembelajaran lulusan sesuai KKNI secara naratif, p. level KKNI (Kerangka Kualifikasi Nasional Indonesia): Gg. bahasa pengantar kuliah, r. sistem penilaian, s. jenis dan jenjang pendidikan tinggi lanjutan, dan t. skema tentang sistem pendidikan tinggi."
@@ -4791,7 +4830,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 369,
+      "chunk_index": 372,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Tanggal penerbitan SKPI adalah tanggal penerbitan ijazah:"
@@ -4804,7 +4843,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 370,
+      "chunk_index": 373,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "SKPI ditandatangani oleh Dekan:"
@@ -4817,7 +4856,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 371,
+      "chunk_index": 374,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "SKPI diterbitkan satu kali bagi setiap lulusan:"
@@ -4830,7 +4869,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 372,
+      "chunk_index": 375,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Apabila SKPI hilang atau rusak, pemilik SKPI dapat meminta duplikat SKPI,"
@@ -4843,7 +4882,7 @@
       "ayat": 7,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 373,
+      "chunk_index": 376,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Prosedur penerbitan dan duplikat SKPI diatur dalam Keputusan Rektor UPN “Veteran” Jawa Timur,"
@@ -4856,7 +4895,7 @@
       "ayat": 8,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 374,
+      "chunk_index": 377,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "Wakil Rektor I dan/ atau Dekan menandatangani legalisasi fotocopy atau salinan SKPI,"
@@ -4869,7 +4908,7 @@
       "ayat": 9,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 375,
+      "chunk_index": 378,
       "kategori": "administrasi hasil belajar"
     },
     "page_content": "SKPI akan diserahkan apabila mahasiswa telah memenuhi semua persyaratan administrasi di tingkat fakultas dan/ atau di tingkat universitas."
@@ -4882,7 +4921,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 376,
+      "chunk_index": 379,
       "kategori": "penggantian ijazah"
     },
     "page_content": "Bagi alumni apabila ijazah aslinya rusak atau hilang, maka akan diterbitkan Surat Keterangan Pengganti Ijazah,"
@@ -4895,7 +4934,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 377,
+      "chunk_index": 380,
       "kategori": "penggantian ijazah"
     },
     "page_content": "Jika terdapat kesalahan dalam penulisan ijazah, maka akan diterbitkan Surat Keterangan Perbaikan Penulisan Ijazah,"
@@ -4908,7 +4947,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 378,
+      "chunk_index": 381,
       "kategori": "penggantian ijazah"
     },
     "page_content": "Penerbitan Surat Keterangan Pengganti Ijazah dan Surat Keterangan Perbaikan Penulisan Ijazah diajukan oleh Dekan kepada Rektor atas permohonan pemilik ijazah yang dilengkapi dengan bukti-bukti kuat."
@@ -4921,7 +4960,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 379,
+      "chunk_index": 382,
       "kategori": "pengelolaan data akademik"
     },
     "page_content": "Pengelolaan data akademik meliputi penerbitan, pengesahan, pengumuman, penyimpanan, kerahasiaan dan segala hal yang berkaitan dengan pengelolaan kearsipan atas segala dokumen akademik,"
@@ -4934,7 +4973,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 380,
+      "chunk_index": 383,
       "kategori": "pengelolaan data akademik"
     },
     "page_content": "Rektor atau pejabat yang ditugaskan bertanggungjawab terhadap pengelolaan data akademik di tingkat universitas,"
@@ -4947,7 +4986,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 381,
+      "chunk_index": 384,
       "kategori": "pengelolaan data akademik"
     },
     "page_content": "Dekan atau pejabat yang ditugaskan bertanggungjawab terhadap pengelolaan data akademik di tingkat fakultas,"
@@ -4960,7 +4999,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 382,
+      "chunk_index": 385,
       "kategori": "pengelolaan data akademik"
     },
     "page_content": "Ketua Jurusan/ Koordinator Program Studi atau pejabat yang ditugaskan bertanggungjawab terhadap pengelolaan data akademik di tingkat program studi,"
@@ -4973,7 +5012,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 383,
+      "chunk_index": 386,
       "kategori": "pengelolaan data akademik"
     },
     "page_content": "Pengaturan pengelolaan data akademik akan diatur lebih lanjut dengan Peraturan Rektor UPN “Veteran” Jawa Timur."
@@ -4986,7 +5025,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 384,
+      "chunk_index": 387,
       "kategori": "bimbingan dan konseling"
     },
     "page_content": "Mahasiswa yang mempunyai masalah akademik, melakukan bimbingan dan konseling:"
@@ -4999,7 +5038,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 385,
+      "chunk_index": 388,
       "kategori": "bimbingan dan konseling"
     },
     "page_content": "Pelaksanaan bimbingan dan konseling dilaksanakan di universitas atau di tingkat fakultas/program studi:"
@@ -5012,7 +5051,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 386,
+      "chunk_index": 389,
       "kategori": "bimbingan dan konseling"
     },
     "page_content": "Pelaksanaan bimbingan dan konseling di tingkat universitas dilaksanakan oleh Unit Pelaksana Pelayanan Bimbingan dan Konseling Mahasiswa,"
@@ -5025,7 +5064,7 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 387,
+      "chunk_index": 390,
       "kategori": "bimbingan dan konseling"
     },
     "page_content": "Pelaksanaan bimbingan dan konseling di tingkat fakultas/ program studi dilaksanakan oleh Pembimbing Akademik,"
@@ -5038,7 +5077,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 388,
+      "chunk_index": 391,
       "kategori": "pelanggaran akademik"
     },
     "page_content": "Pelanggaran akademik ringan: a. penyontekan dan/ atau perbuatan curang, b. perbantuan atau percobaan perbantuan pelanggaran akademik ringan, c. penyertaan dalam pelanggaran akademik ringan,"
@@ -5051,7 +5090,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 389,
+      "chunk_index": 392,
       "kategori": "pelanggaran akademik"
     },
     "page_content": "Pelanggaran akademik sedang: a. Perjokian, b. pengulangan atas pelanggaran akademik ringan, Cc. perbantuan atau percobaan perbantuan pelanggaran akademik sedang, d, penyertaan dalam pelanggaran akademik sedang"
@@ -5064,7 +5103,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 390,
+      "chunk_index": 393,
       "kategori": "pelanggaran akademik"
     },
     "page_content": "Pelanggaran akademik berat: a. Plagiat, b. Pemalsuan, c. gratifikasi dan penyuapan d. penghinaan, e. tindak pidana yang diancam hukuman penjara 1 (satu) tahun atau lebih berdasarkan peraturan perundang- undangan yang berlaku, f. pengulangan atas pelanggaran akademik sedang, g. pelanggaran administrasi dan tata tertib berat, h. perbantuan atau percobaan perbantuan pelanggaran akademik berat, i. penyertaan dalam pelanggaran akademik berat, Bagian Kedua Sanksi terhadap Pelanggaran Akademik"
@@ -5077,10 +5116,10 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 391,
+      "chunk_index": 394,
       "kategori": "pelanggaran akademik"
     },
-    "page_content": "Sanksi terhadap mahasiswa: a. sanksi terhadap pelanggaran akademik ringan: |. peringatan keras secara lisan oleh dosen/ panitia ujian atau secara tertulis oleh pimpinan fakultas/ ketua departemen /program studi/ketua bagian. 2. pengurangan nilai ujian dan/atau pernyataan tidak lulus pada mata kuliah atau kegiatan akademik yang dilaksanakan oleh dosen pengampu yang bersangkutan baik atas permintaan pimpinan fakultas/ ketua departemen maupun tidak. b. sanksi terhadap pelanggaran akademik sedang: dicabut hak/ izin mengikuti kegiatan akademik untuk sementara oleh pimpinan UPN “Veteran” Jawa Timur paling lama 2 (dua) semester. c. sanksi terhadap pelanggaran akademik berat: setinggi-tingginya pemecatan atau dikeluarkan (dicabut status kemahasiswaannya secara permanen) oleh pimpinan UPN “Veteran” Jawa Timur,"
+    "page_content": "Sanksi terhadap mahasiswa: a. sanksi terhadap pelanggaran akademik ringan: |. peringatan keras secara lisan oleh dosen/ panitia ujian atau secara tertulis oleh pimpinan fakultas/ ketua departemen /program studi/ketua bagian."
   },
   {
     "metadata": {
@@ -5090,7 +5129,20 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 392,
+      "chunk_index": 395,
+      "kategori": "pelanggaran akademik"
+    },
+    "page_content": "pengurangan nilai ujian dan/atau pernyataan tidak lulus pada mata kuliah atau kegiatan akademik yang dilaksanakan oleh dosen pengampu yang bersangkutan baik atas permintaan pimpinan fakultas/ ketua departemen maupun tidak. b. sanksi terhadap pelanggaran akademik sedang: dicabut hak/ izin mengikuti kegiatan akademik untuk sementara oleh pimpinan UPN “Veteran” Jawa Timur paling lama 2 (dua) semester. c. sanksi terhadap pelanggaran akademik berat: setinggi-tingginya pemecatan atau dikeluarkan (dicabut status kemahasiswaannya secara permanen) oleh pimpinan UPN “Veteran” Jawa Timur,"
+  },
+  {
+    "metadata": {
+      "sumber": "Peraturan_Akademik_2023",
+      "bab": 24,
+      "pasal": 59,
+      "ayat": 2,
+      "tahun_terbit": 2023,
+      "status": "berlaku",
+      "chunk_index": 396,
       "kategori": "pelanggaran akademik"
     },
     "page_content": "Sanksi untuk alumni yang terbukti melakukan pelanggaran akademik berat selama menempuh studi di UPN “Veteran” Jawa Timur a, pencabutan ijazah, transkrip, dan SKPI, b. kehilangan haknya untuk melanjutkan studi di UPN “Veteran” Jawa Timur."
@@ -5103,7 +5155,7 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 393,
+      "chunk_index": 397,
       "kategori": "pelanggaran akademik"
     },
     "page_content": "sanksi terhadap dosen atau tenaga administrasi yang terlibat dalam pelanggaran akademik ditetapkan berdasarkan peraturan perundang-undangan yang berlaku. Bagian Ketiga Prosedur Penetapan Sanksi"
@@ -5116,7 +5168,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 394,
+      "chunk_index": 398,
       "kategori": "pelanggaran akademik"
     },
     "page_content": "Prosedur penetapan sanksi terhadap mahasiswa yang kemudian diketahui melakukan pelanggaran akademik ringan sebagai berikut: a. penetapan bukti pelanggaran, b. konfirmasi bukti dan pelanggaran oleh dosen pengampu/ Ketua Jurusan/ Koordinator Program Studi, Cc. penetapan sanksi oleh dosen pengampu/ Ketua Jurusan/ Koordinator Program Studi."
@@ -5129,10 +5181,10 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 395,
+      "chunk_index": 399,
       "kategori": "pelanggaran akademik"
     },
-    "page_content": "Prosedur penetapan sanksi terhadap mahasiswa atau alumni yang kemudian diduga melakukan pelanggaran akademik sedang dan berat adalah sebagai berikut: a. Dekan menunjuk tim pemeriksa untuk memeriksa dan mengumpulkan fakta/ data/ informasi terhadap dugaan terjadinya pelanggaran akademik sedang dan/ atau berat, b. tim pemeriksa dipimpin oleh Dekan dengan Wakil Dekan bidang Akademik (Wadek I) sebagai sekretaris serta Koordinator Program Studi sebagai anggota: c. tim pemeriksa dalam rangka memeriksa dan mengumpulkan fakta/data/ informasi mempunyai kewenangan untuk memanggil pihak-pihak yang terkait dan meminta data, bukti atas dugaan terjadinya pelanggaran akademik sedang dan/ atau berat, d. hasil pemeriksaan tim pemeriksa terhadap dugaan terjadinya pelanggaran akademik sedang dan/ atau berat diserahkan kepada Dekan untuk kemudian disampaikan kepada pimpinan universitas, e. setelah memperhatikan dan mempertimbangkan berita acara hasil pemeriksaan dan pengumpulan fakta/ data/ informasi atas kasus tersebut, pimpinan universitas beserta PPID membentuk tim penyelesaian pelanggaran akademik, f. tim penyelesaian pelanggaran akademik terdiri atas: 1, pimpinan universitas, 2. 3 (tiga) orang pakar hukum yang ditunjuk oleh pimpinan universitas atas usulan dari PPID, 3. pimpinan fakultas pelapor, 4. tenaga administrasi sebagai pencatat jalannya sidang. g. selama proses sidang, mahasiswa yang diduga melakukan pelanggaran akademik sedang dan/ atau berat diberi hak untuk membela diri, h. berdasarkan hasil sidang khusus, pimpinan universitas dapat memutuskan penjatuhan sanksi terhadap mahasiswa yang bersangkutan dengan memperhatikan bobot atau jenis pelanggaran akademik dan sanksi yang dapat dikenakan."
+    "page_content": "Prosedur penetapan sanksi terhadap mahasiswa atau alumni yang kemudian diduga melakukan pelanggaran akademik sedang dan berat adalah sebagai berikut: a. Dekan menunjuk tim pemeriksa untuk memeriksa dan mengumpulkan fakta/ data/ informasi terhadap dugaan terjadinya pelanggaran akademik sedang dan/ atau berat, b. tim pemeriksa dipimpin oleh Dekan dengan Wakil Dekan bidang Akademik (Wadek I) sebagai sekretaris serta Koordinator Program Studi sebagai anggota: c. tim pemeriksa dalam rangka memeriksa dan mengumpulkan fakta/data/ informasi mempunyai kewenangan untuk memanggil pihak-pihak yang terkait dan meminta data, bukti atas dugaan terjadinya pelanggaran akademik sedang dan/ atau berat, d. hasil pemeriksaan tim pemeriksa terhadap dugaan terjadinya pelanggaran akademik sedang dan/ atau berat diserahkan kepada Dekan untuk kemudian disampaikan kepada pimpinan universitas, e. setelah memperhatikan dan mempertimbangkan berita acara hasil pemeriksaan dan pengumpulan fakta/ data/ informasi atas kasus tersebut, pimpinan universitas beserta PPID membentuk tim penyelesaian pelanggaran akademik, f. tim penyelesaian pelanggaran akademik terdiri atas: 1, pimpinan universitas, 2. 3 (tiga) orang pakar hukum yang ditunjuk oleh pimpinan universitas atas usulan dari PPID,"
   },
   {
     "metadata": {
@@ -5142,10 +5194,10 @@
       "ayat": 3,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 396,
+      "chunk_index": 400,
       "kategori": "pelanggaran akademik"
     },
-    "page_content": "Pengenaan sanksi akademik berat berupa pemberhentian status sebagai mahasiswa UPN “Veteran” Jawa Timur secara permanen sebagaimana dimaksud pada pasal 59 ayat (1) huruf c khususnya terhadap mahasiswa yang melakukan pelanggaran akademik berat,"
+    "page_content": "pimpinan fakultas pelapor,"
   },
   {
     "metadata": {
@@ -5155,7 +5207,20 @@
       "ayat": 4,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 397,
+      "chunk_index": 401,
+      "kategori": "pelanggaran akademik"
+    },
+    "page_content": "tenaga administrasi sebagai pencatat jalannya sidang. g. selama proses sidang, mahasiswa yang diduga melakukan pelanggaran akademik sedang dan/ atau berat diberi hak untuk membela diri, h. berdasarkan hasil sidang khusus, pimpinan universitas dapat memutuskan penjatuhan sanksi terhadap mahasiswa yang bersangkutan dengan memperhatikan bobot atau jenis pelanggaran akademik dan sanksi yang dapat dikenakan. (3) Pengenaan sanksi akademik berat berupa pemberhentian status sebagai mahasiswa UPN “Veteran” Jawa Timur secara permanen sebagaimana dimaksud pada pasal 59 ayat (1) huruf c khususnya terhadap mahasiswa yang melakukan pelanggaran akademik berat,"
+  },
+  {
+    "metadata": {
+      "sumber": "Peraturan_Akademik_2023",
+      "bab": 24,
+      "pasal": 60,
+      "ayat": 4,
+      "tahun_terbit": 2023,
+      "status": "berlaku",
+      "chunk_index": 402,
       "kategori": "pelanggaran akademik"
     },
     "page_content": "Apabila pelanggaran akademik berat sebagaimana dimaksud pada ayat (3) di atas tidak diproses di pengadilan, maka pengenaan sanksi akademik berat tersebut tetap dapat diberlakukan,"
@@ -5168,7 +5233,7 @@
       "ayat": 5,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 398,
+      "chunk_index": 403,
       "kategori": "pelanggaran akademik"
     },
     "page_content": "Dalam hal mahasiswa yang diduga melakukan tindak pidana sebagaimana dimaksud pada pasal 58 ayat (3) huruf f menjalani masa penahanan dan atau telah mendapat putusan Pengadilan Negeri yang menyatakan bahwa mahasiswa yang bersangkutan bersalah, maka pimpinan universitas dapat menjatuhkan sanksi pemberhentian sementara paling lama 2 (dua) semester dan dihitung sebagai masa studi,"
@@ -5181,7 +5246,7 @@
       "ayat": 6,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 399,
+      "chunk_index": 404,
       "kategori": "pelanggaran akademik"
     },
     "page_content": "Dalam hal setelah sanksi pemberhentian sementara selesai dijalani ternyata mahasiswa yang bersangkutan masih dalam penahanan, maka masa studi mahasiswa yang bersangkutan dibantarkan (sementara tidak dihitung) sampai terbit putusan pengadilan yang mempunyai kekuatan hukum tetap,"
@@ -5194,7 +5259,7 @@
       "ayat": 7,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 400,
+      "chunk_index": 405,
       "kategori": "pelanggaran akademik"
     },
     "page_content": "Dalam hal mahasiswa yang diduga melakukan tindak pidana sebagaimana dimaksud dalam pasal 58 ayat (3) huruf f pada putusan pengadilan yang telah berkekuatan hukum tetap dinyatakan bersalah dan dikenai sanksi pidana, maka masa studi selama yang bersangkutan ditahan dan/ atau diberhentikan sementara, dihitung sebagai masa studi:"
@@ -5207,23 +5272,10 @@
       "ayat": 8,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 401,
+      "chunk_index": 406,
       "kategori": "pelanggaran akademik"
     },
-    "page_content": "Pengenaan sanksi akademik berat berupa pemberhentian permanen statusnya sebagai mahasiswa UPN “Veteran” Jawa Timur, khususnya terhadap mahasiswa yang melakukan tindak pidana sebagaimana dimaksud dalam pasal 58 ayat"
-  },
-  {
-    "metadata": {
-      "sumber": "Peraturan_Akademik_2023",
-      "bab": 24,
-      "pasal": 60,
-      "ayat": 3,
-      "tahun_terbit": 2023,
-      "status": "berlaku",
-      "chunk_index": 402,
-      "kategori": "pelanggaran akademik"
-    },
-    "page_content": "huruf f hanya dapat dikenakan setelah ada putusan pengadilan berkekuatan hukum tetap yang amarnya menyatakan mahasiswa yang bersangkutan bersalah dan dikenai sanksi pidana,"
+    "page_content": "Pengenaan sanksi akademik berat berupa pemberhentian permanen statusnya sebagai mahasiswa UPN “Veteran” Jawa Timur, khususnya terhadap mahasiswa yang melakukan tindak pidana sebagaimana dimaksud dalam pasal 58 ayat (3) huruf f hanya dapat dikenakan setelah ada putusan pengadilan berkekuatan hukum tetap yang amarnya menyatakan mahasiswa yang bersangkutan bersalah dan dikenai sanksi pidana,"
   },
   {
     "metadata": {
@@ -5233,7 +5285,7 @@
       "ayat": 9,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 403,
+      "chunk_index": 407,
       "kategori": "pelanggaran akademik"
     },
     "page_content": "Mahasiswa yang dikenai sanksi karena melakukan pelanggaran akademik dalam segala tingkatan, mempunyai hak untuk menyampaikan keberatan dan/ atau banding administratif dengan tenggang waktu pengajuan 14 (empat belas) hari sejak diterimanya pemberitahuan putusan sanksi akademik dimaksud."
@@ -5246,7 +5298,7 @@
       "ayat": 1,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 404,
+      "chunk_index": 408,
       "kategori": "penutup"
     },
     "page_content": "Segala peraturan akademik sebelumnya yang bertentangan dengan isi Peraturan Rektor ini dinyatakan tidak berlaku,"
@@ -5259,7 +5311,7 @@
       "ayat": 2,
       "tahun_terbit": 2023,
       "status": "berlaku",
-      "chunk_index": 405,
+      "chunk_index": 409,
       "kategori": "penutup"
     },
     "page_content": "Peraturan Rektor ini berlaku sejak tanggal ditetapkan."

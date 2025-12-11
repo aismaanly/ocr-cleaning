@@ -1,0 +1,12 @@
+# Cleaning Pasal merepotkan pada dokumen pertor 2023
+- pasal 1 total ada 68 ayat, sebelum ayat pertama ada kalimat, ada penomoran ayat koma (ayat 37,39)
+- pasal 2 total ada 3 ayat, penomoran ayat tidak (1)
+- pasal 12 total ada 5 ayat
+- pasal 17 total ada 4 ayat, ada ayat bercabang dua kali
+- pasal 28 total ada 16 ayat, ada tabel
+- pasal 34 total hanya 1 ayat? XX
+- pasal 44 total ada 9 ayat, ada tabel, ada typo huruf 8, 
+- pasal 47 total ada 10 ayat
+- pasal 50 total ada 3 ayat
+- pasal 59 total ada 3 ayat XX
+- pasal 60 total ada 9 ayat
