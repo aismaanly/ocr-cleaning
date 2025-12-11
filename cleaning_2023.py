@@ -15,11 +15,14 @@ STATUS_DOKUMEN = "berlaku"
 # CLEANING DASAR
 # =========================================================
 def clean_text(text: str) -> str:
-    text = re.sub(r"[^\S\r\n]+", " ", text)
-    text = text.replace("—", "-")
-    text = re.sub(r"\n{3,}", "\n\n", text)
-    text = re.sub(r"^\(\s*[lI]\s*\)\s+(?=[A-Za-z])","(1) ", text, flags=re.MULTILINE)
-    return text.strip()
+    text = re.sub(r"[^\S\r\n]+", " ", text)              # Mengganti spasi/tab berlebih (kecuali newline) menjadi satu spasi
+    text = text.replace("—", "-")                        # Menormalkan dash panjang (—) menjadi dash pendek (-)
+    text = re.sub(r"\n{3,}", "\n\n", text)               # Mengurangi newline bertumpuk (>=3) menjadi hanya 2 newline
+    text = re.sub(
+        r"^\(\s*[lI]\s*\)\s+(?=[A-Za-z])", "(1) ", 
+        text, flags=re.MULTILINE
+    )                                                    # Memperbaiki OCR yang salah baca (l/I) menjadi (1) di awal baris, jika diikuti huruf
+    return text.strip()                                  # Menghapus spasi di awal/akhir keseluruhan teks
 
 # REMOVE PEMBUKA
 def remove_pembukaan(text: str) -> str:

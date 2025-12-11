@@ -4,8 +4,8 @@ import csv
 # =========================================================
 # KONFIGURASI FILE
 # =========================================================
-INPUT_FILE = "output_cleaning/cleaning_peraturan_2023.json"
-OUTPUT_FILE = "output2023.csv" 
+INPUT_FILE = "output_cleaning/cleaning_peraturan_2025.json"
+OUTPUT_FILE = "output2025.csv" 
 
 # =========================================================
 # FUNGSI KONVERSI
