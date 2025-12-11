@@ -393,7 +393,7 @@ dapat dilakukan dengan bentuk-bentuk lain.
 
 (3) Nilai akhir hasil belajar berbasis pada evaluasi
 aktifitas partisipatif dan hasil proyek/studi kasus
-dengan bobot evaluasi lebih dari z 50Y dan
+dengan bobot evaluasi lebih dari 50% dan
 didasarkan pada beberapa komponen penilaian
 lainnya seperti: Evaluasi Tengah Semester (ETS),
 Evaluasi Akhir Semester (EAS), tugas, kuis,
@@ -404,7 +404,7 @@ yang ditetapkan oleh masing-masing Program Studi,
 (4) Sistem penilaian:
 
 a. penilaian hasil belajar dinyatakan dengan huruf,
-yaitu menggunakan huruf A, A-, Bt, B, B-, Ct, C,
+yaitu menggunakan huruf A, A-, B+, B, B-, C+, C,
 D, dan E,
 
 b. nilai lulus minimal tugas akhir/skripsi/ prototipe
@@ -414,10 +414,15 @@ c. untuk melakukan konversi nilai angka ke dalam
 nilai huruf dan bobot nilai huruf digunakan
 pedoman sebagai berikut:
 
-| | 70-7499 | B | 300 |
-|” 65-69,9 | B- | 2,75 |
-| (50-54,99 | D | 1,00 |
-| 00-a9,99 | Rr | 0,00 |
+ANGKA 85 - 100 NILAI A BOBOT 4,00;
+ANGKA 80 - 84,99 NILAI A- BOBOT 3,50;
+ANGKA 75 - 79,99 NILAI B+ BOBOT 3,25;
+ANGKA 70 - 74,99 NILAI B BOBOT 3,00;
+ANGKA 65 - 69,99 NILAI B- BOBOT 2,75;
+ANGKA 60 - 64,99 NILAI C+ BOBOT 2,50;
+ANGKA 55 - 59,99 NILAI C BOBOT 2,00;
+ANGKA 50 - 54,99 NILAI D BOBOT 1,00;
+ANGKA 0,0 - 49,99 NILAI E BOBOT 0,00;
 
 d. mahasiswa dinyatakan lulus mata kuliah, apabila
 mendapat nilai minimal C,
@@ -490,7 +495,7 @@ Peserta Mata Kuliah selanjutnya disingkat DPMK
 di sistem SIAMIK:
 
 b. telah mengikuti kuliah/ kegiatan pembelajaran
-sekurang-kurangnya 90 (Sembilan puluh
+sekurang-kurangnya 90% (Sembilan puluh
 persen),
 
 (11) Ketentuan pelaksanaan, persyaratan, penjadwalan,
@@ -572,7 +577,7 @@ ditetapkan di Fakultas atau Program Studi,
 (5) Laporan tugas  akhir/skripsi/prototipe wajib
 melampirkan cek plagiasi yang dikeluarkan secara
 resmi oleh Perpustakaan UPN “Veteran” Jawa Timur
-dan persyaratan plagiasi kurang dari 20Yo,
+dan persyaratan plagiasi kurang dari 20%,
 
 (6) Beban studi tugas akhir atau skripsi adalah 6 (enam)
 sampai dengan 10 (sepuluh) SKS.
@@ -642,7 +647,7 @@ KKN:
 (2) Syarat peserta KKN adalah Mahasiswa yang telah
 dinyatakan lulus mata kuliah dan mengumpulkan SKS
 kumulatif paling sedikit 80 (delapan puluh) SKS
-dengan IPK 2 2.75 serta mempunyai Surat Keterangan
+dengan IPK ≥ 2.75 serta mempunyai Surat Keterangan
 Kompetensi softskill dan hardskill yang telah mencapai
 100 poin (satuan kredit point mahasiswa),
 (3) Mahasiswa mengikuti salah satu kegiatan KKN yang

@@ -2220,7 +2220,7 @@
       "chunk_index": 171,
       "kategori": "proses pembelajaran"
     },
-    "page_content": "Jumlah SKS maksimum yang dapat diambil oleh mahasiswa Semester III ke atas pada setiap semester adalah sebagai berikut: Ega | 200-249 - | 16 | | 250-299 | 290 --- | Lo 2300 - | 29 |"
+    "page_content": "Jumlah SKS maksimum yang dapat diambil oleh mahasiswa Semester III ke atas pada setiap semester adalah sebagai berikut: IPS pada semester sebelumnya < 2,00 dapat mengambil 15 SKS; IPS pada semester sebelumnya 2,00 - 2,49 dapat mengambil 16 SKS; IPS pada semester sebelumnya 2,50 - 2,99 dapat mengambil 20 SKS; IPS pada semester sebelumnya ≥ 3,00 dapat mengambil 24 SKS;"
   },
   {
     "metadata": {
@@ -2584,7 +2584,7 @@
       "chunk_index": 199,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
-    "page_content": "Nilai akhir hasil belajar berbasis pada evaluasi aktifitas partisipatif dan hasil proyek/studi kasus dengan bobot evaluasi lebih dari 2 500 dan didasarkan pada beberapa komponen penilaian lainnya seperti: Evaluasi Tengah Semester (ETS), Evaluasi Akhir Semester (EAS), tugas, guis, praktikum dan ketrampilan berperilaku. Formulasi nilai akhir hasil belajar dituangkan dalam rumus yang ditetapkan oleh masing-masing Program Studi,"
+    "page_content": "Nilai akhir hasil belajar berbasis pada evaluasi aktifitas partisipatif dan hasil proyek/studi kasus dengan bobot evaluasi lebih dari ≥ 50% dan didasarkan pada beberapa komponen penilaian lainnya seperti: Evaluasi Tengah Semester (ETS), Evaluasi Akhir Semester (EAS), tugas, guis, praktikum dan ketrampilan berperilaku. Formulasi nilai akhir hasil belajar dituangkan dalam rumus yang ditetapkan oleh masing-masing Program Studi,"
   },
   {
     "metadata": {
@@ -2597,7 +2597,7 @@
       "chunk_index": 200,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
-    "page_content": "Sistem penilaian : a. penilaian hasil belajar dinyatakan dengan huruf, yaitu menggunakan huruf A, B, C, D, dan E, b. nilai lulus minimal tugas akhir/ skripsi/prototype adalah B, c. untuk melakukan konversi nilai angka ke dalam nilai huruf dan bobot nilai huruf digunakan pedoman sebagai berikut: --awoKa Jonas | 0507 | |..66-79 | B | 300 | |o/.56-6s | c | 200 | | 43-55 | D | 100 | | 00-42 | E | 000 | d. mahasiswa dinyatakan lulus mata kuliah, apabila mendapat nilai minimal C, e. mahasiswa yang mendapat nilai D dan E wajib mengulang program pembelajaran dan ujian pada semester reguler, f. nilai yang diakui pada mata kuliah yang diambil ulang adalah nilai yang terbaik, g. jika karena suatu hal nilai belum dapat ditentukan, maka kepadanya diberikan nilai K yang berarti “Kurang/Tidak Lengkap” dengan nilai bobot nol (0). Apabila sampai dengan pengisian KRS semester berikutnya nilai masih berstatus K, mahasiswa tersebut dianggap tidak lulus (E),"
+    "page_content": "Sistem penilaian : a. penilaian hasil belajar dinyatakan dengan huruf, yaitu menggunakan huruf A, B, C, D, dan E, b. nilai lulus minimal tugas akhir/ skripsi/prototype adalah B, c. untuk melakukan konversi nilai angka ke dalam nilai huruf dan bobot nilai huruf digunakan pedoman sebagai berikut: ANGKA 80 - 100 NILAI A BOBOT 4,00; ANGKA 66 -79 NILAI B BOBOT 3,00; ANGKA 56 - 65 NILAI C BOBOT 2,00;| ANGKA 43 - 55 NILAI D BOBOT 1,00; ANGKA 0,0 - 42 NILAI E BOBOT 0,00; d. mahasiswa dinyatakan lulus mata kuliah, apabila mendapat nilai minimal C, e. mahasiswa yang mendapat nilai D dan E wajib mengulang program pembelajaran dan ujian pada semester reguler, f. nilai yang diakui pada mata kuliah yang diambil ulang adalah nilai yang terbaik, g. jika karena suatu hal nilai belum dapat ditentukan, maka kepadanya diberikan nilai K yang berarti “Kurang/Tidak Lengkap” dengan nilai bobot nol (0). Apabila sampai dengan pengisian KRS semester berikutnya nilai masih berstatus K, mahasiswa tersebut dianggap tidak lulus (E),"
   },
   {
     "metadata": {
@@ -2610,7 +2610,7 @@
       "chunk_index": 201,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
-    "page_content": "tingkat keberhasilan: a. tingkat keberhasilan mahasiswa dalam satu semester dinyatakan dengan IPS, b. dalam perhitungan IPS, bobot sks setiap mata kuliah hanya dipergunakan satu kali sebagai pembagi dan nilai yang dipergunakan adalah nilai keberhasilan yang tertinggi, c. perhitungan IPS menggunakan rumus sebagai berikut: £ KN IPS - TK dengan K adalah besarnya sks masing-masing mata kuliah, dan N adalah nilai masing-masing mata kuliah: d. perhitungan IPK (Indeks Prestasi Kumulatif) menggunakan rumus seperti tersebut di atas dengan K adalah jumlah seluruh sks mata kuliah yang telah ditempuh dengan nilai tertinggi dan N adalah nilai seluruh mata kuliah yang diperoleh,"
+    "page_content": "tingkat keberhasilan: a. tingkat keberhasilan mahasiswa dalam satu semester dinyatakan dengan IPS, b. dalam perhitungan IPS, bobot sks setiap mata kuliah hanya dipergunakan satu kali sebagai pembagi dan nilai yang dipergunakan adalah nilai keberhasilan yang tertinggi, c. perhitungan IPS menggunakan rumus sebagai berikut: IPS = Σ(KN) / ΣK dengan K adalah besarnya sks masing-masing mata kuliah, dan N adalah nilai masing-masing mata kuliah: d. perhitungan IPK (Indeks Prestasi Kumulatif) menggunakan rumus seperti tersebut di atas dengan K adalah jumlah seluruh sks mata kuliah yang telah ditempuh dengan nilai tertinggi dan N adalah nilai seluruh mata kuliah yang diperoleh,"
   },
   {
     "metadata": {
@@ -2818,7 +2818,7 @@
       "chunk_index": 217,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
-    "page_content": "Evaluasi hasil belajar mahasiswa program sarjana dari SMA atau sederajat: a. Tahap I dilakukan pada akhir semester 4 (empat) dengan ketentuan: l.mampu mengumpulkan paling sedikit 35 (tiga puluh lima) SKS dengan IPK 2 2,50 (dua koma lima nol), 2. apabila mampu mengumpulkan » 35 (tiga puluh lima) SKS, tetapi IPK « 2,50 (dua koma lima nol) maka diambil nilai tertinggi sampai sejumlah 35 (tiga puluh lima) SKS dengan IPK 2 2,50 (dua koma lima nol). b. Tahap II dilakukan pada akhir semester 7 (tujuh) dengan ketentuan: l.mampu mengumpulkan paling sedikit 85 (delapan puluh lima) SKS dengan IPK 2 2,75 (dua koma tujuh lima), 2.apabila mampu mengumpulkan » 85 (delapan puluh lima) SKS, tetapi IPK « 2,75 (dua koma tujuh lima) maka diambil nilai tertinggi sampai sejumlah 85 (delapan puluh lima) SKS dengan IPK 2 2,75 (dua koma tujuh lima). c. Tahap INI dilakukan pada akhir program. Selambat- lambatnya pada akhir semester 14 (empat belas), mahasiswa harus sudah mengumpulkan dan lulus semua beban sks yang ditetapkan untuk program sarjana dan IPK 2 2,00 (dua koma nol nol)."
+    "page_content": "Evaluasi hasil belajar mahasiswa program sarjana dari SMA atau sederajat: a. Tahap I dilakukan pada akhir semester 4 (empat) dengan ketentuan: l.mampu mengumpulkan paling sedikit 35 (tiga puluh lima) SKS dengan IPK ≥ 2,50 (dua koma lima nol), 2. apabila mampu mengumpulkan > 35 (tiga puluh lima) SKS, tetapi IPK < 2,50 (dua koma lima nol) maka diambil nilai tertinggi sampai sejumlah 35 (tiga puluh lima) SKS dengan IPK ≥ 2,50 (dua koma lima nol). b. Tahap II dilakukan pada akhir semester 7 (tujuh) dengan ketentuan: l.mampu mengumpulkan paling sedikit 85 (delapan puluh lima) SKS dengan IPK ≥ 2,75 (dua koma tujuh lima), 2.apabila mampu mengumpulkan > 85 (delapan puluh lima) SKS, tetapi IPK < 2,75 (dua koma tujuh lima) maka diambil nilai tertinggi sampai sejumlah 85 (delapan puluh lima) SKS dengan IPK ≥ 2,75 (dua koma tujuh lima). c. Tahap III dilakukan pada akhir program. Selambat- lambatnya pada akhir semester 14 (empat belas), mahasiswa harus sudah mengumpulkan dan lulus semua beban sks yang ditetapkan untuk program sarjana dan IPK ≥ 2,00 (dua koma nol nol)."
   },
   {
     "metadata": {
@@ -2948,7 +2948,7 @@
       "chunk_index": 227,
       "kategori": "penilaian dan evaluasi hasil belajar"
     },
-    "page_content": "Laporan tugas akhir/skripsi/ prototype wajib melampirkan cek plagiasi yang dikeluarkan secara resmi oleh Perpustakaan UPN “Veteran” Jawa Timur dan persyaratan plagiasi kurang dari 20”4,"
+    "page_content": "Laporan tugas akhir/skripsi/ prototype wajib melampirkan cek plagiasi yang dikeluarkan secara resmi oleh Perpustakaan UPN “Veteran” Jawa Timur dan persyaratan plagiasi kurang dari 20%,"
   },
   {
     "metadata": {
@@ -4014,7 +4014,7 @@
       "chunk_index": 309,
       "kategori": "pindah studi"
     },
-    "page_content": "Lama studi yang diperoleh di PTN asal, paling sedikit 2 (dua) semester dan/atau paling banyak telah menempuh 4 (empat) semester dengan ketentuan sebagai berikut:"
+    "page_content": "Lama studi yang diperoleh di PTN asal, paling sedikit 2 (dua) semester dan/atau paling banyak telah menempuh 4 (empat) semester dengan ketentuan sebagai berikut: Lama Studi 2 (dua) semester Jumlah SKS 40 IPK 2,75; Lama Studi 4 (empat) semester Jumlah SKS 72 IPK 2,75;"
   },
   {
     "metadata": {

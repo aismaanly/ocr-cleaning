@@ -1255,11 +1255,10 @@ yang dapat diambil maksimal 20 SKS,
 Semester III ke atas pada setiap semester adalah sebagai
 berikut:
 
-Ega
-
-| 200-249 — | 16 |
-| 250-299 | 290 ——— |
-Lo 2300 — | 29 |
+IPS pada semester sebelumnya < 2,00 dapat mengambil 15 SKS;
+IPS pada semester sebelumnya 2,00 - 2,49 dapat mengambil 16 SKS; 
+IPS pada semester sebelumnya 2,50 - 2,99 dapat mengambil 20 SKS; 
+IPS pada semester sebelumnya ≥ 3,00 dapat mengambil 24 SKS;
 
 (5) KRS tidak akan disetujui oleh pembimbing akademik apabila
 mahasiswa:
@@ -1478,7 +1477,7 @@ dilakukan dengan bentuk-bentuk lain,
 
 (3) Nilai akhir hasil belajar berbasis pada evaluasi aktifitas
 partisipatif dan hasil proyek/studi kasus dengan bobot
-evaluasi lebih dari 2 500 dan didasarkan pada beberapa
+evaluasi lebih dari ≥ 50% dan didasarkan pada beberapa
 komponen penilaian lainnya seperti: Evaluasi Tengah
 Semester (ETS), Evaluasi Akhir Semester (EAS), tugas, guis,
 praktikum dan ketrampilan berperilaku. Formulasi nilai
@@ -1496,11 +1495,12 @@ B,
 c. untuk melakukan konversi nilai angka ke dalam nilai
 huruf dan bobot nilai huruf digunakan pedoman sebagai
 berikut:
-——awoKa Jonas | 0507 |
-|..66-79 | B | 300 |
-|o/.56-6s | c | 200 |
-| 43-55 | D | 100 |
-| 00-42 | E | 000 |
+
+ANGKA 80 - 100 NILAI A BOBOT 4,00;
+ANGKA 66 -79 NILAI B BOBOT 3,00;
+ANGKA 56 - 65 NILAI C BOBOT 2,00;|
+ANGKA 43 - 55 NILAI D BOBOT 1,00;
+ANGKA 0,0 - 42 NILAI E BOBOT 0,00;
 
 d. mahasiswa dinyatakan lulus mata kuliah, apabila
 mendapat nilai minimal C,
@@ -1530,8 +1530,7 @@ tertinggi,
 
 c. perhitungan IPS menggunakan rumus sebagai berikut:
 
-£ KN
-IPS — TK
+IPS = Σ(KN) / ΣK
 dengan K adalah besarnya sks masing-masing mata
 kuliah, dan N adalah nilai masing-masing mata kuliah:
 
@@ -1619,31 +1618,31 @@ a. Tahap I dilakukan pada akhir semester 4 (empat) dengan
 ketentuan:
 
 l.mampu mengumpulkan paling sedikit 35 (tiga
-puluh lima) SKS dengan IPK 2 2,50 (dua koma lima
+puluh lima) SKS dengan IPK ≥ 2,50 (dua koma lima
 nol),
 
-2. apabila mampu mengumpulkan » 35 (tiga puluh lima)
-SKS, tetapi IPK « 2,50 (dua koma lima nol) maka
+2. apabila mampu mengumpulkan > 35 (tiga puluh lima)
+SKS, tetapi IPK < 2,50 (dua koma lima nol) maka
 diambil nilai tertinggi sampai sejumlah 35 (tiga puluh
-lima) SKS dengan IPK 2 2,50 (dua koma lima nol).
+lima) SKS dengan IPK ≥ 2,50 (dua koma lima nol).
 
 b. Tahap II dilakukan pada akhir semester 7 (tujuh) dengan
 ketentuan:
 
 l.mampu mengumpulkan paling sedikit 85 (delapan
-puluh lima) SKS dengan IPK 2 2,75 (dua koma tujuh
+puluh lima) SKS dengan IPK ≥ 2,75 (dua koma tujuh
 lima),
 
-2.apabila mampu mengumpulkan » 85 (delapan
-puluh lima) SKS, tetapi IPK « 2,75 (dua koma tujuh
+2.apabila mampu mengumpulkan > 85 (delapan
+puluh lima) SKS, tetapi IPK < 2,75 (dua koma tujuh
 lima) maka diambil nilai tertinggi sampai sejumlah 85
-(delapan puluh lima) SKS dengan IPK 2 2,75 (dua
+(delapan puluh lima) SKS dengan IPK ≥ 2,75 (dua
 koma tujuh lima).
-c. Tahap INI dilakukan pada akhir program. Selambat-
+c. Tahap III dilakukan pada akhir program. Selambat-
 lambatnya pada akhir semester 14 (empat belas),
 mahasiswa harus sudah mengumpulkan dan lulus
 semua beban sks yang ditetapkan untuk program
-sarjana dan IPK 2 2,00 (dua koma nol nol).
+sarjana dan IPK ≥ 2,00 (dua koma nol nol).
 
 (6) Mahasiswa yang tidak dapat memenuhi ketentuan evaluasi
 dianggap tidak mampu mengikuti kegiatan akademik:
@@ -1712,7 +1711,7 @@ Fakultas atau Program Studi,
 (5) Laporan tugas akhir/skripsi/ prototype wajib melampirkan
 cek plagiasi yang dikeluarkan secara resmi oleh
 Perpustakaan UPN “Veteran” Jawa Timur dan persyaratan
-plagiasi kurang dari 20”4,
+plagiasi kurang dari 20%,
 (6) Beban studi tugas akhir atau skripsi adalah 6 (enam) sampai
 dengan 10 (sepuluh) SKS,
 
@@ -2320,6 +2319,9 @@ kerusuhan, dan lainnya yang sejenis),
 (3) Lama studi yang diperoleh di PTN asal, paling sedikit 2 (dua)
 semester dan/atau paling banyak telah menempuh 4 (empat)
 semester dengan ketentuan sebagai berikut:
+
+Lama Studi 2 (dua) semester Jumlah SKS 40 IPK 2,75;
+Lama Studi 4 (empat) semester Jumlah SKS 72 IPK 2,75;
 
 (4 Lama studi yang telah ditempuh, tetap diperhitungkan
 dalam masa studi pada fakultas/ program studi UPN
