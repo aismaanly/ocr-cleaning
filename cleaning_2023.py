@@ -81,6 +81,8 @@ def parse_document(text: str) -> list[dict]:
     REGEX_AYAT = r"^\(\s*(\d+)\s*\)\s*(.*)"
     REGEX_DEFINISI = r"^(\d+)\.\s*(.*)"
 
+    skip_next_as_kategori = False  # Flag bahwa baris setelah BAB adalah kategori
+
     for raw_line in lines:
         line = raw_line.strip()
         if not line:
@@ -106,16 +108,37 @@ def parse_document(text: str) -> list[dict]:
 
         # BAB
         if re.match(r"^BAB\s+[IVXLC]+\s*$", line, re.I):
+
+            # Simpan ayat sebelumnya
             if buffer and current_ayat is not None:
                 save_ayat(results, buffer, current_bab, current_pasal, current_ayat, chunk_index, kategori)
                 chunk_index += 1
+
             buffer = []
             roman = re.findall(r"[IVXLC]+", line, re.I)[0]
             current_bab = roman_to_int(roman)
             current_pasal = None
             current_ayat = None
             sudah_disimpan = False
+
+            kategori = ""
+            collecting_kategori = True   # mulai ngumpulkan semua kategori
             continue
+
+        # Ambil data kategori (nama bab)
+        if 'collecting_kategori' in locals() and collecting_kategori:
+            # stop jika sudah memasuki Pasal atau Bagian
+            if re.match(r"^(Pasal\s+\d+|Bagian\s+)", line, re.I):
+                collecting_kategori = False
+            else:
+                if line.strip():
+                    if kategori:
+                        kategori += " " + line.strip()
+                    else:
+                        kategori = line.strip()
+                continue
+
+        kategori = kategori.lower()
 
         # PASAL
         pasal_match = re.match(r"^Pasal\s+(\d+)\s*$", line, re.I)
@@ -157,7 +180,6 @@ def parse_document(text: str) -> list[dict]:
             num = int(ayat_match.group(1))
             content = ayat_match.group(2).strip()
 
-            # JIKA PENOMORAN AYAT OCR LONCAT
             if current_ayat is None and num > 1:
                 num = 1
 
@@ -181,13 +203,14 @@ def parse_document(text: str) -> list[dict]:
         if current_ayat is not None:
             buffer.append(line)
 
+    # SIMPAN TERAKHIR
     if buffer and current_ayat is not None and not sudah_disimpan:
         save_ayat(results, buffer, current_bab, current_pasal, current_ayat, chunk_index, kategori)
 
     return results
 
 # =========================================================
-# EKSEKUSI
+# UBAH KE JSON
 # =========================================================
 with open(INPUT_FILE, "r", encoding="utf-8") as f:
     raw = f.read()
