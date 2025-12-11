@@ -69,16 +69,16 @@ Setiap ayat diubah menjadi objek JSON seperti:
 Berikut daftar isu spesifik yang ditemukan pada masing-masing pasal dalam dokumen 2023:
 
 * **Pasal 1** → Sebelum ayat pertama terdapat kalimat; terdapat ayat koma ("ayat 37,39").
-* **Pasal 2** → Penomoran ayat tidak menggunakan format *(1)*.
-* **Pasal 12** → Ayat 3 salah terbaca sebagai ayat 2, membuat parser menganggap sebagai ayat baru.
+* **Pasal 2** → Penomoran ayat tidak menggunakan format (1)
+* **Pasal 12** → Di dalam ayat 3 salah terbaca sebagai ayat 2, membuat parser menganggap sebagai ayat baru.
 * **Pasal 17** → Ayat bercabang dua kali.
 * **Pasal 28** → Terdapat tabel nilai yang mengganggu struktur ayat.
-* **Pasal 34** → Secara formal hanya terdiri dari **1 ayat tanpa penomoran**.
+* **Pasal 34** → Hanya ada 1 ayat.
 * **Pasal 44** → Memuat tabel nilai serta typo huruf "8".
-* **Pasal 47** → Ayat 3 salah terbaca sebagai ayat 2.
+* **Pasal 47** → Di dalam ayat 3 salah terbaca sebagai ayat 2, membuat parser menganggap sebagai ayat baru.
 * **Pasal 50** → Cabang huruf tidak terbaca jelas oleh OCR.
 * **Pasal 59** → Terdapat cabang huruf.
-* **Pasal 60** → Ayat 4 salah terbaca sebagai ayat 3.
+* **Pasal 60** → Di dalam ayat 4 salah terbaca sebagai ayat 3, membuat parser menganggap sebagai ayat baru.
 
 ---
 
