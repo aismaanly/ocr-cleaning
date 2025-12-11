@@ -82,6 +82,11 @@ def parse_document(text: str) -> list[dict]:
 
     collecting_kategori = False
 
+    # ----------------------------------------------
+    # NEW: MODE SUB-POIN (f → 1, 2, 3, 4 tidak boleh bikin ayat)
+    # ----------------------------------------------
+    inside_subpoin = False
+
     for raw_line in lines:
         line = raw_line.strip()
         if not line:
@@ -121,6 +126,9 @@ def parse_document(text: str) -> list[dict]:
 
             kategori = ""
             collecting_kategori = True
+
+            # reset subpoin
+            inside_subpoin = False
             continue
 
         # KATEGORI BAB
@@ -145,6 +153,9 @@ def parse_document(text: str) -> list[dict]:
             current_pasal = int(pasal_match.group(1))
             current_ayat = None
             sudah_disimpan = False
+
+            # reset subpoin
+            inside_subpoin = False
             continue
 
         # KHUSUS PASAL 1
@@ -211,36 +222,45 @@ def parse_document(text: str) -> list[dict]:
             current_ayat = num
             buffer = [content]
             sudah_disimpan = False
+
+            # reset subpoin
+            inside_subpoin = False
             continue
 
-        # huruf a, b, c 
-        if re.match(r"^[abc]\.\s+", line, re.I):
+        # huruf a, b, c, d, e, f
+        huruf_match = re.match(r"^[a-z]\.\s+", line, re.I)
+        if huruf_match:
             buffer.append(line)
+
+            # ----------------------------------------------
+            # KPASAL 34)
+            # ----------------------------------------------
+            inside_subpoin = True
             continue
 
         # ============================================
-        # sub poin (1., 2., 3.)  → PERBAIKAN PASAL 2
+        # FIX UTAMA PASAL 34: SUBPOIN 1, 2, 3, 4
         # ============================================
         ayat_dot_match = re.match(REGEX_AYAT_DOT, line)
         if ayat_dot_match:
             num = int(ayat_dot_match.group(1))
             content = ayat_dot_match.group(2).strip()
 
-            if current_ayat is None:
-                current_ayat = num
-                buffer = [content]
-                sudah_disimpan = False
+            # ------------------------------------------
+            # Jika sedang dalam subpoin → JANGAN bikin ayat baru
+            # ------------------------------------------
+            if inside_subpoin:
+                buffer.append(line)
+                continue
 
-            else:
-                if num > current_ayat:
-                    save_ayat(results, buffer, current_bab, current_pasal, current_ayat, chunk_index, kategori)
-                    chunk_index += 1
-                    current_ayat = num
-                    buffer = [content]
-                    sudah_disimpan = False
-                else:
-                    buffer.append(line)
+            # NORMAL (boleh menjadi ayat)
+            if current_ayat is not None:
+                save_ayat(results, buffer, current_bab, current_pasal, current_ayat, chunk_index, kategori)
+                chunk_index += 1
 
+            current_ayat = num
+            buffer = [content]
+            sudah_disimpan = False
             continue
 
         # PASAL TANPA AYAT
@@ -250,7 +270,7 @@ def parse_document(text: str) -> list[dict]:
             sudah_disimpan = False
             continue
 
-        # LANJUTAN AYAT
+        # LANJUTAN
         if current_ayat is not None:
             buffer.append(line)
 
